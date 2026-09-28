@@ -5,6 +5,8 @@ auction prices with an explainable ML model, surfaces value-for-money picks,
 and ranks franchise spend efficiency — through an interactive Streamlit
 dashboard.
 
+**Live app:** [cric-auction-iq.streamlit.app](https://cric-auction-iq.streamlit.app/)
+
 **Every number below is real and reproducible from this repo.** No stat in
 the dataset is synthetic or derived from price — see
 [`docs/DATA_QUALITY.md`](docs/DATA_QUALITY.md) for exactly what's real, what's
@@ -177,9 +179,8 @@ name in force at the time — a deliberate choice, documented in the app.
 - **Missing stats are real, not filled.** A pure bowler has no batting
   average on record — it's left as `NaN` with an explicit `_missing` flag,
   not a fabricated league-average substitute. See `docs/DATA_QUALITY.md`.
-- **No deployment yet.** This runs locally (`streamlit run`). If you deploy
-  it (e.g. Streamlit Community Cloud), update this section with the real URL
-  — don't claim a live link that doesn't exist.
+- **Deployed on Streamlit Community Cloud:** [cric-auction-iq.streamlit.app](https://cric-auction-iq.streamlit.app/).
+  It also runs locally via `streamlit run streamlit_app/app.py` for development.
 - **No CI/CD, no automated tests.** This is a data science / BI project, not
   a production service — say so plainly if asked.
 
