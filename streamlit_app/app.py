@@ -1,5 +1,5 @@
 """
-IPL Auction Intelligence Dashboard
+Cric Auction IQ Dashboard
 Real, independently-sourced IPL auction + player data (Cricsheet + published
 auction records) -> Random Forest price model + SHAP explainability.
 
@@ -17,7 +17,7 @@ import joblib, json, os, shap
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="IPL Auction Intelligence",
+    page_title="Cric Auction IQ",
     page_icon="🏏",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -215,7 +215,7 @@ def callout(kind, title, body):
 
 # ─── SIDEBAR ──────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## 🏏 IPL Auction Intelligence")
+    st.markdown("## 🏏 Cric Auction IQ")
     st.caption("Real auction data + real ball-by-ball stats — no synthetic numbers")
     st.divider()
 

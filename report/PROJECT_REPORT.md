@@ -1,4 +1,4 @@
-# IPL Auction Intelligence — Business Intelligence Project Report
+# Cric Auction IQ — Business Intelligence Project Report
 
 **Course:** Business Intelligence
 **Tools:** Python · scikit-learn · SHAP · Streamlit · Power BI

@@ -1,4 +1,4 @@
-# IPL Auction Intelligence
+# Cric Auction IQ
 
 A Business Intelligence project on 18 seasons of real IPL auction data: predicts
 auction prices with an explainable ML model, surfaces value-for-money picks,

@@ -1,5 +1,5 @@
 """
-IPL Auction Intelligence — Training Pipeline
+Cric Auction IQ — Training Pipeline
 EDA + Feature Engineering + ML Model + SHAP, on real, independently-sourced data.
 
 Two things this pipeline deliberately does NOT do, and why:
@@ -69,7 +69,7 @@ print(f"    Franchises: {df['franchise'].nunique()}")
 print("\n[2] Generating EDA plots...")
 
 fig, axes = plt.subplots(2, 2, figsize=(14, 10), facecolor='white')
-fig.suptitle("IPL Auction Intelligence — Exploratory Data Analysis", fontsize=16, fontweight='bold', y=0.98)
+fig.suptitle("Cric Auction IQ — Exploratory Data Analysis", fontsize=16, fontweight='bold', y=0.98)
 
 ax = axes[0, 0]
 yearly = df.groupby('year')['soldpricecr'].agg(['mean', 'median']).reset_index()

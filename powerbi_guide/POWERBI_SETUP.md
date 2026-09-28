@@ -1,4 +1,4 @@
-# Power BI Setup Guide — IPL Auction Intelligence
+# Power BI Setup Guide — Cric Auction IQ
 
 Follow these steps after running `python data/build_dataset.py` and
 `python notebooks/train_models.py`. Column names below match what those
