@@ -166,7 +166,7 @@ name in force at the time — a deliberate choice, documented in the app.
 
 ---
 
-## Honest limitations (worth knowing before an interview, not just a demo)
+## Honest limitations
 
 - **Value Index is a heuristic, not a validated signal.** It's
   `performance_score ÷ sold_price_cr` using this project's own scoring
@@ -198,31 +198,3 @@ name in force at the time — a deliberate choice, documented in the app.
 
 Python · pandas · NumPy · scikit-learn (RandomForest, GridSearchCV,
 GroupKFold) · SHAP · Streamlit · Plotly · Power BI (guide) · joblib
-
----
-
-## Viva / interview prep
-
-**Q: Why Random Forest and not XGBoost/gradient boosting?**
-RF gives comparable accuracy with more transparent interpretability via
-`shap.TreeExplainer`, and is less prone to overfitting on ~940 rows without
-careful tuning.
-
-**Q: Your R² is 0.33 — is that good?**
-For a market this driven by bidding psychology and franchise-specific need,
-yes — it means real, independently-measured performance stats explain about a
-third of price variance with no leakage. See "Why R² = 0.33" above for the
-full answer, including the leakage bug this replaced.
-
-**Q: What does SHAP tell you here?**
-It assigns each feature a ₹-crore contribution to a specific prediction. For
-example, a low IPL base price is consistently the single biggest downward
-driver in this dataset — because BCCI's own base-price tier is a strong prior
-on how the market will bid.
-
-**Q: How would you improve this with more time?**
-(1) A real outcome-based check for the Value Index — e.g. did "value" picks
-outperform in the following season; (2) an actual optimal-solver budget
-builder (ILP) instead of greedy; (3) live CricAPI/Cricbuzz integration for
-in-season updates; (4) a real, sourced unsold-players list (year-by-year
-recap articles) to finally make sold/unsold classification honest.
