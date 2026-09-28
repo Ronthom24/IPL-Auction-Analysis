@@ -1,0 +1,1647 @@
+player,country,role_raw,base_price,sold_price,team,season,competition,currency
+Shane Warne,Australia,Bowler,450000.0,450000.0,Rajasthan Royals,2008,IPL,USD
+MS Dhoni,India,Wicketkeeper,400000.0,1500000.0,Chennai Super Kings,2008,IPL,USD
+Adam Gilchrist,Australia,Wicket keeper,300000.0,700000.0,Deccan Chargers,2008,IPL,USD
+Shoaib Akhtar,Pakistan,Bowler,250000.0,425000.0,Kolkata Knight Riders,2008,IPL,USD
+Mahela Jayawardene,Sri Lanka,Batsman,250000.0,475000.0,Kings XI Punjab,2008,IPL,USD
+Muttiah Muralitharan,Sri Lanka,Bowler,250000.0,600000.0,Chennai Super Kings,2008,IPL,USD
+Anil Kumble,India,Bowler,250000.0,500000.0,Royal Challengers Bangalore,2008,IPL,USD
+Glenn McGrath,Australia,Bowler,350000.0,350000.0,Delhi Daredevils,2008,IPL,USD
+Harbhajan Singh,India,Bowler,250000.0,850000.0,Mumbai Indians,2008,IPL,USD
+Sanath Jayasuriya,Sri Lanka,Allrounder,250000.0,975000.0,Mumbai Indians,2008,IPL,USD
+Kumar Sangakkara,Sri Lanka,Wicketkeeper-batsman,250000.0,700000.0,Kings XI Punjab,2008,IPL,USD
+Ricky Ponting,Australia,Batsman,335000.0,400000.0,Kolkata Knight Riders,2008,IPL,USD
+Brett Lee,Australia,Bowler,300000.0,900000.0,Kings XI Punjab,2008,IPL,USD
+Andrew Symonds,Australia,Allrounder,250000.0,1350000.0,Deccan Chargers,2008,IPL,USD
+Michael Hussey,Australia,Batsman,250000.0,250000.0,Chennai Super Kings,2008,IPL,USD
+Daniel Vettori,New Zealand,Bowler,250000.0,625000.0,Delhi Daredevils,2008,IPL,USD
+Matthew Hayden,Australia,Batsman,225000.0,375000.0,Chennai Super Kings,2008,IPL,USD
+Brendon McCullum,New Zealand,Wicketkeeper,175000.0,700000.0,Kolkata Knight Riders,2008,IPL,USD
+Jacob Oram,New Zealand,Allrounder,200000.0,675000.0,Chennai Super Kings,2008,IPL,USD
+Stephen Fleming,New Zealand,Batsman,350000.0,350000.0,Chennai Super Kings,2008,IPL,USD
+Graeme Smith,South Africa,Batsman,250000.0,250000.0,Rajasthan Royals,2008,IPL,USD
+Herschelle Gibbs,South Africa,Batsman,250000.0,575000.0,Deccan Chargers,2008,IPL,USD
+Chris Gayle,West Indies,Allrounder,250000.0,800000.0,Kolkata Knight Riders,2008,IPL,USD
+Shoaib Malik,Pakistan,Allrounder,300000.0,500000.0,Delhi Daredevils,2008,IPL,USD
+Shahid Afridi,Pakistan,Allrounder,225000.0,675000.0,Deccan Chargers,2008,IPL,USD
+Younis Khan,Pakistan,Batsman,225000.0,225000.0,Rajasthan Royals,2008,IPL,USD
+Mohammad Asif,Pakistan,Bowler,225000.0,650000.0,Delhi Daredevils,2008,IPL,USD
+Jacques Kallis,South Africa,Allrounder,225000.0,900000.0,Royal Challengers Bangalore,2008,IPL,USD
+Zaheer Khan,India,Bowler,200000.0,450000.0,Royal Challengers Bangalore,2008,IPL,USD
+Sreesanth,India,Bowler,200000.0,625000.0,Kings XI Punjab,2008,IPL,USD
+Dinesh Karthik,India,Wicketkeeper,200000.0,525000.0,Delhi Daredevils,2008,IPL,USD
+AB de Villiers,South Africa,Wicketkeeper,200000.0,300000.0,Delhi Daredevils,2008,IPL,USD
+Mark Boucher,South Africa,Wicketkeeper,200000.0,450000.0,Royal Challengers Bangalore,2008,IPL,USD
+Parthiv Patel,India,Wicketkeeper,150000.0,325000.0,Chennai Super Kings,2008,IPL,USD
+Kamran Akmal,Pakistan,Wicketkeeper,150000.0,150000.0,Rajasthan Royals,2008,IPL,USD
+Tatenda Taibu,Zimbabwe,Wicketkeeper,125000.0,125000.0,Kolkata Knight Riders,2008,IPL,USD
+Albie Morkel,South Africa,Allrounder,225000.0,675000.0,Chennai Super Kings,2008,IPL,USD
+Ajit Agarkar,India,Allrounder,200000.0,350000.0,Kolkata Knight Riders,2008,IPL,USD
+Shaun Pollock,South Africa,Allrounder,200000.0,550000.0,Mumbai Indians,2008,IPL,USD
+Irfan Pathan,India,Allrounder,200000.0,925000.0,Kings XI Punjab,2008,IPL,USD
+Scott Styris,New Zealand,Allrounder,175000.0,175000.0,Deccan Chargers,2008,IPL,USD
+Farveez Maharoof,Sri Lanka,Allrounder,150000.0,225000.0,Delhi Daredevils,2008,IPL,USD
+Tillakaratne Dilshan,Sri Lanka,Allrounder,152000.0,250000.0,Delhi Daredevils,2008,IPL,USD
+Cameron White,Australia,Allrounder,100000.0,500000.0,Royal Challengers Bangalore,2008,IPL,USD
+Yusuf Pathan,India,Allrounder,100000.0,475000.0,Rajasthan Royals,2008,IPL,USD
+Joginder Sharma,India,Allrounder,100000.0,225000.0,Chennai Super Kings,2008,IPL,USD
+Ramnaresh Sarwan,West Indies,Batsman,225000.0,225000.0,Kings XI Punjab,2008,IPL,USD
+Simon Katich,Australia,Batsman,200000.0,200000.0,Kings XI Punjab,2008,IPL,USD
+Justin Langer,Australia,Batsman,200000.0,200000.0,Rajasthan Royals,2008,IPL,USD
+Gautam Gambhir,India,Batsman,220000.0,725000.0,Delhi Daredevils,2008,IPL,USD
+Robin Uthappa,India,Batsman,200000.0,800000.0,Mumbai Indians,2008,IPL,USD
+Shivnarine Chanderpaul,West Indies,Batsman,200000.0,200000.0,Royal Challengers Bangalore,2008,IPL,USD
+VVS Laxman,India,Batsman,150000.0,375000.0,Deccan Chargers,2008,IPL,USD
+Wasim Jaffer,India,Batsman,150000.0,150000.0,Royal Challengers Bangalore,2008,IPL,USD
+Rohit Sharma,India,Batsman,150000.0,750000.0,Deccan Chargers,2008,IPL,USD
+Loots Bosman,South Africa,Batsman,150000.0,175000.0,Mumbai Indians,2008,IPL,USD
+Mohammad Kaif,India,Batsman,125000.0,675000.0,Rajasthan Royals,2008,IPL,USD
+Suresh Raina,India,Batsman,125000.0,650000.0,Chennai Super Kings,2008,IPL,USD
+Manoj Tiwary,India,Batsman,100000.0,675000.0,Delhi Daredevils,2008,IPL,USD
+Chamara Silva,Sri Lanka,Batsman,100000.0,100000.0,Deccan Chargers,2008,IPL,USD
+David Hussey,Australia,Batsman,100000.0,625000.0,Kolkata Knight Riders,2008,IPL,USD
+Nathan Bracken,Australia,Bowler,225000.0,325000.0,Royal Challengers Bangalore,2008,IPL,USD
+R P Singh,India,Bowler,200000.0,875000.0,Deccan Chargers,2008,IPL,USD
+Murali Kartik,India,Bowler,200000.0,425000.0,Kolkata Knight Riders,2008,IPL,USD
+Makhaya Ntini,South Africa,Bowler,200000.0,200000.0,Chennai Super Kings,2008,IPL,USD
+Lasith Malinga,Sri Lanka,Bowler,200000.0,350000.0,Mumbai Indians,2008,IPL,USD
+Chaminda Vaas,Sri Lanka,Bowler,200000.0,200000.0,Deccan Chargers,2008,IPL,USD
+Ramesh Powar,India,Bowler,150000.0,170000.0,Kings XI Punjab,2008,IPL,USD
+Umar Gul,Pakistan,Bowler,150000.0,150000.0,Kolkata Knight Riders,2008,IPL,USD
+Dale Steyn,South Africa,Bowler,150000.0,325000.0,Royal Challengers Bangalore,2008,IPL,USD
+Dilhara Fernando,Sri Lanka,Bowler,150000.0,150000.0,Mumbai Indians,2008,IPL,USD
+Ishant Sharma,India,Bowler,150000.0,950000.0,Kolkata Knight Riders,2008,IPL,USD
+Piyush Chawla,India,Bowler,125000.0,400000.0,Kings XI Punjab,2008,IPL,USD
+Munaf Patel,India,Bowler,100000.0,275000.0,Rajasthan Royals,2008,IPL,USD
+Nuwan Zoysa,Sri Lanka,Bowler,100000.0,110000.0,Deccan Chargers,2008,IPL,USD
+Morne Morkel,South Africa,Bowler,,60000.0,Rajasthan Royals,2008,IPL,USD
+Ashwell Prince,South Africa,Batsman,,175000.0,Mumbai Indians,2008,IPL,USD
+Kyle Mills,New Zealand,Bowler,,150000.0,Kings XI Punjab,2008,IPL,USD
+Mohammad Hafeez,Pakistan,All-rounder,,100000.0,Kolkata Knight Riders,2008,IPL,USD
+Ross Taylor,New Zealand,Batsman,,100000.0,Royal Challengers Bangalore,2008,IPL,USD
+Shane Watson,Australia,Allrounder,,125000.0,Rajasthan Royals,2008,IPL,USD
+James Hopes,Australia,Allrounder,,300000.0,Kings XI Punjab,2008,IPL,USD
+Brett Geeves,Australia,Bowler,,50000.0,Delhi Daredevils,2008,IPL,USD
+Luke Pomersbach,Australia,Batsman,,50000.0,Kings XI Punjab,2008,IPL,USD
+Misbah-ul-Haq,Pakistan,Batsman,,125000.0,Royal Challengers Bangalore,2008,IPL,USD
+Salman Butt,Pakistan,Batsman,,100000.0,Kolkata Knight Riders,2008,IPL,USD
+Dimitri Mascarenhas,England,Allrounder,,100000.0,Rajasthan Royals,2008,IPL,USD
+Sohail Tanvir,Pakistan,Bowler,,100000.0,Rajasthan Royals,2008,IPL,USD
+Abdur Razzak,Bangladesh,Bowler,,50000.0,Royal Challengers Bangalore,2008,IPL,USD
+Shaun Tait,,,250000.0,375000.0,Rajasthan Royals,2009,IPL,USD
+JP Duminy,,,300000.0,950000.0,Mumbai Indians,2009,IPL,USD
+Andrew Flintoff,,,950000.0,1550000.0,Chennai Super Kings,2009,IPL,USD
+Kevin Pietersen,,,1350000.0,1550000.0,Royal Challengers Bangalore,2009,IPL,USD
+Fidel Edwards,,,150000.0,150000.0,Deccan Chargers,2009,IPL,USD
+Owais Shah,,,150000.0,275000.0,Delhi Daredevils,2009,IPL,USD
+Paul Collingwood,,,250000.0,275000.0,Delhi Daredevils,2009,IPL,USD
+Tyron Henderson,,,100000.0,650000.0,Rajasthan Royals,2009,IPL,USD
+Ravi Bopara,,,150000.0,450000.0,Kings XI Punjab,2009,IPL,USD
+Thilan Thushara,,,100000.0,140000.0,Chennai Super Kings,2009,IPL,USD
+Jesse Ryder,,,100000.0,160000.0,Royal Challengers Bangalore,2009,IPL,USD
+Kyle Mills,,,150000.0,150000.0,Mumbai Indians,2009,IPL,USD
+Dwayne Smith,,,100000.0,100000.0,Deccan Chargers,2009,IPL,USD
+Jerome Taylor,,,150000.0,150000.0,Kings XI Punjab,2009,IPL,USD
+Mohammad Ashraful,,,75000.0,75000.0,Mumbai Indians,2009,IPL,USD
+Mashrafe Mortaza,,,50000.0,600000.0,Kolkata Knight Riders,2009,IPL,USD
+George Bailey,,,50000.0,50000.0,Chennai Super Kings,2009,IPL,USD
+Shane Bond,,,100000.0,750000.0,Kolkata Knight Riders,2010,IPL,USD
+Kieron Pollard,,,200000.0,750000.0,Mumbai Indians,2010,IPL,USD
+Kemar Roach,,,100000.0,720000.0,Deccan Chargers,2010,IPL,USD
+Wayne Parnell,,,200000.0,610000.0,Delhi Daredevils,2010,IPL,USD
+Mohammad Kaif,,,100000.0,250000.0,Kings XI Punjab,2010,IPL,USD
+Eoin Morgan,,,200000.0,220000.0,Royal Challengers Bangalore,2010,IPL,USD
+Damien Martyn,,,100000.0,100000.0,Rajasthan Royals,2010,IPL,USD
+Justin Kemp,,,100000.0,100000.0,Chennai Super Kings,2010,IPL,USD
+Thissara Perera,,,50000.0,50000.0,Chennai Super Kings,2010,IPL,USD
+Adam Voges,,,50000.0,50000.0,Rajasthan Royals,2010,IPL,USD
+Yusuf Abdulla,,,50000.0,50000.0,Kings XI Punjab,2010,IPL,USD
+Gautam Gambhir,,,200000.0,2400000.0,Kolkata Knight Riders,2011,IPL,USD
+Yusuf Pathan,,,300000.0,2100000.0,Kolkata Knight Riders,2011,IPL,USD
+Robin Uthappa,,,200000.0,2100000.0,Pune Warriors India,2011,IPL,USD
+Rohit Sharma,,,200000.0,2000000.0,Mumbai Indians,2011,IPL,USD
+Irfan Pathan,,,200000.0,1900000.0,Delhi Daredevils,2011,IPL,USD
+Yuvraj Singh,,,400000.0,1800000.0,Pune Warriors India,2011,IPL,USD
+Saurabh Tiwary,,,100000.0,1600000.0,Royal Challengers Bangalore,2011,IPL,USD
+Mahela Jayawardene,,,400000.0,1500000.0,Kochi Tuskers Kerala,2011,IPL,USD
+David Hussey,,,200000.0,1400000.0,Kings XI Punjab,2011,IPL,USD
+Dale Steyn,,,200000.0,1200000.0,Deccan Chargers,2011,IPL,USD
+Muttiah Muralitharan,,,300000.0,1100000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Cameron White,,,300000.0,1100000.0,Deccan Chargers,2011,IPL,USD
+Jacques Kallis,,,300000.0,1100000.0,Kolkata Knight Riders,2011,IPL,USD
+AB de Villiers,,,400000.0,1100000.0,Royal Challengers Bangalore,2011,IPL,USD
+Ross Taylor,,,400000.0,1000000.0,Rajasthan Royals,2011,IPL,USD
+Angelo Mathews,,,200000.0,950000.0,Pune Warriors India,2011,IPL,USD
+Ravindra Jadeja,,,100000.0,950000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Johan Botha,,,200000.0,950000.0,Rajasthan Royals,2011,IPL,USD
+Dinesh Karthik,,,200000.0,900000.0,Kings XI Punjab,2011,IPL,USD
+Piyush Chawla,,,100000.0,900000.0,Kings XI Punjab,2011,IPL,USD
+Sreesanth,,,200000.0,900000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Adam Gilchrist,,,400000.0,900000.0,Kings XI Punjab,2011,IPL,USD
+Zaheer Khan,,,300000.0,900000.0,Royal Challengers Bangalore,2011,IPL,USD
+Dan Christian,,,50000.0,900000.0,Deccan Chargers,2011,IPL,USD
+Ravichandran Ashwin,,,100000.0,850000.0,Chennai Super Kings,2011,IPL,USD
+Ashish Nehra,,,200000.0,850000.0,Pune Warriors India,2011,IPL,USD
+Andrew Symonds,,,300000.0,850000.0,Mumbai Indians,2011,IPL,USD
+Subramaniam Badrinath,,,100000.0,800000.0,Chennai Super Kings,2011,IPL,USD
+Praveen Kumar,,,200000.0,800000.0,Kings XI Punjab,2011,IPL,USD
+Abhishek Nayar,,,50000.0,800000.0,Kings XI Punjab,2011,IPL,USD
+David Warner,,,200000.0,750000.0,Delhi Daredevils,2011,IPL,USD
+Umesh Yadav,,,50000.0,750000.0,Delhi Daredevils,2011,IPL,USD
+Munaf Patel,,,100000.0,700000.0,Mumbai Indians,2011,IPL,USD
+Venugopal Rao,,,100000.0,700000.0,Delhi Daredevils,2011,IPL,USD
+Kumar Sangakkara,,,300000.0,700000.0,Deccan Chargers,2011,IPL,USD
+Cheteshwar Pujara,,,100000.0,700000.0,Royal Challengers Bangalore,2011,IPL,USD
+Doug Bollinger,,,200000.0,700000.0,Chennai Super Kings,2011,IPL,USD
+Dirk Nannes,,,200000.0,650000.0,Royal Challengers Bangalore,2011,IPL,USD
+Tillakaratne Dilshan,,,400000.0,650000.0,Royal Challengers Bangalore,2011,IPL,USD
+Kevin Pietersen,,,400000.0,650000.0,Deccan Chargers,2011,IPL,USD
+Daniel Vettori,,,400000.0,550000.0,Royal Challengers Bangalore,2011,IPL,USD
+Pragyan Ojha,,,200000.0,500000.0,Deccan Chargers,2011,IPL,USD
+Rahul Dravid,,,400000.0,500000.0,Rajasthan Royals,2011,IPL,USD
+Graeme Smith,,,400000.0,500000.0,Pune Warriors India,2011,IPL,USD
+RP Singh,,,200000.0,500000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Lakshmipathy Balaji,,,100000.0,500000.0,Kolkata Knight Riders,2011,IPL,USD
+Manoj Tiwari,,,100000.0,475000.0,Kolkata Knight Riders,2011,IPL,USD
+Morné Morkel,,,100000.0,475000.0,Delhi Daredevils,2011,IPL,USD
+Brendon McCullum,,,400000.0,475000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Vinay Kumar,,,100000.0,475000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Ishant Sharma,,,200000.0,450000.0,Deccan Chargers,2011,IPL,USD
+Brad Hodge,,,200000.0,425000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Shakib Al Hasan,,,200000.0,425000.0,Kolkata Knight Riders,2011,IPL,USD
+Michael Hussey,,,200000.0,425000.0,Chennai Super Kings,2011,IPL,USD
+Brett Lee,,,400000.0,400000.0,Kolkata Knight Riders,2011,IPL,USD
+Shaun Marsh,,,400000.0,400000.0,Kings XI Punjab,2011,IPL,USD
+Stuart Broad,,,400000.0,400000.0,Kings XI Punjab,2011,IPL,USD
+VVS Laxman,,,300000.0,400000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Murali Kartik,,,200000.0,400000.0,Pune Warriors India,2011,IPL,USD
+Ashok Dinda,,,100000.0,375000.0,Delhi Daredevils,2011,IPL,USD
+Eoin Morgan,,,200000.0,350000.0,Kolkata Knight Riders,2011,IPL,USD
+James Hopes,,,200000.0,350000.0,Delhi Daredevils,2011,IPL,USD
+Ryan Harris,,,200000.0,325000.0,Kings XI Punjab,2011,IPL,USD
+Brad Haddin,,,200000.0,325000.0,Kolkata Knight Riders,2011,IPL,USD
+Callum Ferguson,,,200000.0,300000.0,Pune Warriors India,2011,IPL,USD
+Aaron Finch,,,100000.0,300000.0,Delhi Daredevils,2011,IPL,USD
+Amit Mishra,,,100000.0,300000.0,Deccan Chargers,2011,IPL,USD
+Shikhar Dhawan,,,100000.0,300000.0,Deccan Chargers,2011,IPL,USD
+JP Duminy,,,200000.0,300000.0,Deccan Chargers,2011,IPL,USD
+Shaun Tait,,,300000.0,300000.0,Rajasthan Royals,2011,IPL,USD
+Parthiv Patel,,,100000.0,290000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Mitchell Marsh,,,100000.0,290000.0,Pune Warriors India,2011,IPL,USD
+Manpreet Gony,,,50000.0,290000.0,Deccan Chargers,2011,IPL,USD
+Naman Ojha,,,100000.0,270000.0,Delhi Daredevils,2011,IPL,USD
+Tim Paine,,,100000.0,270000.0,Pune Warriors India,2011,IPL,USD
+Abhimanyu Mithun,,,100000.0,260000.0,Royal Challengers Bangalore,2011,IPL,USD
+Jaydev Unadkat,,,50000.0,250000.0,Kolkata Knight Riders,2011,IPL,USD
+Paul Collingwood,,,200000.0,250000.0,Rajasthan Royals,2011,IPL,USD
+Sudeep Tyagi,,,50000.0,240000.0,Chennai Super Kings,2011,IPL,USD
+Ajit Agarkar,,,100000.0,210000.0,Delhi Daredevils,2011,IPL,USD
+Steve Smith,,,200000.0,200000.0,Pune Warriors India,2011,IPL,USD
+Dwayne Bravo,,,200000.0,200000.0,Chennai Super Kings,2011,IPL,USD
+Owais Shah,,,200000.0,200000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Scott Styris,,,100000.0,200000.0,Chennai Super Kings,2011,IPL,USD
+Davy Jacobs,,,20000.0,190000.0,Mumbai Indians,2011,IPL,USD
+Ramesh Powar,,,100000.0,180000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Wayne Parnell,,,100000.0,160000.0,Pune Warriors India,2011,IPL,USD
+Ryan ten Doeschate,,,50000.0,150000.0,Kolkata Knight Riders,2011,IPL,USD
+Jesse Ryder,,,100000.0,150000.0,Pune Warriors India,2011,IPL,USD
+Joginder Sharma,,,100000.0,150000.0,Chennai Super Kings,2011,IPL,USD
+Charl Langeveldt,,,100000.0,140000.0,Royal Challengers Bangalore,2011,IPL,USD
+Mohammad Kaif,,,100000.0,130000.0,Royal Challengers Bangalore,2011,IPL,USD
+Francois du Plessis,,,20000.0,120000.0,Chennai Super Kings,2011,IPL,USD
+Clint McKay,,,100000.0,110000.0,Mumbai Indians,2011,IPL,USD
+Nathan McCullum,,,100000.0,100000.0,Pune Warriors India,2011,IPL,USD
+James Franklin,,,100000.0,100000.0,Mumbai Indians,2011,IPL,USD
+Wriddhiman Saha,,,100000.0,100000.0,Chennai Super Kings,2011,IPL,USD
+Jerome Taylor,,,100000.0,100000.0,Pune Warriors India,2011,IPL,USD
+James Pattinson,,,100000.0,100000.0,Kolkata Knight Riders,2011,IPL,USD
+Alfonso Thomas,,,50000.0,100000.0,Pune Warriors India,2011,IPL,USD
+Nuwan Kulasekara,,,100000.0,100000.0,Chennai Super Kings,2011,IPL,USD
+Matthew Wade,,,100000.0,100000.0,Delhi Daredevils,2011,IPL,USD
+Dimitri Mascarenhas,,,100000.0,100000.0,Kings XI Punjab,2011,IPL,USD
+Colin Ingram,,,100000.0,100000.0,Delhi Daredevils,2011,IPL,USD
+Ben Hilfenhaus,,,100000.0,100000.0,Chennai Super Kings,2011,IPL,USD
+Pankaj Singh,,,50000.0,95000.0,Rajasthan Royals,2011,IPL,USD
+Rusty Theron,,,50000.0,85000.0,Deccan Chargers,2011,IPL,USD
+Suraj Randiv,,,50000.0,80000.0,Chennai Super Kings,2011,IPL,USD
+John Hastings,,,20000.0,20000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Andrew McDonald,,,50000.0,80000.0,Delhi Daredevils,2011,IPL,USD
+Thissara Perera,,,50000.0,80000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Michael Lumb,,,50000.0,80000.0,Deccan Chargers,2011,IPL,USD
+Michael Klinger,,,20000.0,75000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Johan van der Wath,,,50000.0,50000.0,Royal Challengers Bangalore,2011,IPL,USD
+Moises Henriques,,,50000.0,50000.0,Mumbai Indians,2011,IPL,USD
+George Bailey,,,50000.0,50000.0,Chennai Super Kings,2011,IPL,USD
+Roelof van der Merwe,,,50000.0,50000.0,Delhi Daredevils,2011,IPL,USD
+Luke Pomersbach,,,20000.0,50000.0,Royal Challengers Bangalore,2011,IPL,USD
+Rilee Rossouw,,,20000.0,20000.0,Royal Challengers Bangalore,2011,IPL,USD
+Nuwan Pradeep,,,20000.0,20000.0,Royal Challengers Bangalore,2011,IPL,USD
+Chris Lynn,,,20000.0,20000.0,Deccan Chargers,2011,IPL,USD
+Travis Birt,,,20000.0,20000.0,Delhi Daredevils,2011,IPL,USD
+Nathan Rimmington,,,20000.0,20000.0,Kings XI Punjab,2011,IPL,USD
+Jonathan Vandiar,,,20000.0,20000.0,Royal Challengers Bangalore,2011,IPL,USD
+Aiden Blizzard,,,20000.0,20000.0,Mumbai Indians,2011,IPL,USD
+Robert Frylinck,,,20000.0,20000.0,Delhi Daredevils,2011,IPL,USD
+Stephen O'Keefe,,,20000.0,20000.0,Kochi Tuskers Kerala,2011,IPL,USD
+Brendon McCullum,,,400000.0,900000.0,Kolkata Knight Riders,2012,IPL,USD
+Ravindra Jadeja,,,100000.0,2000000.0,Chennai Super Kings,2012,IPL,USD
+Muttiah Muralitharan,,,200000.0,220000.0,Royal Challengers Bangalore,2012,IPL,USD
+Mahela Jayawardene,,,300000.0,1400000.0,Delhi Daredevils,2012,IPL,USD
+Herschelle Gibbs,,,50000.0,50000.0,Mumbai Indians,2012,IPL,USD
+Brad Hodge,,,200000.0,475000.0,Rajasthan Royals,2012,IPL,USD
+Parthiv Patel,,,200000.0,650000.0,Deccan Chargers,2012,IPL,USD
+Dinesh Chandimal,,,50000.0,50000.0,Rajasthan Royals,2012,IPL,USD
+Andre Russell,,,50000.0,450000.0,Delhi Daredevils,2012,IPL,USD
+Mitchell Johnson,,,300000.0,300000.0,Mumbai Indians,2012,IPL,USD
+R. P. Singh,,,200000.0,600000.0,Mumbai Indians,2012,IPL,USD
+Vinay Kumar,,,100000.0,1000000.0,Royal Challengers Bangalore,2012,IPL,USD
+Sreesanth,,,400000.0,400000.0,Rajasthan Royals,2012,IPL,USD
+Ramesh Powar,,,100000.0,160000.0,Kings XI Punjab,2012,IPL,USD
+Brad Hogg,,,100000.0,180000.0,Rajasthan Royals,2012,IPL,USD
+Sunil Narine,,,50000.0,700000.0,Kolkata Knight Riders,2012,IPL,USD
+Robin Peterson,,,100000.0,100000.0,Mumbai Indians,2012,IPL,USD
+Daniel Harris,,,50000.0,70000.0,Deccan Chargers,2012,IPL,USD
+Kevon Cooper,,,50000.0,50000.0,Rajasthan Royals,2012,IPL,USD
+James Faulkner,,,100000.0,190000.0,Kings XI Punjab,2012,IPL,USD
+Azhar Mahmood,,,100000.0,200000.0,Kings XI Punjab,2012,IPL,USD
+Thisara Perera,,,50000.0,650000.0,Mumbai Indians,2012,IPL,USD
+Marchant de Lange,,,50000.0,50000.0,Kolkata Knight Riders,2012,IPL,USD
+Darren Bravo,,,100000.0,100000.0,Deccan Chargers,2012,IPL,USD
+Doug Bracewell,,,50000.0,50000.0,Delhi Daredevils,2012,IPL,USD
+Christopher Barnwell,,,50000.0,50000.0,Royal Challengers Bangalore,2013,IPL,USD
+Johan Botha,,,300000.0,450000.0,Delhi Daredevils,2013,IPL,USD
+Daniel Christian,,,100000.0,100000.0,Royal Challengers Bangalore,2013,IPL,USD
+Michael Clarke,,,400000.0,400000.0,Pune Warriors India,2013,IPL,USD
+Nathan Coulter-Nile,,,100000.0,450000.0,Mumbai Indians,2013,IPL,USD
+Akila Dananjaya,,,20000.0,20000.0,Chennai Super Kings,2013,IPL,USD
+Quinton de Kock,,,20000.0,20000.0,Sunrisers Hyderabad,2013,IPL,USD
+Fidel Edwards,,,100000.0,210000.0,Rajasthan Royals,2013,IPL,USD
+James Faulkner,,,100000.0,400000.0,Rajasthan Royals,2013,IPL,USD
+Manpreet Gony,,,200000.0,500000.0,Kings XI Punjab,2013,IPL,USD
+Moisés Henriques,,,100000.0,300000.0,Royal Challengers Bangalore,2013,IPL,USD
+Jason Holder,,,20000.0,20000.0,Chennai Super Kings,2013,IPL,USD
+Phillip Hughes,,,100000.0,100000.0,Mumbai Indians,2013,IPL,USD
+Ben Laughlin,,,20000.0,20000.0,Chennai Super Kings,2013,IPL,USD
+Glenn Maxwell,,,200000.0,1000000.0,Mumbai Indians,2013,IPL,USD
+Nathan McCullum,,,100000.0,100000.0,Sunrisers Hyderabad,2013,IPL,USD
+Clint McKay,,,100000.0,100000.0,Sunrisers Hyderabad,2013,IPL,USD
+Ryan McLaren,,,50000.0,50000.0,Kolkata Knight Riders,2013,IPL,USD
+Ajantha Mendis,,,50000.0,725000.0,Pune Warriors India,2013,IPL,USD
+Jeevan Mendis,,,50000.0,50000.0,Delhi Daredevils,2013,IPL,USD
+Chris Morris,,,20000.0,625000.0,Chennai Super Kings,2013,IPL,USD
+Dirk Nannes,,,200000.0,600000.0,Chennai Super Kings,2013,IPL,USD
+Abhishek Nayar,,,100000.0,675000.0,Pune Warriors India,2013,IPL,USD
+Jacob Oram,,,50000.0,50000.0,Mumbai Indians,2013,IPL,USD
+Kusal Perera,,,20000.0,20000.0,Rajasthan Royals,2013,IPL,USD
+Thisara Perera,,,50000.0,675000.0,Sunrisers Hyderabad,2013,IPL,USD
+Luke Pomersbach,,,50000.0,300000.0,Kings XI Punjab,2013,IPL,USD
+Ricky Ponting,,,400000.0,400000.0,Mumbai Indians,2013,IPL,USD
+Ravi Rampaul,,,50000.0,290000.0,Royal Challengers Bangalore,2013,IPL,USD
+Kane Richardson,,,100000.0,700000.0,Pune Warriors India,2013,IPL,USD
+Jesse Ryder,,,100000.0,260000.0,Delhi Daredevils,2013,IPL,USD
+Darren Sammy,,,100000.0,425000.0,Sunrisers Hyderabad,2013,IPL,USD
+Sachithra Senanayake,,,50000.0,625000.0,Kolkata Knight Riders,2013,IPL,USD
+Pankaj Singh,,,50000.0,150000.0,Royal Challengers Bangalore,2013,IPL,USD
+R. P. Singh,,,100000.0,400000.0,Royal Challengers Bangalore,2013,IPL,USD
+Sudeep Tyagi,,,100000.0,100000.0,Sunrisers Hyderabad,2013,IPL,USD
+Jaydev Unadkat,,,100000.0,525000.0,Royal Challengers Bangalore,2013,IPL,USD
+Mitchell Johnson,Australia,,200.0,650.0,Kings XI Punjab,2014,IPL,INR_LACS
+Jacques Kallis,South Africa,,200.0,550.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Kevin Pietersen,England,,200.0,900.0,Delhi Daredevils,2014,IPL,INR_LACS
+Virender Sehwag,India,,200.0,320.0,Kings XI Punjab,2014,IPL,INR_LACS
+Yuvraj Singh,India,,200.0,1400.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Murali Vijay,India,,200.0,500.0,Delhi Daredevils,2014,IPL,INR_LACS
+David Warner,Australia,,150.0,550.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+George Bailey,Australia,,200.0,325.0,Kings XI Punjab,2014,IPL,INR_LACS
+Faf du Plessis,South Africa,,150.0,475.0,Chennai Super Kings,2014,IPL,INR_LACS
+Michael Hussey,Australia,,200.0,500.0,Mumbai Indians,2014,IPL,INR_LACS
+Dinesh Karthik,India,,200.0,1250.0,Delhi Daredevils,2014,IPL,INR_LACS
+Zaheer Khan,India,,100.0,260.0,Mumbai Indians,2014,IPL,INR_LACS
+Brendon McCullum,New Zealand,,200.0,325.0,Chennai Super Kings,2014,IPL,INR_LACS
+Amit Mishra,India,,200.0,475.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Darren Sammy,Saint Lucia,,100.0,350.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Jean-Paul Duminy,South Africa,,100.0,220.0,Delhi Daredevils,2014,IPL,INR_LACS
+Aaron Finch,Australia,,100.0,400.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Brad Hodge,Australia,,200.0,240.0,Rajasthan Royals,2014,IPL,INR_LACS
+Shaun Marsh,Australia,,200.0,220.0,Kings XI Punjab,2014,IPL,INR_LACS
+Cheteshwar Pujara,India,,150.0,190.0,Kings XI Punjab,2014,IPL,INR_LACS
+Dwayne Smith,Barbados,,150.0,450.0,Chennai Super Kings,2014,IPL,INR_LACS
+Ross Taylor,New Zealand,,200.0,200.0,Delhi Daredevils,2014,IPL,INR_LACS
+Manoj Tiwary,India,,200.0,280.0,Delhi Daredevils,2014,IPL,INR_LACS
+Robin Uthappa,India,,200.0,500.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Quinton de Kock,South Africa,,100.0,350.0,Delhi Daredevils,2014,IPL,INR_LACS
+Naman Ojha,India,,50.0,50.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Parthiv Patel,India,,100.0,275.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Wriddhiman Saha,India,,100.0,220.0,Kings XI Punjab,2014,IPL,INR_LACS
+Shakib Al Hasan,Bangladesh,,100.0,280.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Albie Morkel,South Africa,,150.0,240.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Irfan Pathan,India,,150.0,240.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Yusuf Pathan,India,,200.0,325.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Thisara Perera,Sri Lanka,,50.0,160.0,Kings XI Punjab,2014,IPL,INR_LACS
+Steve Smith,Australia,,200.0,400.0,Rajasthan Royals,2014,IPL,INR_LACS
+Ashok Dinda,India,,100.0,150.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Bhuvneshwar Kumar,India,,150.0,425.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Morne Morkel,South Africa,,150.0,280.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Ravi Rampaul,Trinidad and Tobago,,50.0,90.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Mohammed Shami,India,,100.0,425.0,Delhi Daredevils,2014,IPL,INR_LACS
+Ishant Sharma,India,,150.0,425.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Mitchell Starc,Australia,,200.0,500.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Ranganath Vinay Kumar,India,,150.0,280.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Umesh Yadav,India,,100.0,260.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Piyush Chawla,India,,50.0,425.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Murali Kartik,India,,100.0,100.0,Kings XI Punjab,2014,IPL,INR_LACS
+Muttiah Muralitharan,Sri Lanka,,100.0,100.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Pragyan Ojha,India,,200.0,325.0,Mumbai Indians,2014,IPL,INR_LACS
+Rahul Sharma,India,,50.0,190.0,Delhi Daredevils,2014,IPL,INR_LACS
+Nic Maddinson,Australia,,50.0,50.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Saurabh Tiwary,India,,50.0,70.0,Delhi Daredevils,2014,IPL,INR_LACS
+Brendan Taylor,Zimbabwe,,30.0,30.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Corey Anderson,New Zealand,,100.0,450.0,Mumbai Indians,2014,IPL,INR_LACS
+Moises Henriques,Australia,,100.0,100.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Glenn Maxwell,Australia,,100.0,600.0,Kings XI Punjab,2014,IPL,INR_LACS
+Abhishek Nayar,India,,30.0,100.0,Rajasthan Royals,2014,IPL,INR_LACS
+Laxmi Ratan Shukla,India,,50.0,150.0,Delhi Daredevils,2014,IPL,INR_LACS
+Andre Russell,Jamaica,,50.0,60.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Varun Aaron,India,,150.0,200.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Parvinder Awana,India,,50.0,65.0,Kings XI Punjab,2014,IPL,INR_LACS
+Lakshmipathy Balaji,India,,50.0,180.0,Kings XI Punjab,2014,IPL,INR_LACS
+Nathan Coulter-Nile,Australia,,100.0,425.0,Delhi Daredevils,2014,IPL,INR_LACS
+Ashish Nehra,India,,200.0,200.0,Chennai Super Kings,2014,IPL,INR_LACS
+Mohit Sharma,India,,100.0,200.0,Chennai Super Kings,2014,IPL,INR_LACS
+Jaydev Unadkat,India,,100.0,280.0,Delhi Daredevils,2014,IPL,INR_LACS
+Samuel Badree,Trinidad and Tobago,,30.0,30.0,Chennai Super Kings,2014,IPL,INR_LACS
+Chris Lynn,Australia,,50.0,130.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Yalaka Venugopal Rao,India,,30.0,55.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+John Hastings,Australia,,50.0,50.0,Chennai Super Kings,2014,IPL,INR_LACS
+James Neesham,New Zealand,,30.0,100.0,Delhi Daredevils,2014,IPL,INR_LACS
+Ben Cutting,Australia,,50.0,80.0,Rajasthan Royals,2014,IPL,INR_LACS
+Josh Hazlewood,Australia,,50.0,50.0,Mumbai Indians,2014,IPL,INR_LACS
+Ben Hilfenhaus,Australia,,100.0,100.0,Chennai Super Kings,2014,IPL,INR_LACS
+Jason Holder,Barbados,,50.0,75.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Kane Richardson,Australia,,100.0,100.0,Rajasthan Royals,2014,IPL,INR_LACS
+Tim Southee,New Zealand,,50.0,120.0,Rajasthan Royals,2014,IPL,INR_LACS
+Patrick Cummins,Australia,,100.0,100.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Wayne Parnell,South Africa,,100.0,100.0,Delhi Daredevils,2014,IPL,INR_LACS
+Marchant de Lange,South Africa,,30.0,30.0,Mumbai Indians,2014,IPL,INR_LACS
+Krishmar Santokie,Jamaica,,30.0,30.0,Mumbai Indians,2014,IPL,INR_LACS
+Matt Henry,New Zealand,,30.0,30.0,Chennai Super Kings,2014,IPL,INR_LACS
+Mayank Agarwal,India,,10.0,160.0,Delhi Daredevils,2014,IPL,INR_LACS
+Srikkanth Anirudha,India,,20.0,20.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Baba Aparajith,India,,10.0,10.0,Chennai Super Kings,2014,IPL,INR_LACS
+Unmukt Chand,India,,30.0,65.0,Rajasthan Royals,2014,IPL,INR_LACS
+Kedar Jadhav,India,,30.0,200.0,Delhi Daredevils,2014,IPL,INR_LACS
+Manprit Juneja,India,,10.0,10.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Gurkeerat Singh,India,,20.0,130.0,Kings XI Punjab,2014,IPL,INR_LACS
+Manish Pandey,India,,20.0,170.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+KL Rahul,India,,10.0,100.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Suryakumar Yadav,India,,20.0,70.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Vijay Zol,India,,30.0,30.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Ankush Bains,India,,10.0,10.0,Rajasthan Royals,2014,IPL,INR_LACS
+Manvinder Bisla,India,,30.0,60.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Debabrata Das,India,,20.0,20.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Ben Dunk,Australia,,20.0,20.0,Mumbai Indians,2014,IPL,INR_LACS
+CM Gautam,India,,20.0,20.0,Mumbai Indians,2014,IPL,INR_LACS
+Sushant Marathe,India,,10.0,10.0,Mumbai Indians,2014,IPL,INR_LACS
+Yogesh Takawale,India,,10.0,10.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Aditya Tare,India,,20.0,160.0,Mumbai Indians,2014,IPL,INR_LACS
+Iqbal Abdullah,India,,30.0,65.0,Rajasthan Royals,2014,IPL,INR_LACS
+Rajat Bhatia,India,,30.0,170.0,Rajasthan Royals,2014,IPL,INR_LACS
+Kevon Cooper,Trinidad and Tobago,,30.0,30.0,Rajasthan Royals,2014,IPL,INR_LACS
+Rishi Dhawan,India,,20.0,300.0,Kings XI Punjab,2014,IPL,INR_LACS
+Mithun Manhas,India,,30.0,30.0,Chennai Super Kings,2014,IPL,INR_LACS
+Parvez Rasool,India,,20.0,95.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Mandeep Singh,India,,30.0,80.0,Kings XI Punjab,2014,IPL,INR_LACS
+Ryan Ten Doeschate,Netherlands,,100.0,100.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Abu Nechim Ahmed,India,,30.0,30.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Jasprit Bumrah,India,,20.0,120.0,Mumbai Indians,2014,IPL,INR_LACS
+Siddarth Kaul,India,,20.0,45.0,Delhi Daredevils,2014,IPL,INR_LACS
+Dhawal Kulkarni,India,,30.0,110.0,Rajasthan Royals,2014,IPL,INR_LACS
+Ishwar Pandey,India,,10.0,150.0,Chennai Super Kings,2014,IPL,INR_LACS
+Prasanth Parameswaran,India,,30.0,30.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Sandeep Sharma,India,,30.0,85.0,Kings XI Punjab,2014,IPL,INR_LACS
+Rahul Shukla,India,,20.0,40.0,Delhi Daredevils,2014,IPL,INR_LACS
+Anureet Singh,India,,20.0,20.0,Kings XI Punjab,2014,IPL,INR_LACS
+Shreyas Gopal,India,,10.0,10.0,Mumbai Indians,2014,IPL,INR_LACS
+Shadab Jakati,India,,20.0,20.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Shahbaz Nadeem,India,,30.0,85.0,Delhi Daredevils,2014,IPL,INR_LACS
+Pawan Negi,India,,10.0,10.0,Chennai Super Kings,2014,IPL,INR_LACS
+Karn Sharma,India,,30.0,375.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Yuzvendra Chahal,India,,10.0,10.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Kuldeep Yadav,India,,10.0,40.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Pravin Tambe,India,,10.0,10.0,Rajasthan Royals,2014,IPL,INR_LACS
+Karun Nair,India,,10.0,75.0,Rajasthan Royals,2014,IPL,INR_LACS
+Apoorv Vijay Wankhade,India,,10.0,10.0,Mumbai Indians,2014,IPL,INR_LACS
+Amit Paunikar,India,,20.0,20.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Dishant Yagnik,India,,30.0,30.0,Rajasthan Royals,2014,IPL,INR_LACS
+Akshar Patel,India,,20.0,75.0,Kings XI Punjab,2014,IPL,INR_LACS
+Jalaj Saxena,India,,20.0,90.0,Mumbai Indians,2014,IPL,INR_LACS
+Vijay Shankar,India,,10.0,10.0,Chennai Super Kings,2014,IPL,INR_LACS
+Beuran Hendricks,South Africa,,30.0,180.0,Kings XI Punjab,2014,IPL,INR_LACS
+Vikramjeet Malik,India,,20.0,20.0,Rajasthan Royals,2014,IPL,INR_LACS
+Ronit More,India,,10.0,10.0,Chennai Super Kings,2014,IPL,INR_LACS
+Harshal Patel,India,,30.0,40.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Veer Pratap Singh,India,,20.0,40.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Ashish Reddy,India,,20.0,20.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Pawan Suyal,India,,10.0,10.0,Mumbai Indians,2014,IPL,INR_LACS
+Sandeep Warrier,India,,10.0,10.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Ankit Nagendra Sharma,India,,10.0,10.0,Rajasthan Royals,2014,IPL,INR_LACS
+Ricky Bhui,India,,10.0,10.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Rahul Tewatia,India,,10.0,10.0,Rajasthan Royals,2014,IPL,INR_LACS
+Jayant Yadav,India,,10.0,10.0,Delhi Daredevils,2014,IPL,INR_LACS
+Sachin Rana,India,,20.0,20.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+HS Sharath,India,,10.0,10.0,Delhi Daredevils,2014,IPL,INR_LACS
+Shivam Sharma,India,,10.0,10.0,Kings XI Punjab,2014,IPL,INR_LACS
+Deepak Hooda,India,,10.0,40.0,Rajasthan Royals,2014,IPL,INR_LACS
+Chama Milind,India,,10.0,10.0,Sunrisers Hyderabad,2014,IPL,INR_LACS
+Shardul Thakur,India,,10.0,20.0,Kings XI Punjab,2014,IPL,INR_LACS
+Tanmay Mishra,India,,10.0,10.0,Royal Challengers Bangalore,2014,IPL,INR_LACS
+Sayan Sekhar Mondal,India,,10.0,10.0,Kolkata Knight Riders,2014,IPL,INR_LACS
+Karanveer Singh,India,,10.0,10.0,Kings XI Punjab,2014,IPL,INR_LACS
+Milind Kumar,India,,10.0,10.0,Delhi Daredevils,2014,IPL,INR_LACS
+Michael Hussey,Australia,,150.0,150.0,Chennai Super Kings,2015,IPL,INR_LACS
+Irfan Pathan,India,,150.0,150.0,Chennai Super Kings,2015,IPL,INR_LACS
+Rahul Sharma,India,,30.0,30.0,Chennai Super Kings,2015,IPL,INR_LACS
+Kyle Abbott,South Africa,,30.0,30.0,Chennai Super Kings,2015,IPL,INR_LACS
+Andrew Tye,Australia,,20.0,20.0,Chennai Super Kings,2015,IPL,INR_LACS
+Pratyush Singh,India,,10.0,10.0,Chennai Super Kings,2015,IPL,INR_LACS
+Ankush Bains,India,,10.0,10.0,Chennai Super Kings,2015,IPL,INR_LACS
+Eklavya Dwivedi,India,,10.0,10.0,Chennai Super Kings,2015,IPL,INR_LACS
+Yuvraj Singh,India,,200.0,1600.0,Delhi Daredevils,2015,IPL,INR_LACS
+Angelo Mathews,Sri Lanka,,150.0,750.0,Delhi Daredevils,2015,IPL,INR_LACS
+Zaheer Khan,India,,100.0,400.0,Delhi Daredevils,2015,IPL,INR_LACS
+Amit Mishra,India,,10.0,350.0,Delhi Daredevils,2015,IPL,INR_LACS
+Shreyas Iyer,India,,10.0,260.0,Delhi Daredevils,2015,IPL,INR_LACS
+Gurinder Sandhu,Australia,,30.0,170.0,Delhi Daredevils,2015,IPL,INR_LACS
+Jaydev Unadkat,India,,50.0,110.0,Delhi Daredevils,2015,IPL,INR_LACS
+Domnic Joseph,India,,10.0,75.0,Delhi Daredevils,2015,IPL,INR_LACS
+Albie Morkel,South Africa,,30.0,30.0,Delhi Daredevils,2015,IPL,INR_LACS
+Marcus Stoinis,Australia,,20.0,25.0,Delhi Daredevils,2015,IPL,INR_LACS
+CM Gautam,India,,20.0,20.0,Delhi Daredevils,2015,IPL,INR_LACS
+Srikar Bharat,India,,10.0,10.0,Delhi Daredevils,2015,IPL,INR_LACS
+KK Jiyas,India,,10.0,10.0,Delhi Daredevils,2015,IPL,INR_LACS
+Murali Vijay,India,,50.0,300.0,Kings XI Punjab,2015,IPL,INR_LACS
+Nikhil Naik,India,,10.0,30.0,Kings XI Punjab,2015,IPL,INR_LACS
+Yogesh Golwalkar,India,,10.0,10.0,Kings XI Punjab,2015,IPL,INR_LACS
+KC Cariappa,India,,10.0,240.0,Kolkata Knight Riders,2015,IPL,INR_LACS
+James Neesham,New Zealand,,30.0,50.0,Kolkata Knight Riders,2015,IPL,INR_LACS
+Brad Hogg,Australia,,50.0,50.0,Kolkata Knight Riders,2015,IPL,INR_LACS
+Aditya Garhwal,India,,10.0,25.0,Kolkata Knight Riders,2015,IPL,INR_LACS
+Sheldon Jackson,India,,10.0,15.0,Kolkata Knight Riders,2015,IPL,INR_LACS
+Sumit Narwal,India,,10.0,10.0,Kolkata Knight Riders,2015,IPL,INR_LACS
+Vaibhav Rawal,India,,10.0,10.0,Kolkata Knight Riders,2015,IPL,INR_LACS
+Aaron Finch,Australia,,100.0,320.0,Mumbai Indians,2015,IPL,INR_LACS
+Pragyan Ojha,India,,50.0,50.0,Mumbai Indians,2015,IPL,INR_LACS
+Abhimanyu Mithun,India,,30.0,30.0,Mumbai Indians,2015,IPL,INR_LACS
+Mitchell McClenaghan,New Zealand,,30.0,30.0,Mumbai Indians,2015,IPL,INR_LACS
+Aiden Blizzard,Australia,,30.0,30.0,Mumbai Indians,2015,IPL,INR_LACS
+Hardik Pandya,India,,10.0,10.0,Mumbai Indians,2015,IPL,INR_LACS
+Akshay Wakhare,India,,10.0,10.0,Mumbai Indians,2015,IPL,INR_LACS
+Nitish Rana,India,,10.0,10.0,Mumbai Indians,2015,IPL,INR_LACS
+Siddhesh Lad,India,,10.0,10.0,Mumbai Indians,2015,IPL,INR_LACS
+Jagadeesha Suchith,India,,10.0,10.0,Mumbai Indians,2015,IPL,INR_LACS
+Chris Morris,South Africa,,50.0,140.0,Rajasthan Royals,2015,IPL,INR_LACS
+Rusty Theron,South Africa,,30.0,30.0,Rajasthan Royals,2015,IPL,INR_LACS
+Barinder Sran,India,,10.0,10.0,Rajasthan Royals,2015,IPL,INR_LACS
+Dinesh Salunkhe,India,,10.0,10.0,Rajasthan Royals,2015,IPL,INR_LACS
+Sagar Trivedi,India,,10.0,10.0,Rajasthan Royals,2015,IPL,INR_LACS
+Pardeep Sahu,India,,10.0,10.0,Rajasthan Royals,2015,IPL,INR_LACS
+Dinesh Karthik,India,,200.0,1050.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+Darren Sammy,Saint Lucia,,100.0,280.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+David Wiese,South Africa,,30.0,280.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+Sean Abbott,Australia,,50.0,100.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+Adam Milne,New Zealand,,30.0,70.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+Sarfaraz Khan,India,,10.0,50.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+Subramaniam Badrinath,India,,30.0,30.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+Jalaj Saxena,India,,10.0,10.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+Shishir Bhavane,India,,10.0,10.0,Royal Challengers Bangalore,2015,IPL,INR_LACS
+Trent Boult,New Zealand,,50.0,380.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Praveen Kumar,India,,50.0,220.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Kevin Pietersen,England,,200.0,200.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Eoin Morgan,England,,150.0,150.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Ravi Bopara,England,,100.0,100.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Kane Williamson,New Zealand,,50.0,60.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Laxmi Ratan Shukla,India,,30.0,30.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Padmanabhan Prasanth,India,,10.0,10.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Hanuma Vihari,India,,10.0,10.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Siddarth Kaul,India,,10.0,10.0,Sunrisers Hyderabad,2015,IPL,INR_LACS
+Kevin Pietersen,,,200.0,300.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Dwayne Smith,,,50.0,230.0,Gujarat Lions,2016,IPL,INR_LACS
+Ishant Sharma,,,200.0,380.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Shane Watson,,,200.0,950.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Ashish Nehra,,,200.0,550.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Yuvraj Singh,,,200.0,700.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Dale Steyn,,,150.0,230.0,Gujarat Lions,2016,IPL,INR_LACS
+Sanju Samson,,,200.0,420.0,Delhi Daredevils,2016,IPL,INR_LACS
+Jos Buttler,,,150.0,380.0,Mumbai Indians,2016,IPL,INR_LACS
+Dinesh Karthik,,,200.0,230.0,Gujarat Lions,2016,IPL,INR_LACS
+Irfan Pathan,,,100.0,100.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Chris Morris,,,50.0,700.0,Delhi Daredevils,2016,IPL,INR_LACS
+Colin Munro,,,30.0,30.0,Kolkata Knight Riders,2016,IPL,INR_LACS
+Stuart Binny,,,200.0,200.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Mitchell Marsh,,,200.0,480.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Dhawal Kulkarni,,,200.0,230.0,Gujarat Lions,2016,IPL,INR_LACS
+John Hastings,,,100.0,130.0,Kolkata Knight Riders,2016,IPL,INR_LACS
+Praveen Kumar,,,50.0,350.0,Gujarat Lions,2016,IPL,INR_LACS
+Tim Southee,,,100.0,250.0,Mumbai Indians,2016,IPL,INR_LACS
+Mohit Sharma,,,150.0,650.0,Kings XI Punjab,2016,IPL,INR_LACS
+Carlos Brathwaite,,,30.0,420.0,Delhi Daredevils,2016,IPL,INR_LACS
+Marcus Stoinis,,,30.0,55.0,Kings XI Punjab,2016,IPL,INR_LACS
+Mustafizur Rahman,,,50.0,140.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Jaydev Unadkat,,,30.0,160.0,Kolkata Knight Riders,2016,IPL,INR_LACS
+Kyle Abbott,,,30.0,210.0,Kings XI Punjab,2016,IPL,INR_LACS
+Barinder Sran,,,50.0,120.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Abhimanyu Mithun,,,30.0,30.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+R. P. Singh,,,30.0,30.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Travis Head,,,30.0,50.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Sachin Baby,,,10.0,10.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Karun Nair,,,10.0,400.0,Delhi Daredevils,2016,IPL,INR_LACS
+Paras Dogra,,,10.0,400.0,Gujarat Lions,2016,IPL,INR_LACS
+Ishan Kishan,,,10.0,35.0,Gujarat Lions,2016,IPL,INR_LACS
+Rishabh Pant,,,10.0,190.0,Delhi Daredevils,2016,IPL,INR_LACS
+Eklavya Dwivedi,,,20.0,100.0,Gujarat Lions,2016,IPL,INR_LACS
+Aditya Tare,,,20.0,120.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Iqbal Abdulla,,,10.0,10.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Deepak Hooda,,,10.0,420.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Ankit Sharma,,,10.0,10.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Pawan Negi,,,30.0,850.0,Delhi Daredevils,2016,IPL,INR_LACS
+Rajat Bhatia,,,30.0,60.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Pradeep Sangwan,,,20.0,20.0,Gujarat Lions,2016,IPL,INR_LACS
+Nathu Singh,,,10.0,320.0,Mumbai Indians,2016,IPL,INR_LACS
+Ishwar Pandey,,,20.0,20.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Ankit Rajpoot,,,10.0,150.0,Kolkata Knight Riders,2016,IPL,INR_LACS
+Pravin Tambe,,,10.0,20.0,Gujarat Lions,2016,IPL,INR_LACS
+Shivil Kaushik,,,10.0,10.0,Gujarat Lions,2016,IPL,INR_LACS
+Sarabjit Ladda,,,10.0,10.0,Gujarat Lions,2016,IPL,INR_LACS
+Murugan Ashwin,,,10.0,450.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+KC Cariappa,,,10.0,80.0,Kings XI Punjab,2016,IPL,INR_LACS
+Aaron Finch,,,100.0,100.0,Gujarat Lions,2016,IPL,INR_LACS
+Sam Billings,,,30.0,30.0,Delhi Daredevils,2016,IPL,INR_LACS
+Tirumalasetti Suman,,,10.0,10.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Ankush Bains,,,10.0,10.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Umang Sharma,,,10.0,10.0,Gujarat Lions,2016,IPL,INR_LACS
+Peter Handscomb,,,30.0,30.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Jitesh Sharma,,,10.0,10.0,Mumbai Indians,2016,IPL,INR_LACS
+Armaan Jaffer,,,10.0,10.0,Kings XI Punjab,2016,IPL,INR_LACS
+Jason Holder,,,50.0,70.0,Kolkata Knight Riders,2016,IPL,INR_LACS
+Thisara Perera,,,100.0,100.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Ben Cutting,,,50.0,50.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Andrew Tye,,,30.0,50.0,Gujarat Lions,2016,IPL,INR_LACS
+Praveen Dubey,,,10.0,35.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Rajagopal Sathish,,,20.0,20.0,Kolkata Knight Riders,2016,IPL,INR_LACS
+Vijay Shankar,,,10.0,35.0,Sunrisers Hyderabad,2016,IPL,INR_LACS
+Shadab Jakati,,,20.0,20.0,Gujarat Lions,2016,IPL,INR_LACS
+Akshay Karnewar,,,10.0,10.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Akshdeep Nath,,,10.0,10.0,Gujarat Lions,2016,IPL,INR_LACS
+Manan Sharma,,,10.0,10.0,Kolkata Knight Riders,2016,IPL,INR_LACS
+Baba Aparajith,,,10.0,10.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Deepak Chahar,,,10.0,10.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Kishore Kamath,,,10.0,140.0,Mumbai Indians,2016,IPL,INR_LACS
+Pardeep Sahu,,,10.0,10.0,Kings XI Punjab,2016,IPL,INR_LACS
+Krunal Pandya,,,10.0,200.0,Mumbai Indians,2016,IPL,INR_LACS
+Deepak Punia,,,10.0,10.0,Mumbai Indians,2016,IPL,INR_LACS
+Swapnil Singh,,,10.0,10.0,Kings XI Punjab,2016,IPL,INR_LACS
+Khaleel Ahmed,,,10.0,10.0,Delhi Daredevils,2016,IPL,INR_LACS
+Jaydev Shah,,,20.0,20.0,Gujarat Lions,2016,IPL,INR_LACS
+Pratyush Singh,,,10.0,10.0,Delhi Daredevils,2016,IPL,INR_LACS
+Ashok Dinda,,,50.0,50.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Kane Richardson,,,200.0,200.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Samuel Badree,,,50.0,50.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Joel Paris,,,30.0,30.0,Delhi Daredevils,2016,IPL,INR_LACS
+Scott Boland,,,50.0,50.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Vikramjeet Malik,,,20.0,20.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Pawan Suyal,,,10.0,10.0,Delhi Daredevils,2016,IPL,INR_LACS
+Adam Zampa,,,30.0,30.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Amit Mishra,,,10.0,10.0,Gujarat Lions,2016,IPL,INR_LACS
+Jaskaran Singh,,,10.0,10.0,Rising Pune Supergiants,2016,IPL,INR_LACS
+Chama Milind,,,10.0,10.0,Delhi Daredevils,2016,IPL,INR_LACS
+Vikas Tokas,,,10.0,10.0,Royal Challengers Bangalore,2016,IPL,INR_LACS
+Farhaan Behardien,,,30.0,30.0,Kings XI Punjab,2016,IPL,INR_LACS
+Akhil Herwadkar,,,10.0,10.0,Delhi Daredevils,2016,IPL,INR_LACS
+Mahipal Lomror,,,10.0,10.0,Delhi Daredevils,2016,IPL,INR_LACS
+Eoin Morgan,,,200.0,200.0,Kings XI Punjab,2017,IPL,INR_LACS
+Pawan Negi,,,30.0,100.0,Royal Challengers Bangalore,2017,IPL,INR_LACS
+Angelo Mathews,,,200.0,200.0,Delhi Daredevils,2017,IPL,INR_LACS
+Ben Stokes,,,200.0,1450.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Corey Anderson,,,100.0,100.0,Delhi Daredevils,2017,IPL,INR_LACS
+Nicholas Pooran,,,30.0,30.0,Mumbai Indians,2017,IPL,INR_LACS
+Kagiso Rabada,,,100.0,500.0,Delhi Daredevils,2017,IPL,INR_LACS
+Trent Boult,,,150.0,500.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Tymal Mills,,,50.0,1200.0,Royal Challengers Bangalore,2017,IPL,INR_LACS
+Pat Cummins,,,200.0,450.0,Delhi Daredevils,2017,IPL,INR_LACS
+Mitchell Johnson,,,200.0,200.0,Mumbai Indians,2017,IPL,INR_LACS
+Ankit Bawne,,,10.0,10.0,Delhi Daredevils,2017,IPL,INR_LACS
+Tanmay Agarwal,,,10.0,10.0,Sunrisers Hyderabad,2017,IPL,INR_LACS
+Mohammad Nabi,,,30.0,30.0,Sunrisers Hyderabad,2017,IPL,INR_LACS
+K Gowtham,,,10.0,200.0,Mumbai Indians,2017,IPL,INR_LACS
+Rahul Tewatia,,,10.0,25.0,Kings XI Punjab,2017,IPL,INR_LACS
+Aditya Tare,,,20.0,25.0,Delhi Daredevils,2017,IPL,INR_LACS
+Eklavya Dwivedi,,,30.0,75.0,Sunrisers Hyderabad,2017,IPL,INR_LACS
+Aniket Choudhary,,,10.0,200.0,Royal Challengers Bangalore,2017,IPL,INR_LACS
+T Natarajan,,,10.0,300.0,Kings XI Punjab,2017,IPL,INR_LACS
+Nathu Singh,,,30.0,50.0,Gujarat Lions,2017,IPL,INR_LACS
+Basil Thampi,,,10.0,85.0,Gujarat Lions,2017,IPL,INR_LACS
+M Ashwin,,,10.0,100.0,Delhi Daredevils,2017,IPL,INR_LACS
+Tejas Baroka,,,10.0,10.0,Gujarat Lions,2017,IPL,INR_LACS
+Rashid Khan,,,50.0,400.0,Sunrisers Hyderabad,2017,IPL,INR_LACS
+Pravin Tambe,,,10.0,10.0,Sunrisers Hyderabad,2017,IPL,INR_LACS
+Chris Woakes,,,200.0,420.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Karn Sharma,,,30.0,320.0,Mumbai Indians,2017,IPL,INR_LACS
+Rishi Dhawan,,,30.0,55.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Matt Henry,,,50.0,50.0,Kings XI Punjab,2017,IPL,INR_LACS
+Jaydev Unadkat,,,30.0,30.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Varun Aaron,,,30.0,280.0,Kings XI Punjab,2017,IPL,INR_LACS
+Manpreet Gony,,,30.0,60.0,Gujarat Lions,2017,IPL,INR_LACS
+Martin Guptill,,,50.0,50.0,Kings XI Punjab,2017,IPL,INR_LACS
+Jason Roy,,,100.0,100.0,Gujarat Lions,2017,IPL,INR_LACS
+Saurabh Tiwary,,,30.0,30.0,Mumbai Indians,2017,IPL,INR_LACS
+Chris Jordan,,,50.0,50.0,Sunrisers Hyderabad,2017,IPL,INR_LACS
+Nathan Coulter-Nile,,,100.0,350.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Praveen Dubey,,,10.0,10.0,Royal Challengers Bangalore,2017,IPL,INR_LACS
+Navdeep Saini,,,10.0,10.0,Delhi Daredevils,2017,IPL,INR_LACS
+Ben Laughlin,,,30.0,30.0,Sunrisers Hyderabad,2017,IPL,INR_LACS
+Billy Stanlake,,,30.0,30.0,Royal Challengers Bangalore,2017,IPL,INR_LACS
+Mohammed Siraj,,,20.0,260.0,Sunrisers Hyderabad,2017,IPL,INR_LACS
+Rahul Chahar,,,10.0,10.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Saurabh Kumar,,,10.0,10.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Asela Gunaratne,,,30.0,30.0,Mumbai Indians,2017,IPL,INR_LACS
+Daniel Christian,,,100.0,100.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Rovman Powell,,,30.0,30.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Darren Sammy,,,30.0,30.0,Kings XI Punjab,2017,IPL,INR_LACS
+Munaf Patel,,,30.0,30.0,Gujarat Lions,2017,IPL,INR_LACS
+Rinku Singh,,,10.0,10.0,Kings XI Punjab,2017,IPL,INR_LACS
+Shashank Singh,,,10.0,10.0,Delhi Daredevils,2017,IPL,INR_LACS
+Milind Tandon,,,10.0,10.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Kulwant Khejroliya,,,10.0,10.0,Mumbai Indians,2017,IPL,INR_LACS
+Chirag Suri,,,10.0,10.0,Gujarat Lions,2017,IPL,INR_LACS
+R Sanjay Yadav,,,10.0,10.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Shelley Shaurya,,,10.0,10.0,Gujarat Lions,2017,IPL,INR_LACS
+Shubham Agarwal,,,10.0,10.0,Gujarat Lions,2017,IPL,INR_LACS
+Ishank Jaggi,,,10.0,10.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Rahul Tripathi,,,10.0,10.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Pratham Singh,,,10.0,10.0,Gujarat Lions,2017,IPL,INR_LACS
+Akshdeep Nath,,,10.0,10.0,Gujarat Lions,2017,IPL,INR_LACS
+Lockie Ferguson,,,50.0,50.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Manoj Tiwary,,,50.0,50.0,Rising Pune Supergiants,2017,IPL,INR_LACS
+Darren Bravo,,,50.0,50.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Sayan Ghosh,,,10.0,10.0,Kolkata Knight Riders,2017,IPL,INR_LACS
+Shikhar Dhawan,India,Batsman,200.0,520.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Ravichandran Ashwin,India,All-Rounder,200.0,760.0,Kings XI Punjab,2018,IPL,INR_LACS
+Kieron Pollard,Trinidad and Tobago,All-Rounder,200.0,540.0,Mumbai Indians,2018,IPL,INR_LACS
+Ben Stokes,England,All-Rounder,200.0,1250.0,Rajasthan Royals,2018,IPL,INR_LACS
+Faf du Plessis,South Africa,Batsman,150.0,160.0,Chennai Super Kings,2018,IPL,INR_LACS
+Ajinkya Rahane,India,Batsman,200.0,400.0,Rajasthan Royals,2018,IPL,INR_LACS
+Mitchell Starc,Australia,Bowler,200.0,940.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Harbhajan Singh,India,Bowler,200.0,200.0,Chennai Super Kings,2018,IPL,INR_LACS
+Shakib Al Hasan,Bangladesh,All-Rounder,100.0,200.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Glenn Maxwell,Australia,All-Rounder,200.0,900.0,Delhi Daredevils,2018,IPL,INR_LACS
+Gautam Gambhir,India,Batsman,200.0,280.0,Delhi Daredevils,2018,IPL,INR_LACS
+Dwayne Bravo,Trinidad and Tobago,All-Rounder,200.0,640.0,Chennai Super Kings,2018,IPL,INR_LACS
+Kane Williamson,New Zealand,Batsman,150.0,300.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Yuvraj Singh,India,All-Rounder,200.0,200.0,Kings XI Punjab,2018,IPL,INR_LACS
+Karun Nair,India,Batsman,50.0,560.0,Kings XI Punjab,2018,IPL,INR_LACS
+KL Rahul,India,Batsman,200.0,1100.0,Kings XI Punjab,2018,IPL,INR_LACS
+David Miller,South Africa,Batsman,150.0,300.0,Kings XI Punjab,2018,IPL,INR_LACS
+Aaron Finch,Australia,Batsman,150.0,620.0,Kings XI Punjab,2018,IPL,INR_LACS
+Brendon McCullum,New Zealand,Batsman,200.0,360.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Jason Roy,England,Batsman,150.0,150.0,Delhi Daredevils,2018,IPL,INR_LACS
+Chris Lynn,Australia,Batsman,200.0,960.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Manish Pandey,India,Batsman,100.0,1100.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Chris Woakes,England,All-Rounder,200.0,740.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Carlos Brathwaite,Barbados,All-Rounder,100.0,200.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Shane Watson,Australia,All-Rounder,100.0,400.0,Chennai Super Kings,2018,IPL,INR_LACS
+Kedar Jadhav,India,All-Rounder,200.0,780.0,Chennai Super Kings,2018,IPL,INR_LACS
+Colin de Grandhomme,New Zealand,All-Rounder,75.0,220.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Yusuf Pathan,India,All-Rounder,75.0,190.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Colin Munro,New Zealand,All-Rounder,50.0,190.0,Delhi Daredevils,2018,IPL,INR_LACS
+Stuart Binny,India,All-Rounder,50.0,50.0,Rajasthan Royals,2018,IPL,INR_LACS
+Marcus Stoinis,Australia,All-Rounder,200.0,620.0,Kings XI Punjab,2018,IPL,INR_LACS
+Moeen Ali,England,All-Rounder,150.0,170.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Quinton de Kock,South Africa,Wicketkeeper,200.0,280.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Wriddhiman Saha,India,Wicketkeeper,100.0,500.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Dinesh Karthik,India,Wicketkeeper,200.0,740.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Robin Uthappa,India,Wicketkeeper,200.0,640.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Sanju Samson,India,Wicketkeeper,100.0,800.0,Rajasthan Royals,2018,IPL,INR_LACS
+Ambati Rayudu,India,Wicketkeeper,50.0,220.0,Chennai Super Kings,2018,IPL,INR_LACS
+Jos Buttler,England,Wicketkeeper,150.0,440.0,Rajasthan Royals,2018,IPL,INR_LACS
+Mustafizur Rahman,Bangladesh,Bowler,100.0,220.0,Mumbai Indians,2018,IPL,INR_LACS
+Pat Cummins,Australia,Bowler,200.0,540.0,Mumbai Indians,2018,IPL,INR_LACS
+Umesh Yadav,India,Bowler,100.0,420.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Mohammed Shami,India,Bowler,100.0,300.0,Delhi Daredevils,2018,IPL,INR_LACS
+Kagiso Rabada,South Africa,Bowler,150.0,420.0,Delhi Daredevils,2018,IPL,INR_LACS
+Piyush Chawla,India,Bowler,100.0,420.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Imran Tahir,South Africa,Bowler,100.0,100.0,Chennai Super Kings,2018,IPL,INR_LACS
+Karn Sharma,India,Bowler,200.0,500.0,Chennai Super Kings,2018,IPL,INR_LACS
+Rashid Khan,Afghanistan,Bowler,200.0,900.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Amit Mishra,India,Bowler,150.0,400.0,Delhi Daredevils,2018,IPL,INR_LACS
+Yuzvendra Chahal,India,Bowler,200.0,600.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Kuldeep Yadav,India,Bowler,150.0,580.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Suryakumar Yadav,India,Batsman,30.0,320.0,Mumbai Indians,2018,IPL,INR_LACS
+Shubman Gill,India,Batsman,20.0,180.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Ishank Jaggi,India,Batsman,20.0,20.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Ricky Bhui,India,Batsman,20.0,20.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Mayank Agarwal,India,Batsman,20.0,100.0,Kings XI Punjab,2018,IPL,INR_LACS
+Rahul Tripathi,India,Batsman,20.0,340.0,Rajasthan Royals,2018,IPL,INR_LACS
+Manan Vohra,India,Batsman,20.0,110.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Prithvi Shaw,India,Batsman,20.0,120.0,Delhi Daredevils,2018,IPL,INR_LACS
+Rahul Tewatia,India,All-Rounder,20.0,300.0,Delhi Daredevils,2018,IPL,INR_LACS
+Deepak Hooda,India,All-Rounder,40.0,360.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Vijay Shankar,India,All-Rounder,40.0,320.0,Delhi Daredevils,2018,IPL,INR_LACS
+Harshal Patel,India,All-Rounder,20.0,20.0,Delhi Daredevils,2018,IPL,INR_LACS
+Kamlesh Nagarkoti,India,All-Rounder,20.0,320.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Krunal Pandya,India,All-Rounder,40.0,880.0,Mumbai Indians,2018,IPL,INR_LACS
+Nitish Rana,India,All-Rounder,20.0,340.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+D'Arcy Short,Australia,All-Rounder,20.0,400.0,Rajasthan Royals,2018,IPL,INR_LACS
+Jofra Archer,Barbados,All-Rounder,40.0,720.0,Rajasthan Royals,2018,IPL,INR_LACS
+Ishan Kishan,India,Wicketkeeper,40.0,620.0,Mumbai Indians,2018,IPL,INR_LACS
+Kulwant Khejroliya,India,Bowler,20.0,85.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Siddharth Kaul,India,Bowler,30.0,380.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+T Natarajan,India,Bowler,40.0,40.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Basil Thampi,India,Bowler,30.0,95.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Aniket Choudhary,India,Bowler,30.0,30.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Khaleel Ahmed,India,Bowler,20.0,300.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Navdeep Saini,India,Bowler,20.0,300.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Avesh Khan,India,Bowler,20.0,70.0,Delhi Daredevils,2018,IPL,INR_LACS
+Ankit Rajpoot,India,Bowler,30.0,300.0,Kings XI Punjab,2018,IPL,INR_LACS
+Rahul Chahar,India,Bowler,20.0,190.0,Mumbai Indians,2018,IPL,INR_LACS
+Shahbaz Nadeem,India,Bowler,40.0,320.0,Delhi Daredevils,2018,IPL,INR_LACS
+Krishnappa Gowtham,India,Bowler,20.0,620.0,Rajasthan Royals,2018,IPL,INR_LACS
+Murugan Ashwin,India,Bowler,20.0,220.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Evin Lewis,Trinidad and Tobago,Batsman,150.0,380.0,Mumbai Indians,2018,IPL,INR_LACS
+Saurabh Tiwary,India,Batsman,50.0,80.0,Mumbai Indians,2018,IPL,INR_LACS
+Mandeep Singh,India,Batsman,50.0,140.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Manoj Tiwary,India,Batsman,50.0,100.0,Kings XI Punjab,2018,IPL,INR_LACS
+Washington Sundar,India,All-Rounder,150.0,320.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Pawan Negi,India,All-Rounder,50.0,100.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Daniel Christian,Australia,All-Rounder,100.0,150.0,Delhi Daredevils,2018,IPL,INR_LACS
+Jayant Yadav,India,All-Rounder,50.0,50.0,Delhi Daredevils,2018,IPL,INR_LACS
+Gurkeerat Singh,India,All-Rounder,50.0,75.0,Delhi Daredevils,2018,IPL,INR_LACS
+Ben Cutting,Australia,All-Rounder,100.0,220.0,Mumbai Indians,2018,IPL,INR_LACS
+Mohammad Nabi,Afghanistan,All-Rounder,50.0,100.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Dhawal Kulkarni,India,Bowler,50.0,75.0,Rajasthan Royals,2018,IPL,INR_LACS
+Mohit Sharma,India,Bowler,150.0,240.0,Kings XI Punjab,2018,IPL,INR_LACS
+Sandeep Sharma,India,Bowler,50.0,300.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Vinay Kumar,India,Bowler,100.0,100.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Mohammed Siraj,India,Bowler,100.0,260.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Nathan Coulter-Nile,Australia,Bowler,150.0,220.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Jaydev Unadkat,India,Bowler,150.0,1150.0,Rajasthan Royals,2018,IPL,INR_LACS
+Trent Boult,New Zealand,Bowler,150.0,220.0,Delhi Daredevils,2018,IPL,INR_LACS
+Shardul Thakur,India,Bowler,75.0,260.0,Chennai Super Kings,2018,IPL,INR_LACS
+Mujeeb Zadran,Afghanistan,Bowler,50.0,400.0,Kings XI Punjab,2018,IPL,INR_LACS
+Apoorv Wankhade,India,Batsman,20.0,20.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Rinku Singh,India,Batsman,20.0,80.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Sachin Baby,India,Batsman,20.0,20.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Manjot Kalra,India,Batsman,20.0,20.0,Delhi Daredevils,2018,IPL,INR_LACS
+Ankit Sharma,India,All-Rounder,20.0,20.0,Rajasthan Royals,2018,IPL,INR_LACS
+Shivam Mavi,India,All-Rounder,20.0,300.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Abhishek Sharma,India,All-Rounder,20.0,55.0,Delhi Daredevils,2018,IPL,INR_LACS
+Pradeep Sangwan,India,Bowler,30.0,150.0,Mumbai Indians,2018,IPL,INR_LACS
+Anureet Singh,India,Bowler,30.0,30.0,Rajasthan Royals,2018,IPL,INR_LACS
+Narayan Jagadeesan,India,Wicketkeeper,20.0,20.0,Chennai Super Kings,2018,IPL,INR_LACS
+Zahir Khan Pakteen,Afghanistan,Bowler,20.0,60.0,Rajasthan Royals,2018,IPL,INR_LACS
+Jean-Paul Duminy,South Africa,All-Rounder,100.0,100.0,Mumbai Indians,2018,IPL,INR_LACS
+Chris Jordan,England,All-Rounder,100.0,100.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Mitchell Santner,New Zealand,All-Rounder,50.0,50.0,Chennai Super Kings,2018,IPL,INR_LACS
+Jason Behrendorff,Australia,Bowler,100.0,150.0,Mumbai Indians,2018,IPL,INR_LACS
+Barinder Sran,India,Bowler,50.0,220.0,Kings XI Punjab,2018,IPL,INR_LACS
+Billy Stanlake,Australia,Bowler,50.0,50.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Andrew Tye,Australia,Bowler,100.0,720.0,Kings XI Punjab,2018,IPL,INR_LACS
+Tanmay Agarwal,India,Batsman,20.0,20.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Deepak Chahar,India,All-Rounder,20.0,80.0,Chennai Super Kings,2018,IPL,INR_LACS
+Cameron Delport,South Africa,All-Rounder,30.0,30.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Tajinder Singh,India,All-Rounder,20.0,55.0,Mumbai Indians,2018,IPL,INR_LACS
+Shreyas Gopal,India,All-Rounder,20.0,20.0,Rajasthan Royals,2018,IPL,INR_LACS
+Akshdeep Nath,India,All-Rounder,20.0,100.0,Kings XI Punjab,2018,IPL,INR_LACS
+Shreevats Goswami,India,Wicketkeeper,20.0,100.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Ben Dwarshuis,Australia,Bowler,20.0,140.0,Kings XI Punjab,2018,IPL,INR_LACS
+KM Asif,India,Bowler,20.0,40.0,Chennai Super Kings,2018,IPL,INR_LACS
+Sandeep Lamichhane,Nepal,Bowler,20.0,20.0,Delhi Daredevils,2018,IPL,INR_LACS
+Lungisani Ngidi,South Africa,Bowler,50.0,50.0,Chennai Super Kings,2018,IPL,INR_LACS
+Sharad Lumba,India,Batsman,20.0,20.0,Mumbai Indians,2018,IPL,INR_LACS
+Kanishk Seth,India,All-Rounder,20.0,20.0,Chennai Super Kings,2018,IPL,INR_LACS
+Dhruv Shorey,India,All-Rounder,20.0,20.0,Chennai Super Kings,2018,IPL,INR_LACS
+Aniruddha Joshi,India,All-Rounder,20.0,20.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Sudhesan Midhun,India,All-Rounder,20.0,20.0,Rajasthan Royals,2018,IPL,INR_LACS
+Murali Vijay,India,Batsman,200.0,200.0,Chennai Super Kings,2018,IPL,INR_LACS
+Sam Billings,England,Wicketkeeper,100.0,100.0,Chennai Super Kings,2018,IPL,INR_LACS
+Naman Ojha,India,Wicketkeeper,75.0,140.0,Delhi Daredevils,2018,IPL,INR_LACS
+Parthiv Patel,India,Wicketkeeper,100.0,170.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Mitchell Johnson,Australia,Bowler,200.0,200.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Tim Southee,New Zealand,Bowler,100.0,100.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Siddhesh Lad,India,Batsman,20.0,20.0,Mumbai Indians,2018,IPL,INR_LACS
+Prashant Chopra,India,Wicketkeeper,20.0,20.0,Rajasthan Royals,2018,IPL,INR_LACS
+Aditya Tare,India,Wicketkeeper,20.0,20.0,Mumbai Indians,2018,IPL,INR_LACS
+Bipul Sharma,India,All-Rounder,20.0,20.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Sayan Ghosh,India,Bowler,20.0,20.0,Delhi Daredevils,2018,IPL,INR_LACS
+Mayank Markande,India,Bowler,20.0,20.0,Mumbai Indians,2018,IPL,INR_LACS
+Ben Laughlin,Australia,Bowler,50.0,50.0,Rajasthan Royals,2018,IPL,INR_LACS
+Akila Dananjaya,Sri Lanka,Bowler,50.0,50.0,Mumbai Indians,2018,IPL,INR_LACS
+Pardeep Sahu,India,Bowler,20.0,20.0,Kings XI Punjab,2018,IPL,INR_LACS
+Mayank Dagar,India,All-Rounder,20.0,20.0,Kings XI Punjab,2018,IPL,INR_LACS
+Anukul Roy,India,All-Rounder,20.0,20.0,Mumbai Indians,2018,IPL,INR_LACS
+Mark Wood,England,Bowler,150.0,150.0,Chennai Super Kings,2018,IPL,INR_LACS
+Mahipal Lomror,India,All-Rounder,20.0,20.0,Rajasthan Royals,2018,IPL,INR_LACS
+Mohsin Khan,India,Bowler,20.0,20.0,Mumbai Indians,2018,IPL,INR_LACS
+Mehdi Hasan,India,All-Rounder,20.0,20.0,Sunrisers Hyderabad,2018,IPL,INR_LACS
+Kshitiz Sharma,India,All-Rounder,20.0,20.0,Chennai Super Kings,2018,IPL,INR_LACS
+Monu Kumar,India,Bowler,20.0,20.0,Chennai Super Kings,2018,IPL,INR_LACS
+Chaitanya Bishnoi,India,All-Rounder,20.0,20.0,Chennai Super Kings,2018,IPL,INR_LACS
+Jatin Saxena,India,All-Rounder,20.0,20.0,Rajasthan Royals,2018,IPL,INR_LACS
+Aryaman Birla,India,All-Rounder,20.0,30.0,Rajasthan Royals,2018,IPL,INR_LACS
+Pavan Deshpande,India,All-Rounder,20.0,20.0,Royal Challengers Bangalore,2018,IPL,INR_LACS
+Chris Gayle,Jamaica,Batsman,200.0,200.0,Kings XI Punjab,2018,IPL,INR_LACS
+Dushmantha Chameera,Sri Lanka,Bowler,50.0,50.0,Rajasthan Royals,2018,IPL,INR_LACS
+M. D. Nidheesh,India,Bowler,20.0,20.0,Mumbai Indians,2018,IPL,INR_LACS
+Manzoor Dar,India,All-Rounder,20.0,20.0,Kings XI Punjab,2018,IPL,INR_LACS
+Javon Searles,Barbados,All-Rounder,30.0,30.0,Kolkata Knight Riders,2018,IPL,INR_LACS
+Hanuma Vihari,India,Batsman,50.0,200.0,Delhi Capitals,2019,IPL,INR_LACS
+Shimron Hetmyer,Guyana,Batsman,50.0,420.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Carlos Brathwaite,Barbados,All-rounder,75.0,500.0,Kolkata Knight Riders,2019,IPL,INR_LACS
+Gurkeerat Singh,India,All-rounder,50.0,50.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Moises Henriques,Australia,All-rounder,100.0,100.0,Kings XI Punjab,2019,IPL,INR_LACS
+Axar Patel,India,All-rounder,100.0,500.0,Delhi Capitals,2019,IPL,INR_LACS
+Jonny Bairstow,England,Wicketkeeper,150.0,220.0,Sunrisers Hyderabad,2019,IPL,INR_LACS
+Nicholas Pooran,Trinidad and Tobago,Wicketkeeper,75.0,420.0,Kings XI Punjab,2019,IPL,INR_LACS
+Wriddhiman Saha,India,Wicketkeeper,100.0,120.0,Sunrisers Hyderabad,2019,IPL,INR_LACS
+Jaydev Unadkat,India,Bowler,150.0,840.0,Rajasthan Royals,2019,IPL,INR_LACS
+Ishant Sharma,India,Bowler,75.0,110.0,Delhi Capitals,2019,IPL,INR_LACS
+Lasith Malinga,Sri Lanka,Bowler,200.0,200.0,Mumbai Indians,2019,IPL,INR_LACS
+Mohammad Shami,India,Bowler,100.0,480.0,Kings XI Punjab,2019,IPL,INR_LACS
+Varun Aaron,India,Bowler,50.0,240.0,Rajasthan Royals,2019,IPL,INR_LACS
+Mohit Sharma,India,Bowler,50.0,500.0,Chennai Super Kings,2019,IPL,INR_LACS
+Devdutt Padikkal,India,Batsman,20.0,20.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Anmolpreet Singh,India,Batsman,20.0,80.0,Mumbai Indians,2019,IPL,INR_LACS
+Sarfaraz Khan,India,All-rounder,20.0,25.0,Kings XI Punjab,2019,IPL,INR_LACS
+Shivam Dube,India,All-rounder,20.0,500.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Varun Chakravarthy,India,All-rounder,20.0,840.0,Kings XI Punjab,2019,IPL,INR_LACS
+Ankush Bains,India,Wicketkeeper,20.0,20.0,Delhi Capitals,2019,IPL,INR_LACS
+Nathu Singh,India,Bowler,20.0,20.0,Delhi Capitals,2019,IPL,INR_LACS
+Colin Ingram,South Africa,Batsman,200.0,640.0,Delhi Capitals,2019,IPL,INR_LACS
+Sam Curran,England,All-rounder,200.0,720.0,Kings XI Punjab,2019,IPL,INR_LACS
+Heinrich Klaasen,South Africa,Wicketkeeper,50.0,50.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Barinder Sran,India,Bowler,50.0,340.0,Mumbai Indians,2019,IPL,INR_LACS
+Lockie Ferguson,New Zealand,Bowler,100.0,160.0,Kolkata Knight Riders,2019,IPL,INR_LACS
+Sherfane Rutherford,Guyana,All-rounder,40.0,200.0,Delhi Capitals,2019,IPL,INR_LACS
+Anrich Nortje,South Africa,Bowler,20.0,20.0,Kolkata Knight Riders,2019,IPL,INR_LACS
+Oshane Thomas,Jamaica,Bowler,50.0,110.0,Rajasthan Royals,2019,IPL,INR_LACS
+Hardus Viljoen,South Africa,Bowler,75.0,75.0,Kings XI Punjab,2019,IPL,INR_LACS
+Himmat Singh,India,Batsman,20.0,65.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Nikhil Naik,India,Wicketkeeper,20.0,20.0,Kolkata Knight Riders,2019,IPL,INR_LACS
+Arshdeep Singh,India,Bowler,20.0,20.0,Kings XI Punjab,2019,IPL,INR_LACS
+Harry Gurney,England,Bowler,75.0,75.0,Kolkata Knight Riders,2019,IPL,INR_LACS
+Pankaj Jaiswal,India,All-rounder,20.0,20.0,Mumbai Indians,2019,IPL,INR_LACS
+Milind Kumar,India,All-rounder,20.0,20.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Darshan Nalkande,India,All-rounder,20.0,30.0,Kings XI Punjab,2019,IPL,INR_LACS
+Shashank Singh,India,All-rounder,20.0,30.0,Rajasthan Royals,2019,IPL,INR_LACS
+Prab Simran Singh,India,Wicketkeeper,20.0,480.0,Kings XI Punjab,2019,IPL,INR_LACS
+Rasikh Salam,India,Bowler,20.0,20.0,Mumbai Indians,2019,IPL,INR_LACS
+Prithvi Raj Yarra,India,Bowler,20.0,20.0,Kolkata Knight Riders,2019,IPL,INR_LACS
+Liam Livingstone,England,All-rounder,50.0,50.0,Rajasthan Royals,2019,IPL,INR_LACS
+Keemo Paul,Guyana,All-rounder,50.0,50.0,Delhi Capitals,2019,IPL,INR_LACS
+Prayas Ray Barman,India,All-rounder,20.0,150.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Agnivesh Ayachi,India,All-rounder,20.0,20.0,Kings XI Punjab,2019,IPL,INR_LACS
+Harpreet Brar,India,All-rounder,20.0,20.0,Kings XI Punjab,2019,IPL,INR_LACS
+Martin Guptill,New Zealand,Batsman,100.0,100.0,Sunrisers Hyderabad,2019,IPL,INR_LACS
+Yuvraj Singh,India,All-rounder,100.0,100.0,Mumbai Indians,2019,IPL,INR_LACS
+Akshdeep Nath,India,All-rounder,20.0,360.0,Royal Challengers Bangalore,2019,IPL,INR_LACS
+Jalaj Saxena,India,All-rounder,20.0,20.0,Delhi Capitals,2019,IPL,INR_LACS
+Murugan Ashwin,India,Bowler,20.0,20.0,Kings XI Punjab,2019,IPL,INR_LACS
+Ruturaj Gaikwad,India,Batsman,20.0,20.0,Chennai Super Kings,2019,IPL,INR_LACS
+Shubham Ranjane,India,All-rounder,20.0,20.0,Rajasthan Royals,2019,IPL,INR_LACS
+Joe Denly,England,Batsman,100.0,100.0,Kolkata Knight Riders,2019,IPL,INR_LACS
+Bandaru Ayyappa,India,Bowler,20.0,20.0,Delhi Capitals,2019,IPL,INR_LACS
+Shrikant Mundhe,India,All-rounder,20.0,20.0,Kolkata Knight Riders,2019,IPL,INR_LACS
+Manan Vohra,India,Batsman,20.0,20.0,Rajasthan Royals,2019,IPL,INR_LACS
+Ashton Turner,Australia,All-rounder,50.0,50.0,Rajasthan Royals,2019,IPL,INR_LACS
+Riyan Parag,India,All-rounder,20.0,20.0,Rajasthan Royals,2019,IPL,INR_LACS
+Chris Lynn,Australia,Batsman,200.0,200.0,Mumbai Indians,2020,IPL,INR_LACS
+Eoin Morgan,England,Batsman,200.0,525.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Robin Uthappa,India,Batsman,150.0,300.0,Rajasthan Royals,2020,IPL,INR_LACS
+Jason Roy,England,Batsman,150.0,150.0,Delhi Capitals,2020,IPL,INR_LACS
+Aaron Finch,Australia,Batsman,100.0,440.0,Royal Challengers Bangalore,2020,IPL,INR_LACS
+Glenn Maxwell,Australia,All Rounder,200.0,1075.0,Kings XI Punjab,2020,IPL,INR_LACS
+Chris Woakes,England,All Rounder,150.0,150.0,Delhi Capitals,2020,IPL,INR_LACS
+Pat Cummins,Australia,All Rounder,200.0,1550.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Sam Curran,England,All Rounder,100.0,550.0,Chennai Super Kings,2020,IPL,INR_LACS
+Chris Morris,South Africa,All Rounder,150.0,1000.0,Royal Challengers Bangalore,2020,IPL,INR_LACS
+Alex Carey,Australia,Wicket Keeper,50.0,240.0,Delhi Capitals,2020,IPL,INR_LACS
+Jaydev Unadkat,India,Fast Bowler,100.0,300.0,Rajasthan Royals,2020,IPL,INR_LACS
+Nathan Coulter-Nile,Australia,All-rounder,100.0,800.0,Mumbai Indians,2020,IPL,INR_LACS
+Sheldon Cottrell,Jamaica,Fast Bowler,50.0,850.0,Kings XI Punjab,2020,IPL,INR_LACS
+Piyush Chawla,India,Spinner,100.0,675.0,Chennai Super Kings,2020,IPL,INR_LACS
+Rahul Tripathi,India,Batsman,20.0,60.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Virat Singh,India,Batsman,20.0,190.0,Sunrisers Hyderabad,2020,IPL,INR_LACS
+Priyam Garg,India,Batsman,20.0,190.0,Sunrisers Hyderabad,2020,IPL,INR_LACS
+Deepak Hooda,India,All Rounder,40.0,50.0,Kings XI Punjab,2020,IPL,INR_LACS
+Varun Chakravarthy,India,All Rounder,30.0,400.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Yashasvi Jaiswal,India,All Rounder,20.0,240.0,Rajasthan Royals,2020,IPL,INR_LACS
+Anuj Rawat,India,Wicket Keeper,20.0,80.0,Rajasthan Royals,2020,IPL,INR_LACS
+Akash Singh,India,Fast Bowler,20.0,20.0,Rajasthan Royals,2020,IPL,INR_LACS
+Kartik Tyagi,India,Fast Bowler,20.0,130.0,Rajasthan Royals,2020,IPL,INR_LACS
+Ishan Porel,India,Fast Bowler,20.0,20.0,Kings XI Punjab,2020,IPL,INR_LACS
+M Siddharth,India,Spinner,20.0,20.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Ravi Bishnoi,India,Spinner,20.0,200.0,Kings XI Punjab,2020,IPL,INR_LACS
+Shimron Hetmyer,Guyana,Batsman,50.0,775.0,Delhi Capitals,2020,IPL,INR_LACS
+David Miller,South Africa,Batsman,75.0,75.0,Rajasthan Royals,2020,IPL,INR_LACS
+Saurabh Tiwary,India,Batsman,50.0,50.0,Mumbai Indians,2020,IPL,INR_LACS
+Mitchell Marsh,Australia,All-Rounder,200.0,200.0,Sunrisers Hyderabad,2020,IPL,INR_LACS
+James Neesham,New Zealand,All-Rounder,50.0,50.0,Kings XI Punjab,2020,IPL,INR_LACS
+Josh Hazlewood,Australia,Fast Bowler,200.0,200.0,Chennai Super Kings,2020,IPL,INR_LACS
+Bavanaka Sandeep,India,All-Rounder,20.0,20.0,Sunrisers Hyderabad,2020,IPL,INR_LACS
+Chris Green,Australia,All-Rounder,20.0,20.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Josh Philippe,Australia,Wicket Keeper,20.0,20.0,Royal Challengers Bangalore,2020,IPL,INR_LACS
+Mohsin Khan,India,Fast Bowler,20.0,20.0,Mumbai Indians,2020,IPL,INR_LACS
+Tom Banton,England,Batsman,100.0,100.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Fabian Allen,Jamaica,All-Rounder,50.0,50.0,Sunrisers Hyderabad,2020,IPL,INR_LACS
+Chris Jordan,England,All-Rounder,75.0,300.0,Kings XI Punjab,2020,IPL,INR_LACS
+Kane Richardson,Australia,Fast Bowler,150.0,400.0,Royal Challengers Bangalore,2020,IPL,INR_LACS
+Oshane Thomas,Jamaica,Fast Bowler,50.0,50.0,Rajasthan Royals,2020,IPL,INR_LACS
+Pravin Tambe,India,Spinner,20.0,20.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Tajinder Singh Dhillon,India,All-Rounder,20.0,20.0,Kings XI Punjab,2020,IPL,INR_LACS
+Abdul Samad,India,All-Rounder,20.0,20.0,Sunrisers Hyderabad,2020,IPL,INR_LACS
+Aniruddha Joshi,India,All-Rounder,20.0,20.0,Rajasthan Royals,2020,IPL,INR_LACS
+Digvijay Deshmukh,India,All-Rounder,20.0,20.0,Mumbai Indians,2020,IPL,INR_LACS
+Prince Balwant Rai,India,All-Rounder,20.0,20.0,Mumbai Indians,2020,IPL,INR_LACS
+Sanjay Yadav,India,All-Rounder,20.0,20.0,Sunrisers Hyderabad,2020,IPL,INR_LACS
+Mohit Sharma,India,Bowler,50.0,50.0,Delhi Capitals,2020,IPL,INR_LACS
+Pavan Deshpande,India,All-Rounder,20.0,20.0,Royal Challengers Bangalore,2020,IPL,INR_LACS
+Prabhsimran Singh,India,Wicket-Keeper,20.0,55.0,Kings XI Punjab,2020,IPL,INR_LACS
+Tushar Deshpande,India,Bowler,20.0,20.0,Delhi Capitals,2020,IPL,INR_LACS
+R Sai Kishore,India,Bowler,20.0,20.0,Chennai Super Kings,2020,IPL,INR_LACS
+Marcus Stoinis,Australia,All-Rounder,100.0,480.0,Delhi Capitals,2020,IPL,INR_LACS
+Dale Steyn,South Africa,Bowler,200.0,200.0,Royal Challengers Bangalore,2020,IPL,INR_LACS
+Andrew Tye,Australia,Bowler,100.0,100.0,Rajasthan Royals,2020,IPL,INR_LACS
+Lalit Yadav,India,All-Rounder,20.0,20.0,Delhi Capitals,2020,IPL,INR_LACS
+Shahbaz Ahmed,India,Wicket-Keeper,20.0,20.0,Royal Challengers Bangalore,2020,IPL,INR_LACS
+Nikhil Naik,India,Wicket-Keeper,20.0,20.0,Kolkata Knight Riders,2020,IPL,INR_LACS
+Tom Curran,England,All-Rounder,100.0,100.0,Rajasthan Royals,2020,IPL,INR_LACS
+Isuru Udana,Sri Lanka,All-Rounder,50.0,50.0,Royal Challengers Bangalore,2020,IPL,INR_LACS
+Steve Smith,Australia,Batsman,200.0,220.0,Delhi Capitals,2021,IPL,INR_LACS
+Glenn Maxwell,Australia,All Rounder,200.0,1425.0,Royal Challengers Bangalore,2021,IPL,INR_LACS
+Shakib Al Hasan,Bangladesh,All Rounder,200.0,320.0,Kolkata Knight Riders,2021,IPL,INR_LACS
+Moeen Ali,England,All Rounder,200.0,700.0,Chennai Super Kings,2021,IPL,INR_LACS
+Shivam Dube,India,All Rounder,50.0,440.0,Rajasthan Royals,2021,IPL,INR_LACS
+Chris Morris,South Africa,All Rounder,75.0,1625.0,Rajasthan Royals,2021,IPL,INR_LACS
+Dawid Malan,England,All Rounder,150.0,150.0,Punjab Kings,2021,IPL,INR_LACS
+Adam Milne,New Zealand,Fast Bowler,50.0,320.0,Mumbai Indians,2021,IPL,INR_LACS
+Mustafizur Rahman,Bangladesh,Fast Bowler,100.0,100.0,Rajasthan Royals,2021,IPL,INR_LACS
+Jhye Richardson,Australia,Fast Bowler,150.0,1400.0,Punjab Kings,2021,IPL,INR_LACS
+Nathan Coulter-Nile,Australia,Fast Bowler,150.0,500.0,Mumbai Indians,2021,IPL,INR_LACS
+Umesh Yadav,India,Fast Bowler,100.0,100.0,Delhi Capitals,2021,IPL,INR_LACS
+Piyush Chawla,India,Spinner,50.0,240.0,Mumbai Indians,2021,IPL,INR_LACS
+Sachin Baby,India,Batsman,20.0,20.0,Royal Challengers Bangalore,2021,IPL,INR_LACS
+Rajat Patidar,India,Batsman,20.0,20.0,Royal Challengers Bangalore,2021,IPL,INR_LACS
+Ripal Patel,India,All Rounder,20.0,20.0,Delhi Capitals,2021,IPL,INR_LACS
+Shahrukh Khan,India,All Rounder,20.0,525.0,Punjab Kings,2021,IPL,INR_LACS
+Krishnappa Gowtham,India,All Rounder,20.0,925.0,Chennai Super Kings,2021,IPL,INR_LACS
+Vishnu Vinod,India,Wicket Keeper,20.0,20.0,Delhi Capitals,2021,IPL,INR_LACS
+Sheldon Jackson,India,Wicket Keeper,20.0,20.0,Kolkata Knight Riders,2021,IPL,INR_LACS
+Mohammed Azharuddeen,India,Wicket Keeper,20.0,20.0,Royal Challengers Bangalore,2021,IPL,INR_LACS
+Lukman Hussain Meriwala,India,Fast Bowler,20.0,20.0,Delhi Capitals,2021,IPL,INR_LACS
+Chetan Sakariya,India,Fast Bowler,20.0,120.0,Rajasthan Royals,2021,IPL,INR_LACS
+Riley Meredith,Australia,Fast bowler,40.0,800.0,Punjab Kings,2021,IPL,INR_LACS
+Manimaran Siddharth,India,Spinner,20.0,20.0,Delhi Capitals,2021,IPL,INR_LACS
+Jagadeesha Suchith,India,Spinner,20.0,30.0,Sunrisers Hyderabad,2021,IPL,INR_LACS
+K. C. Cariappa,India,Spinner,20.0,20.0,Rajasthan Royals,2021,IPL,INR_LACS
+Cheteshwar Pujara,India,Batsman,50.0,50.0,Chennai Super Kings,2021,IPL,INR_LACS
+Kyle Jamieson,New Zealand,All Rounder,75.0,1500.0,Royal Challengers Bangalore,2021,IPL,INR_LACS
+Tom Curran,England,All Rounder,150.0,525.0,Delhi Capitals,2021,IPL,INR_LACS
+Moises Henriques,Australia,All Rounder,100.0,420.0,Punjab Kings,2021,IPL,INR_LACS
+Jalaj Saxena,India,All Rounder,20.0,30.0,Punjab Kings,2021,IPL,INR_LACS
+Utkarsh Singh,India,All Rounder,20.0,20.0,Punjab Kings,2021,IPL,INR_LACS
+Vaibhav Arora,India,All Rounder,20.0,20.0,Kolkata Knight Riders,2021,IPL,INR_LACS
+Fabian Allen,Jamaica,All Rounder,75.0,75.0,Punjab Kings,2021,IPL,INR_LACS
+Dan Christian,Australia,All Rounder,75.0,480.0,Royal Challengers Bangalore,2021,IPL,INR_LACS
+Liam Livingstone,England,All Rounder,75.0,75.0,Rajasthan Royals,2021,IPL,INR_LACS
+Suyash Prabhudessai,India,All Rounder,20.0,20.0,Royal Challengers Bangalore,2021,IPL,INR_LACS
+Kona Srikar Bharat,India,Wicket Keeper,20.0,20.0,Royal Challengers Bangalore,2021,IPL,INR_LACS
+Harishankar Reddy,India,All Rounder,20.0,20.0,Chennai Super Kings,2021,IPL,INR_LACS
+Kuldip Yadav,India,All Rounder,20.0,20.0,Rajasthan Royals,2021,IPL,INR_LACS
+James Neesham,New Zealand,All Rounder,50.0,50.0,Mumbai Indians,2021,IPL,INR_LACS
+Yudhvir Charak,India,All Rounder,20.0,20.0,Mumbai Indians,2021,IPL,INR_LACS
+Bhagath Varma,India,All Rounder,20.0,20.0,Chennai Super Kings,2021,IPL,INR_LACS
+Marco Jansen,South Africa,All Rounder,20.0,20.0,Mumbai Indians,2021,IPL,INR_LACS
+Saurabh Kumar,India,All Rounder,20.0,20.0,Punjab Kings,2021,IPL,INR_LACS
+Karun Nair,India,Batsman,50.0,50.0,Kolkata Knight Riders,2021,IPL,INR_LACS
+Kedar Jadhav,India,All Rounder,200.0,200.0,Sunrisers Hyderabad,2021,IPL,INR_LACS
+Sam Billings,England,Wicket Keeper,200.0,200.0,Delhi Capitals,2021,IPL,INR_LACS
+Mujeeb Ur Rahman,Afghanistan,Spinner,150.0,150.0,Sunrisers Hyderabad,2021,IPL,INR_LACS
+Harbhajan Singh,India,Spinner,200.0,200.0,Kolkata Knight Riders,2021,IPL,INR_LACS
+Chezhian Harinishanth,India,Batsman,20.0,20.0,Chennai Super Kings,2021,IPL,INR_LACS
+Ben Cutting,Australia,All Rounder,75.0,75.0,Kolkata Knight Riders,2021,IPL,INR_LACS
+Venkatesh Iyer,India,All Rounder,20.0,20.0,Kolkata Knight Riders,2021,IPL,INR_LACS
+Pawan Negi,India,All Rounder,50.0,50.0,Kolkata Knight Riders,2021,IPL,INR_LACS
+Akash Singh,India,Fast Bowler,20.0,20.0,Rajasthan Royals,2021,IPL,INR_LACS
+Arjun Tendulkar,India,All Rounder,20.0,20.0,Mumbai Indians,2021,IPL,INR_LACS
+Shikhar Dhawan,India,Batter,200.0,825.0,Punjab Kings,2022,IPL,INR_LACS
+Ravichandran Ashwin,India,All Rounder,200.0,500.0,Rajasthan Royals,2022,IPL,INR_LACS
+Pat Cummins,Australia,All Rounder,200.0,725.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Kagiso Rabada,South Africa,Bowler,200.0,925.0,Punjab Kings,2022,IPL,INR_LACS
+Trent Boult,New Zealand,Bowler,200.0,800.0,Rajasthan Royals,2022,IPL,INR_LACS
+Shreyas Iyer,India,Batter,200.0,1225.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Mohammed Shami,India,Bowler,200.0,625.0,Gujarat Titans,2022,IPL,INR_LACS
+Faf du Plessis,South Africa,Batter,200.0,700.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Quinton de Kock,South Africa,Wicket Keeper Batter,200.0,675.0,Lucknow Super Giants,2022,IPL,INR_LACS
+David Warner,Australia,Batter,200.0,625.0,Delhi Capitals,2022,IPL,INR_LACS
+Manish Pandey,India,Batter,150.0,460.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Shimron Hetmyer,West Indies,Batter,150.0,850.0,Rajasthan Royals,2022,IPL,INR_LACS
+Robin Uthappa,India,Batter,200.0,200.0,Chennai Super Kings,2022,IPL,INR_LACS
+Jason Roy,England,Batter,200.0,200.0,Gujarat Titans,2022,IPL,INR_LACS
+Devdutt Padikkal,India,Batter,150.0,775.0,Rajasthan Royals,2022,IPL,INR_LACS
+Dwayne Bravo,West Indies,All Rounder,150.0,440.0,Chennai Super Kings,2022,IPL,INR_LACS
+Nitish Rana,India,All Rounder,150.0,800.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Jason Holder,West Indies,All Rounder,150.0,875.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Harshal Patel,India,All Rounder,150.0,1075.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Deepak Hooda,India,All Rounder,75.0,575.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Wanindu Hasaranga,Sri Lanka,Right Handed Batter,100.0,1075.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Washington Sundar,India,All Rounder,150.0,875.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Krunal Pandya,India,All Rounder,200.0,825.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Mitchell Marsh,Australia,All Rounder,200.0,650.0,Delhi Capitals,2022,IPL,INR_LACS
+Ambati Rayudu,India,Wicket Keeper Batter,200.0,675.0,Chennai Super Kings,2022,IPL,INR_LACS
+Ishan Kishan,India,Wicket Keeper Batter,150.0,1525.0,Mumbai Indians,2022,IPL,INR_LACS
+Jonny Bairstow,England,Wicket Keeper Batter,100.0,675.0,Punjab Kings,2022,IPL,INR_LACS
+Dinesh Karthik,India,Wicket Keepe,200.0,550.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Nicholas Pooran,West Indies,Wicket Keeper Batter,150.0,1075.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+T. Natarajan,India,Bowler,100.0,400.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Deepak Chahar,India,Bowler,200.0,1400.0,Chennai Super Kings,2022,IPL,INR_LACS
+Prasidh Krishna,India,Bowler,100.0,1000.0,Rajasthan Royals,2022,IPL,INR_LACS
+Lockie Ferguson,New Zealand,Bowler,200.0,1000.0,Gujarat Titans,2022,IPL,INR_LACS
+Josh Hazlewood,Australia,Bowler,150.0,775.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Mark Wood,England,Bowler,200.0,750.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Bhuvneshwar Kumar,India,Bowler,200.0,420.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Shardul Thakur,India,Bowler,200.0,1075.0,Delhi Capitals,2022,IPL,INR_LACS
+Mustafizur Rahman,Bangladesh,Bowler,200.0,200.0,Delhi Capitals,2022,IPL,INR_LACS
+Kuldeep Yadav,India,Bowler,100.0,200.0,Delhi Capitals,2022,IPL,INR_LACS
+Rahul Chahar,India,Bowler,75.0,525.0,Punjab Kings,2022,IPL,INR_LACS
+Yuzvendra Chahal,India,Bowler,200.0,650.0,Rajasthan Royals,2022,IPL,INR_LACS
+Priyam Garg,India,Batter,20.0,20.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Abhinav Manohar Sadarangani,India,Batter,20.0,260.0,Gujarat Titans,2022,IPL,INR_LACS
+Dewald Brevis,South Africa,Batter,20.0,300.0,Mumbai Indians,2022,IPL,INR_LACS
+Ashwin Hebbar,India,Batter,20.0,20.0,Delhi Capitals,2022,IPL,INR_LACS
+Rahul Tripathi,India,Batter,40.0,850.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Riyan Parag,India,All Rounder,30.0,380.0,Rajasthan Royals,2022,IPL,INR_LACS
+Abhishek Sharma,India,All Rounder,20.0,650.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Sarfaraz Khan,India,All Rounder,20.0,20.0,Delhi Capitals,2022,IPL,INR_LACS
+M. Shahrukh Khan,India,All Rounder,40.0,900.0,Punjab Kings,2022,IPL,INR_LACS
+Shivam Mavi,India,All Rounder,40.0,725.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Rahul Tewatia,India,All Rounder,40.0,900.0,Gujarat Titans,2022,IPL,INR_LACS
+Kamlesh Nagarkoti,India,All Rounder,40.0,110.0,Delhi Capitals,2022,IPL,INR_LACS
+Harpreet Brar,India,All Rounder,20.0,380.0,Punjab Kings,2022,IPL,INR_LACS
+Shahbaz Ahmed,India,All Rounder,30.0,240.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+K. S. Bharat,India,Wicket Keeper Batter,20.0,200.0,Delhi Capitals,2022,IPL,INR_LACS
+Anuj Rawat,India,Wicket Keeper Batter,20.0,340.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Prabhsimran Singh,India,Wicket Keeper Batter,20.0,60.0,Punjab Kings,2022,IPL,INR_LACS
+Sheldon Jackson,India,Wicket Keeper Batter,30.0,60.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Jitesh Sharma,India,Wicket Keeper Batter,20.0,20.0,Punjab Kings,2022,IPL,INR_LACS
+Basil Thampi,India,Bowler,30.0,30.0,Mumbai Indians,2022,IPL,INR_LACS
+Kartik Tyagi,India,Bowler,20.0,400.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Akash Deep,India,Bowler,20.0,20.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+KM Asif,India,Bowler,20.0,20.0,Chennai Super Kings,2022,IPL,INR_LACS
+Avesh Khan,India,Bowler,20.0,1000.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Ishan Porel,India,Bowler,20.0,25.0,Punjab Kings,2022,IPL,INR_LACS
+Tushar Deshpande,India,Bowler,20.0,20.0,Chennai Super Kings,2022,IPL,INR_LACS
+Ankit Rajpoot,India,Bowler,20.0,50.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Noor Ahmad,Afghanistan,Bowler,30.0,30.0,Gujarat Titans,2022,IPL,INR_LACS
+Murugan Ashwin,India,Bowler,20.0,160.0,Mumbai Indians,2022,IPL,INR_LACS
+K. C. Cariappa,India,Bowler,20.0,30.0,Rajasthan Royals,2022,IPL,INR_LACS
+Shreyas Gopal,India,Bowler,20.0,75.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Jagadeesha Suchith,India,Bowler,20.0,20.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Ravisrinivasan Sai Kishore,India,Bowler,20.0,300.0,Gujarat Titans,2022,IPL,INR_LACS
+Aiden Markram,South Africa,Batter,100.0,260.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Ajinkya Rahane,India,Batter,100.0,100.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Mandeep Singh,India,Batter,50.0,110.0,Delhi Capitals,2022,IPL,INR_LACS
+Liam Livingstone,England,All Rounder,100.0,1150.0,Punjab Kings,2022,IPL,INR_LACS
+Dominic Drakes,West Indies,All Rounder,75.0,110.0,Gujarat Titans,2022,IPL,INR_LACS
+Jayant Yadav,India,All Rounder,100.0,170.0,Gujarat Titans,2022,IPL,INR_LACS
+Vijay Shankar,India,All Rounder,50.0,140.0,Gujarat Titans,2022,IPL,INR_LACS
+Odean Smith,West Indies,All Rounder,100.0,600.0,Punjab Kings,2022,IPL,INR_LACS
+Marco Jansen,South Africa,All Rounder,50.0,420.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Shivam Dube,India,All Rounder,50.0,400.0,Chennai Super Kings,2022,IPL,INR_LACS
+Krishnappa Gowtham,India,All Rounder,50.0,90.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Khaleel Ahmed,India,Bowler,50.0,525.0,Delhi Capitals,2022,IPL,INR_LACS
+Dushmantha Chameera,Sri Lanka,Bowler,50.0,200.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Chetan Sakariya,India,Bowler,50.0,420.0,Delhi Capitals,2022,IPL,INR_LACS
+Sandeep Sharma,India,Bowler,50.0,50.0,Punjab Kings,2022,IPL,INR_LACS
+Navdeep Saini,India,Bowler,75.0,260.0,Rajasthan Royals,2022,IPL,INR_LACS
+Jaydev Unadkat,India,Bowler,75.0,130.0,Mumbai Indians,2022,IPL,INR_LACS
+Mayank Markande,India,Bowler,50.0,65.0,Mumbai Indians,2022,IPL,INR_LACS
+Shahbaz Nadeem,India,Bowler,50.0,50.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Maheesh Theekshana,Sri Lanka,Bowler,50.0,70.0,Chennai Super Kings,2022,IPL,INR_LACS
+Rinku Singh,India,Batter,20.0,55.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Manan Vohra,India,Batter,20.0,20.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Lalit Yadav,India,All Rounder,20.0,65.0,Delhi Capitals,2022,IPL,INR_LACS
+Ripal Patel,India,All Rounder,20.0,20.0,Delhi Capitals,2022,IPL,INR_LACS
+Yash Dhull,India,All Rounder,20.0,50.0,Delhi Capitals,2022,IPL,INR_LACS
+Tilak Varma,India,All Rounder,20.0,170.0,Mumbai Indians,2022,IPL,INR_LACS
+Mahipal Lomror,India,All Rounder,40.0,95.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Anukul Roy,India,All Rounder,20.0,20.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Darshan Nalkande,India,All Rounder,20.0,20.0,Gujarat Titans,2022,IPL,INR_LACS
+R. Sanjay Yadav,India,All Rounder,20.0,50.0,Mumbai Indians,2022,IPL,INR_LACS
+Raj Bawa,India,All Rounder,20.0,200.0,Punjab Kings,2022,IPL,INR_LACS
+Rajvardhan Hangargekar,India,All Rounder,30.0,150.0,Chennai Super Kings,2022,IPL,INR_LACS
+Yash Dayal,India,Bowler,20.0,320.0,Gujarat Titans,2022,IPL,INR_LACS
+Simarjeet Singh,India,Bowler,20.0,20.0,Chennai Super Kings,2022,IPL,INR_LACS
+Finn Allen,New Zealand,Batter,50.0,80.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Devon Conway,New Zealand,Batter,100.0,100.0,Chennai Super Kings,2022,IPL,INR_LACS
+Rovman Powell,West Indies,Batter,75.0,280.0,Delhi Capitals,2022,IPL,INR_LACS
+Jofra Archer,England,All Rounder,200.0,800.0,Mumbai Indians,2022,IPL,INR_LACS
+Rishi Dhawan,India,All Rounder,50.0,55.0,Punjab Kings,2022,IPL,INR_LACS
+Dwaine Pretorius,South Africa,All Rounder,50.0,50.0,Chennai Super Kings,2022,IPL,INR_LACS
+Sherfane Rutherford,West Indies,All Rounder,100.0,100.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Daniel Sams,Australia,All Rounder,100.0,260.0,Mumbai Indians,2022,IPL,INR_LACS
+Mitchell Santner,New Zealand,All Rounder,100.0,190.0,Chennai Super Kings,2022,IPL,INR_LACS
+Romario Shepherd,West Indies,All Rounder,75.0,775.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Jason Behrendorff,Australia,Bowler,75.0,75.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Obed McCoy,West Indies,Bowler,75.0,75.0,Rajasthan Royals,2022,IPL,INR_LACS
+Tymal Mills,England,Bowler,100.0,150.0,Mumbai Indians,2022,IPL,INR_LACS
+Adam Milne,New Zealand,Bowler,150.0,190.0,Chennai Super Kings,2022,IPL,INR_LACS
+Subhranshu Senapati,India,Batter,20.0,20.0,Chennai Super Kings,2022,IPL,INR_LACS
+Tim David,Australia,Batter,40.0,825.0,Mumbai Indians,2022,IPL,INR_LACS
+Pravin Dubey,India,All Rounder,20.0,50.0,Delhi Capitals,2022,IPL,INR_LACS
+Prerak Mankad,India,All Rounder,20.0,20.0,Punjab Kings,2022,IPL,INR_LACS
+Suyash Prabhudessai,India,All Rounder,20.0,30.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Vaibhav Arora,India,Bowler,20.0,200.0,Punjab Kings,2022,IPL,INR_LACS
+Mukesh Choudhary,India,Bowler,20.0,20.0,Chennai Super Kings,2022,IPL,INR_LACS
+Rasikh Salam Dar,India,Bowler,20.0,20.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Mohsin Khan,India,Bowler,20.0,20.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Chama Milind,India,Bowler,20.0,25.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Prashant Solanki,India,Bowler,20.0,120.0,Chennai Super Kings,2022,IPL,INR_LACS
+Sean Abbott,Australia,All Rounder,20.0,240.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Alzarri Joseph,West Indies,Bowler,75.0,240.0,Gujarat Titans,2022,IPL,INR_LACS
+Riley Meredith,Australia,Bowler,100.0,100.0,Mumbai Indians,2022,IPL,INR_LACS
+Ayush Badoni,India,Batter,20.0,20.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Aneeshwar Gautam,India,All Rounder,100.0,100.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Baba Indrajith,India,Wicket Keeper Batter,20.0,20.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Chamika Karunaratne,Sri Lanka,All Rounder,50.0,50.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Ravikumar Samarth,India,Batter,20.0,20.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Abhijeet Tomar,India,Batter,20.0,40.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Pradeep Sangwan,India,Bowler,20.0,20.0,Gujarat Titans,2022,IPL,INR_LACS
+Writtick Chatterjee,India,All Rounder,20.0,20.0,Punjab Kings,2022,IPL,INR_LACS
+Pratham Singh,India,Batter,20.0,20.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Shashank Singh,India,All Rounder,20.0,20.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Kyle Mayers,West Indies,All Rounder,50.0,50.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Karan Sharma,India,All Rounder,20.0,20.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Baltej Singh,India,Bowler,20.0,20.0,Punjab Kings,2022,IPL,INR_LACS
+Saurabh Dubey,India,Bowler,20.0,20.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Mohammed Arshad Khan,India,Bowler,20.0,20.0,Mumbai Indians,2022,IPL,INR_LACS
+Ansh Patel,India,All Rounder,20.0,20.0,Punjab Kings,2022,IPL,INR_LACS
+Ashok Sharma,India,Bowler,20.0,50.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Anunay Singh,India,Bowler,20.0,20.0,Rajasthan Royals,2022,IPL,INR_LACS
+David Miller,South Africa,Batter,100.0,300.0,Gujarat Titans,2022,IPL,INR_LACS
+Sam Billings,England,Wicket Keeper Batter,200.0,200.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Wriddhiman Saha,India,Wicket Keeper Batter,100.0,190.0,Gujarat Titans,2022,IPL,INR_LACS
+Matthew Wade,Australia,Wicket Keeper Batter,200.0,240.0,Gujarat Titans,2022,IPL,INR_LACS
+C. Hari Nishanth,India,Batter,20.0,20.0,Chennai Super Kings,2022,IPL,INR_LACS
+Anmolpreet Singh,India,Batter,20.0,20.0,Mumbai Indians,2022,IPL,INR_LACS
+Narayan Jagadeesan,India,Wicket Keeper Batter,20.0,20.0,Chennai Super Kings,2022,IPL,INR_LACS
+Vishnu Vinod,India,Wicket Keeper Batter,20.0,50.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Chris Jordan,England,Bowler,200.0,360.0,Chennai Super Kings,2022,IPL,INR_LACS
+Lungi Ngidi,South Africa,Bowler,50.0,50.0,Delhi Capitals,2022,IPL,INR_LACS
+Karn Sharma,India,Bowler,50.0,50.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Kuldeep Sen,India,Bowler,20.0,20.0,Rajasthan Royals,2022,IPL,INR_LACS
+Alex Hales,England,Batter,150.0,150.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Evin Lewis,West Indies,Batter,200.0,200.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Karun Nair,India,Batter,50.0,140.0,Rajasthan Royals,2022,IPL,INR_LACS
+Glenn Phillips,New Zealand,Wicket Keeper Batter,150.0,150.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Tim Seifert,New Zealand,Wicket Keeper Batter,50.0,50.0,Delhi Capitals,2022,IPL,INR_LACS
+Nathan Ellis,Australia,Bowler,75.0,75.0,Punjab Kings,2022,IPL,INR_LACS
+Fazalhaq Farooqi,Afghanistan,Bowler,50.0,50.0,Sunrisers Hyderabad,2022,IPL,INR_LACS
+Ramandeep Singh,India,Batter,20.0,20.0,Mumbai Indians,2022,IPL,INR_LACS
+Atharva Taide,India,All Rounder,20.0,20.0,Punjab Kings,2022,IPL,INR_LACS
+Dhruv Jurel,India,Wicket Keeper Batter,20.0,20.0,Rajasthan Royals,2022,IPL,INR_LACS
+Mayank Yadav,India,Bowler,20.0,20.0,Lucknow Super Giants,2022,IPL,INR_LACS
+Tejas Baroka,India,Bowler,20.0,20.0,Rajasthan Royals,2022,IPL,INR_LACS
+Bhanuka Rajapaksa,Sri Lanka,Batter,50.0,50.0,Punjab Kings,2022,IPL,INR_LACS
+Gurkeerat Singh,India,Batter,50.0,50.0,Gujarat Titans,2022,IPL,INR_LACS
+Tim Southee,New Zealand,Bowler,150.0,150.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Rahul Buddhi,India,Batter,20.0,20.0,Mumbai Indians,2022,IPL,INR_LACS
+Benny Howell,England,All Rounder,40.0,40.0,Punjab Kings,2022,IPL,INR_LACS
+Kuldip Yadav,India,Bowler,20.0,20.0,Rajasthan Royals,2022,IPL,INR_LACS
+Varun Aaron,India,Bowler,50.0,50.0,Gujarat Titans,2022,IPL,INR_LACS
+Ramesh Kumar,India,Bowler,20.0,20.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Hrithik Shokeen,India,All Rounder,20.0,20.0,Mumbai Indians,2022,IPL,INR_LACS
+K. Bhagath Varma,India,All Rounder,20.0,20.0,Chennai Super Kings,2022,IPL,INR_LACS
+Arjun Tendulkar,India,All Rounder,20.0,30.0,Mumbai Indians,2022,IPL,INR_LACS
+Shubham Garhwal,India,All Rounder,20.0,20.0,Rajasthan Royals,2022,IPL,INR_LACS
+Mohammad Nabi,Afghanistan,All Rounder,100.0,100.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Umesh Yadav,India,Bowler,200.0,200.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+James Neesham,New Zealand,All Rounder,150.0,150.0,Rajasthan Royals,2022,IPL,INR_LACS
+Nathan Coulter-Nile,Australia,All Rounder,200.0,200.0,Rajasthan Royals,2022,IPL,INR_LACS
+Vicky Ostwal,India,Bowler,20.0,20.0,Delhi Capitals,2022,IPL,INR_LACS
+Rassie van der Dussen,South Africa,Batter,100.0,100.0,Rajasthan Royals,2022,IPL,INR_LACS
+Daryl Mitchell,New Zealand,All Rounder,75.0,75.0,Rajasthan Royals,2022,IPL,INR_LACS
+Siddharth Kaul,India,Bowler,75.0,75.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+B. Sai Sudharshan,India,Batter,20.0,20.0,Gujarat Titans,2022,IPL,INR_LACS
+Aryan Juyal,India,Wicket Keeper Batter,20.0,20.0,Mumbai Indians,2022,IPL,INR_LACS
+Luvnith Sisodia,India,Wicket Keeper Batter,20.0,20.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Fabian Allen,West Indies,All Rounder,75.0,75.0,Mumbai Indians,2022,IPL,INR_LACS
+David Willey,England,All Rounder,200.0,200.0,Royal Challengers Bangalore,2022,IPL,INR_LACS
+Aman Khan,India,All Rounder,20.0,20.0,Kolkata Knight Riders,2022,IPL,INR_LACS
+Kane Williamson,New Zealand,Batsman,200.0,200.0,Gujarat Titans,2023,IPL,INR_LACS
+Harry Brook,England,Batsman,150.0,1325.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Mayank Agarwal,India,Batsman,100.0,825.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Ajinkya Rahane,India,Batsman,50.0,50.0,Chennai Super Kings,2023,IPL,INR_LACS
+Sam Curran,England,All-rounder,200.0,1850.0,Punjab Kings,2023,IPL,INR_LACS
+Odean Smith,West Indies,All-rounder,50.0,50.0,Gujarat Titans,2023,IPL,INR_LACS
+Sikandar Raza,Zimbabwe,All-rounder,50.0,50.0,Punjab Kings,2023,IPL,INR_LACS
+Jason Holder,West Indies,All-rounder,200.0,575.0,Rajasthan Royals,2023,IPL,INR_LACS
+Cameron Green,Australia,All-rounder,200.0,1750.0,Mumbai Indians,2023,IPL,INR_LACS
+Ben Stokes,England,All-rounder,200.0,1625.0,Chennai Super Kings,2023,IPL,INR_LACS
+Nicholas Pooran,West Indies,Wicket-keeper,200.0,1600.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Heinrich Klaasen,South Africa,Wicket-keeper,100.0,525.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Phil Salt,England,Wicket-keeper,200.0,200.0,Delhi Capitals,2023,IPL,INR_LACS
+Reece Topley,England,Bowler,75.0,190.0,Royal Challengers Bangalore,2023,IPL,INR_LACS
+Jaydev Unadkat,India,Bowler,50.0,50.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Jhye Richardson,Australia,Bowler,150.0,150.0,Mumbai Indians,2023,IPL,INR_LACS
+Ishant Sharma,India,Bowler,50.0,50.0,Delhi Capitals,2023,IPL,INR_LACS
+Adil Rashid,England,Bowler,200.0,200.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Mayank Markande,India,Bowler,50.0,50.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Shaik Rasheed,India,Batsman,20.0,20.0,Chennai Super Kings,2023,IPL,INR_LACS
+Vivrant Sharma,India,All-rounder,20.0,260.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Samarth Vyas,India,All-rounder,20.0,20.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Sanvir Singh,India,All-rounder,20.0,20.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Nishant Sindhu,India,All-rounder,20.0,60.0,Chennai Super Kings,2023,IPL,INR_LACS
+N Jagadeesan,India,Wicket-keeper,20.0,90.0,Kolkata Knight Riders,2023,IPL,INR_LACS
+K. S. Bharat,India,Wicket-keeper,20.0,120.0,Gujarat Titans,2023,IPL,INR_LACS
+Upendra Yadav,India,Wicket-keeper,20.0,25.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Vaibhav Arora,India,Bowler,20.0,60.0,Kolkata Knight Riders,2023,IPL,INR_LACS
+Yash Thakur,India,Bowler,20.0,45.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Shivam Mavi,India,Bowler,40.0,600.0,Gujarat Titans,2023,IPL,INR_LACS
+Mukesh Kumar,India,Bowler,20.0,550.0,Delhi Capitals,2023,IPL,INR_LACS
+Himanshu Sharma,India,Bowler,20.0,20.0,Royal Challengers Bangalore,2023,IPL,INR_LACS
+Manish Pandey,India,Batsman,100.0,240.0,Delhi Capitals,2023,IPL,INR_LACS
+Will Jacks,England,Batsman,150.0,320.0,Royal Challengers Bangalore,2023,IPL,INR_LACS
+Romario Shepherd,West Indies,All-rounder,50.0,50.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Daniel Sams,Australia,All-rounder,75.0,75.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Kyle Jamieson,New Zealand,Bowler,100.0,100.0,Chennai Super Kings,2023,IPL,INR_LACS
+Piyush Chawla,India,Bowler,50.0,50.0,Mumbai Indians,2023,IPL,INR_LACS
+Amit Mishra,India,Bowler,50.0,50.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Harpreet Singh Bhatia,India,Batsman,20.0,40.0,Punjab Kings,2023,IPL,INR_LACS
+Manoj Bhandage,India,All-rounder,20.0,20.0,Royal Challengers Bangalore,2023,IPL,INR_LACS
+Mayank Dagar,India,All-rounder,20.0,180.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Duan Jansen,South Africa,All-rounder,20.0,20.0,Mumbai Indians,2023,IPL,INR_LACS
+Prerak Mankad,India,All-rounder,20.0,180.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Donavon Ferreira,South Africa,Wicket-Keeper,20.0,20.0,Rajasthan Royals,2023,IPL,INR_LACS
+Urvil Patel,India,Wicket-Keeper,20.0,20.0,Gujarat Titans,2023,IPL,INR_LACS
+Vishnu Vinod,India,Wicket-Keeper,20.0,20.0,Mumbai Indians,2023,IPL,INR_LACS
+Vidwath Kaverappa,India,Bowler,20.0,20.0,Punjab Kings,2023,IPL,INR_LACS
+Rajan Kumar,India,Bowler,20.0,20.0,Royal Challengers Bangalore,2023,IPL,INR_LACS
+Suyash Sharma,India,Bowler,20.0,20.0,Kolkata Knight Riders,2023,IPL,INR_LACS
+Josh Little,Ireland,Bowler,50.0,440.0,Gujarat Titans,2023,IPL,INR_LACS
+Mohit Sharma,India,Bowler,50.0,50.0,Gujarat Titans,2023,IPL,INR_LACS
+Shams Mulani,India,All-rounder,20.0,20.0,Mumbai Indians,2023,IPL,INR_LACS
+Swapnil Singh,India,All-rounder,20.0,20.0,Lucknow Super Giants,2023,IPL,INR_LACS
+David Wiese,Namibia,All-rounder,100.0,100.0,Kolkata Knight Riders,2023,IPL,INR_LACS
+Nitish Kumar Reddy,India,Wicket-Keeper,20.0,20.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Avinash Singh,India,Bowler,20.0,60.0,Royal Challengers Bangalore,2023,IPL,INR_LACS
+Kunal Rathore,India,Wicket-Keeper,20.0,20.0,Rajasthan Royals,2023,IPL,INR_LACS
+Sonu Yadav,India,All-rounder,20.0,20.0,Royal Challengers Bangalore,2023,IPL,INR_LACS
+Kulwant Khejroliya,India,Bowler,20.0,20.0,Kolkata Knight Riders,2023,IPL,INR_LACS
+Ajay Mandal,India,All-rounder,20.0,20.0,Chennai Super Kings,2023,IPL,INR_LACS
+Mohit Rathee,India,All-rounder,20.0,20.0,Punjab Kings,2023,IPL,INR_LACS
+Nehal Wadhera,India,All-rounder,20.0,20.0,Mumbai Indians,2023,IPL,INR_LACS
+Bhagath Varma,India,All-rounder,20.0,20.0,Chennai Super Kings,2023,IPL,INR_LACS
+Shivam Singh,India,All-rounder,20.0,20.0,Punjab Kings,2023,IPL,INR_LACS
+Rilee Rossouw,South Africa,Batsman,200.0,460.0,Delhi Capitals,2023,IPL,INR_LACS
+Litton Das,Bangladesh,Wicket-Keeper,50.0,50.0,Kolkata Knight Riders,2023,IPL,INR_LACS
+Akeal Hosein,West Indies,Bowler,100.0,100.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+Adam Zampa,Australia,Bowler,150.0,150.0,Rajasthan Royals,2023,IPL,INR_LACS
+Anmolpreet Singh,India,Batsman,20.0,20.0,Sunrisers Hyderabad,2023,IPL,INR_LACS
+KM Asif,India,Bowler,20.0,30.0,Rajasthan Royals,2023,IPL,INR_LACS
+Murugan Ashwin,India,Bowler,20.0,20.0,Rajasthan Royals,2023,IPL,INR_LACS
+Mandeep Singh,India,Batsman,50.0,50.0,Kolkata Knight Riders,2023,IPL,INR_LACS
+Akash Vasisht,India,All-rounder,20.0,20.0,Rajasthan Royals,2023,IPL,INR_LACS
+Naveen-ul-Haq,Afghanistan,Bowler,50.0,50.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Yudhvir Singh Charak,India,Bowler,20.0,20.0,Lucknow Super Giants,2023,IPL,INR_LACS
+Raghav Goyal,India,Bowler,20.0,20.0,Mumbai Indians,2023,IPL,INR_LACS
+Abdul Basith,India,All-rounder,20.0,20.0,Rajasthan Royals,2023,IPL,INR_LACS
+Joe Root,England,Batsman,100.0,100.0,Rajasthan Royals,2023,IPL,INR_LACS
+Shakib al Hasan,Bangladesh,All-rounder,150.0,150.0,Kolkata Knight Riders,2023,IPL,INR_LACS
+Harry Brook,nan,Batsman,200.0,400.0,Delhi Capitals,2024,IPL,INR_LACS
+Travis Head,nan,Batsman,200.0,680.0,Sunrisers Hyderabad,2024,IPL,INR_LACS
+Rovman Powell,nan,Batsman,100.0,740.0,Rajasthan Royals,2024,IPL,INR_LACS
+Wanindu Hasaranga,Sri Lanka,All-rounder,150.0,150.0,Sunrisers Hyderabad,2024,IPL,INR_LACS
+Rachin Ravindra,New Zealand,All-rounder,50.0,180.0,Chennai Super Kings,2024,IPL,INR_LACS
+Shardul Thakur,India,All-rounder,200.0,400.0,Chennai Super Kings,2024,IPL,INR_LACS
+Azmatullah Omarzai,Afghanistan,All-rounder,50.0,50.0,Gujarat Titans,2024,IPL,INR_LACS
+Pat Cummins,Australia,All-rounder,200.0,2050.0,Sunrisers Hyderabad,2024,IPL,INR_LACS
+Gerald Coetzee,South Africa,All-rounder,200.0,500.0,Mumbai Indians,2024,IPL,INR_LACS
+Harshal Patel,India,All-rounder,200.0,1175.0,Punjab Kings,2024,IPL,INR_LACS
+Daryl Mitchell,New Zealand,All-rounder,100.0,1400.0,Chennai Super Kings,2024,IPL,INR_LACS
+Chris Woakes,England,All-rounder,200.0,420.0,Punjab Kings,2024,IPL,INR_LACS
+Tristan Stubbs,South Africa,Wicket-Keeper,50.0,50.0,Delhi Capitals,2024,IPL,INR_LACS
+K. S. Bharat,India,Wicket-Keeper,50.0,50.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Chetan Sakariya,India,Bowler,50.0,50.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Alzarri Joseph,West Indies,Bowler,100.0,1150.0,Royal Challengers Bengaluru,2024,IPL,INR_LACS
+Umesh Yadav,India,Bowler,200.0,580.0,Gujarat Titans,2024,IPL,INR_LACS
+Shivam Mavi,India,Bowler,50.0,640.0,Lucknow Super Giants,2024,IPL,INR_LACS
+Mitchell Starc,Australia,Bowler,200.0,2475.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Jaydev Unadkat,India,Bowler,50.0,160.0,Sunrisers Hyderabad,2024,IPL,INR_LACS
+Dilshan Madushanka,Sri Lanka,Bowler,50.0,460.0,Mumbai Indians,2024,IPL,INR_LACS
+Shubham Dubey,India,Batsman,20.0,580.0,Rajasthan Royals,2024,IPL,INR_LACS
+Sameer Rizvi,India,Batsman,20.0,840.0,Chennai Super Kings,2024,IPL,INR_LACS
+Angkrish Raghuvanshi,India,Batsman,20.0,20.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Arshin Kulkarni,India,All-rounder,20.0,20.0,Lucknow Super Giants,2024,IPL,INR_LACS
+Shahrukh Khan,India,All-rounder,20.0,740.0,Gujarat Titans,2024,IPL,INR_LACS
+Ramandeep Singh,India,All-rounder,20.0,20.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Tom Kohler-Cadmore,England,Wicket-Keeper,40.0,40.0,Rajasthan Royals,2024,IPL,INR_LACS
+Ricky Bhui,India,Wicket-Keeper,20.0,20.0,Delhi Capitals,2024,IPL,INR_LACS
+Kumar Kushagra,India,Wicket-Keeper,20.0,720.0,Delhi Capitals,2024,IPL,INR_LACS
+Yash Dayal,India,Bowler,20.0,500.0,Royal Challengers Bengaluru,2024,IPL,INR_LACS
+Sushant Mishra,India,Bowler,20.0,220.0,Gujarat Titans,2024,IPL,INR_LACS
+Kartik Tyagi,India,Bowler,20.0,500.0,Gujarat Titans,2024,IPL,INR_LACS
+Rasikh Dar,India,Bowler,20.0,20.0,Delhi Capitals,2024,IPL,INR_LACS
+Akash Singh,India,Bowler,20.0,20.0,Sunrisers Hyderabad,2024,IPL,INR_LACS
+Manav Suthar,India,Bowler,20.0,20.0,Gujarat Titans,2024,IPL,INR_LACS
+Manimaran Siddharth,India,Bowler,20.0,240.0,Lucknow Super Giants,2024,IPL,INR_LACS
+Shreyas Gopal,India,Bowler,20.0,20.0,Mumbai Indians,2024,IPL,INR_LACS
+Sherfane Rutherford,West Indies,Batsman,150.0,150.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Ashton Turner,Australia,Batsman,100.0,100.0,Lucknow Super Giants,2024,IPL,INR_LACS
+Tom Curran,England,All-Rounder,150.0,150.0,Royal Challengers Bengaluru,2024,IPL,INR_LACS
+David Willey,England,All-Rounder,200.0,200.0,Lucknow Super Giants,2024,IPL,INR_LACS
+Spencer Johnson,Australia,Bowler,50.0,1000.0,Gujarat Titans,2024,IPL,INR_LACS
+Mustafizur Rahman,Bangladesh,Bowler,200.0,200.0,Chennai Super Kings,2024,IPL,INR_LACS
+Jhye Richardson,Australia,Bowler,150.0,500.0,Delhi Capitals,2024,IPL,INR_LACS
+Nuwan Thushara,Sri Lanka,Bowler,50.0,480.0,Mumbai Indians,2024,IPL,INR_LACS
+Naman Dhir,India,All-Rounder,20.0,20.0,Mumbai Indians,2024,IPL,INR_LACS
+Anshul Kamboj,India,All-Rounder,20.0,20.0,Mumbai Indians,2024,IPL,INR_LACS
+Sumit Kumar,India,All-Rounder,20.0,100.0,Delhi Capitals,2024,IPL,INR_LACS
+Ashutosh Sharma,India,All-Rounder,20.0,20.0,Punjab Kings,2024,IPL,INR_LACS
+Vishwanath Singh,India,All-Rounder,20.0,20.0,Punjab Kings,2024,IPL,INR_LACS
+Shashank Singh,India,All-Rounder,20.0,20.0,Punjab Kings,2024,IPL,INR_LACS
+Tanay Thyagarajan,India,All-Rounder,20.0,20.0,Punjab Kings,2024,IPL,INR_LACS
+Robin Minz,India,Wicket-Keeper,20.0,360.0,Gujarat Titans,2024,IPL,INR_LACS
+Prince Choudary,India,Bowler,20.0,20.0,Punjab Kings,2024,IPL,INR_LACS
+Jhathavedh Subramanyan,India,Bowler,20.0,20.0,Sunrisers Hyderabad,2024,IPL,INR_LACS
+Manish Pandey,India,Batsman,50.0,50.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Rilee Rossouw,South Africa,Batsman,200.0,800.0,Punjab Kings,2024,IPL,INR_LACS
+Lockie Ferguson,New Zealand,Bowler,200.0,200.0,Royal Challengers Bengaluru,2024,IPL,INR_LACS
+Mujeeb Ur Rahman,Afghanistan,Bowler,200.0,200.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Arshad Khan,India,All-Rounder,20.0,20.0,Lucknow Super Giants,2024,IPL,INR_LACS
+Mohammad Nabi,Afghanistan,All-Rounder,150.0,150.0,Mumbai Indians,2024,IPL,INR_LACS
+Shai Hope,West Indies,Wicket-Keeper,75.0,75.0,Delhi Capitals,2024,IPL,INR_LACS
+Gus Atkinson,England,Bowler,100.0,100.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Swastik Chhikara,India,Batsman,20.0,20.0,Delhi Capitals,2024,IPL,INR_LACS
+Abid Mushtaq,India,All-Rounder,20.0,20.0,Rajasthan Royals,2024,IPL,INR_LACS
+Shivalik Sharma,India,All-Rounder,20.0,20.0,Mumbai Indians,2024,IPL,INR_LACS
+Swapnil Singh,India,All-Rounder,20.0,20.0,Royal Challengers Bengaluru,2024,IPL,INR_LACS
+Avanish Rao Aravelly,India,Wicket-Keeper,20.0,20.0,Chennai Super Kings,2024,IPL,INR_LACS
+Nandre Burger,South Africa,Bowler,50.0,50.0,Rajasthan Royals,2024,IPL,INR_LACS
+Sakib Hussain,India,Bowler,20.0,20.0,Kolkata Knight Riders,2024,IPL,INR_LACS
+Saurav Chauhan,India,Batsman,20.0,20.0,Royal Challengers Bengaluru,2024,IPL,INR_LACS
+Jos Buttler,England,Wicket-keeper,200.0,1575.0,Gujarat Titans,2025,IPL,INR_LACS
+Shreyas Iyer,India,Batter,200.0,2675.0,Punjab Kings,2025,IPL,INR_LACS
+Rishabh Pant,India,Batter,200.0,2700.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Kagiso Rabada,South Africa,Bowler,200.0,1075.0,Gujarat Titans,2025,IPL,INR_LACS
+Arshdeep Singh,India,Bowler,200.0,1800.0,Punjab Kings,2025,IPL,INR_LACS
+Mitchell Starc,Australia,Bowler,200.0,1175.0,Delhi Capitals,2025,IPL,INR_LACS
+Yuzvendra Chahal,India,Bowler,200.0,1800.0,Punjab Kings,2025,IPL,INR_LACS
+Liam Livingstone,England,All-rounder,200.0,875.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+David Miller,South Africa,Batter,150.0,750.0,Lucknow Super Giants,2025,IPL,INR_LACS
+KL Rahul,India,Wicket-keeper,200.0,1400.0,Delhi Capitals,2025,IPL,INR_LACS
+Mohammed Shami,India,Bowler,200.0,1000.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Mohammed Siraj,India,Bowler,200.0,1225.0,Gujarat Titans,2025,IPL,INR_LACS
+Harry Brook,England,,200.0,625.0,Delhi Capitals,2025,IPL,INR_LACS
+Devon Conway,New Zealand,,200.0,625.0,Chennai Super Kings,2025,IPL,INR_LACS
+Jake Fraser-McGurk,Australia,,200.0,900.0,Delhi Capitals,2025,IPL,INR_LACS
+Aiden Markram,South Africa,,200.0,200.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Devdutt Padikkal,India,,200.0,200.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Rahul Tripathi,India,,75.0,340.0,Chennai Super Kings,2025,IPL,INR_LACS
+Ravichandran Ashwin,India,,200.0,975.0,Chennai Super Kings,2025,IPL,INR_LACS
+Venkatesh Iyer,India,,200.0,2375.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Mitchell Marsh,Australia,,200.0,340.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Glenn Maxwell,Australia,,200.0,420.0,Punjab Kings,2025,IPL,INR_LACS
+Harshal Patel,India,,200.0,800.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Rachin Ravindra,New Zealand,,150.0,400.0,Chennai Super Kings,2025,IPL,INR_LACS
+Marcus Stoinis,Australia,,200.0,1100.0,Punjab Kings,2025,IPL,INR_LACS
+Quinton de Kock,South Africa,,200.0,360.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Rahmanullah Gurbaz,Afghanistan,,200.0,200.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Ishan Kishan,India,,200.0,1125.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Phil Salt,England,,200.0,1150.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Jitesh Sharma,India,,100.0,1100.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Khaleel Ahmed,India,,200.0,480.0,Chennai Super Kings,2025,IPL,INR_LACS
+Jofra Archer,England,,200.0,1250.0,Rajasthan Royals,2025,IPL,INR_LACS
+Trent Boult,New Zealand,,200.0,1250.0,Mumbai Indians,2025,IPL,INR_LACS
+Josh Hazlewood,Australia,,200.0,1250.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Avesh Khan,India,,200.0,975.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Prasidh Krishna,India,,200.0,950.0,Gujarat Titans,2025,IPL,INR_LACS
+T. Natarajan,India,,200.0,1075.0,Delhi Capitals,2025,IPL,INR_LACS
+Anrich Nortje,South Africa,,200.0,650.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Noor Ahmad,Afghanistan,,200.0,1000.0,Chennai Super Kings,2025,IPL,INR_LACS
+Rahul Chahar,India,,100.0,320.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Wanindu Hasaranga,Sri Lanka,,200.0,525.0,Rajasthan Royals,2025,IPL,INR_LACS
+Maheesh Theekshana,Sri Lanka,,200.0,440.0,Rajasthan Royals,2025,IPL,INR_LACS
+Adam Zampa,Australia,,200.0,240.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Abhinav Manohar,India,,30.0,320.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Karun Nair,India,,30.0,50.0,Delhi Capitals,2025,IPL,INR_LACS
+Angkrish Raghuvanshi,India,,30.0,300.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Atharva Taide,India,,30.0,30.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Nehal Wadhera,India,,30.0,420.0,Punjab Kings,2025,IPL,INR_LACS
+Harpreet Brar,India,,30.0,150.0,Punjab Kings,2025,IPL,INR_LACS
+Naman Dhir,India,,30.0,525.0,Mumbai Indians,2025,IPL,INR_LACS
+Mahipal Lomror,India,,30.0,170.0,Gujarat Titans,2025,IPL,INR_LACS
+Sameer Rizvi,India,,30.0,95.0,Delhi Capitals,2025,IPL,INR_LACS
+Abdul Samad,India,,30.0,420.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Vijay Shankar,India,,30.0,120.0,Chennai Super Kings,2025,IPL,INR_LACS
+Ashutosh Sharma,India,,30.0,380.0,Delhi Capitals,2025,IPL,INR_LACS
+Nishant Sindhu,India,,30.0,30.0,Gujarat Titans,2025,IPL,INR_LACS
+Aryan Juyal,India,,30.0,30.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Kumar Kushagra,India,,30.0,65.0,Gujarat Titans,2025,IPL,INR_LACS
+Robin Minz,India,,30.0,65.0,Mumbai Indians,2025,IPL,INR_LACS
+Anuj Rawat,India,,30.0,30.0,Gujarat Titans,2025,IPL,INR_LACS
+Luvnith Sisodia,India,,30.0,30.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Vishnu Vinod,India,,30.0,95.0,Punjab Kings,2025,IPL,INR_LACS
+Vaibhav Arora,India,,30.0,180.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Rasikh Salam Dar,India,,30.0,600.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Akash Madhwal,India,,30.0,120.0,Rajasthan Royals,2025,IPL,INR_LACS
+Mohit Sharma,India,,50.0,220.0,Delhi Capitals,2025,IPL,INR_LACS
+Simarjeet Singh,India,,30.0,150.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Yash Thakur,India,,30.0,160.0,Punjab Kings,2025,IPL,INR_LACS
+Vijaykumar Vyshak,India,,30.0,180.0,Punjab Kings,2025,IPL,INR_LACS
+Shreyas Gopal,India,,30.0,30.0,Chennai Super Kings,2025,IPL,INR_LACS
+Mayank Markande,India,,30.0,30.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Suyash Sharma,India,,30.0,260.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Karn Sharma,India,,50.0,50.0,Mumbai Indians,2025,IPL,INR_LACS
+Kumar Kartikeya,India,,30.0,30.0,Rajasthan Royals,2025,IPL,INR_LACS
+Manav Suthar,India,,30.0,30.0,Gujarat Titans,2025,IPL,INR_LACS
+Faf du Plessis,South Africa,,200.0,200.0,Delhi Capitals,2025,IPL,INR_LACS
+Glenn Phillips,New Zealand,,200.0,200.0,Gujarat Titans,2025,IPL,INR_LACS
+Rovman Powell,West Indies,,150.0,150.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Ajinkya Rahane,India,,150.0,150.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Sam Curran,England,,200.0,240.0,Chennai Super Kings,2025,IPL,INR_LACS
+Marco Jansen,South Africa,,125.0,700.0,Punjab Kings,2025,IPL,INR_LACS
+Krunal Pandya,India,,200.0,575.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Nitish Rana,India,,150.0,420.0,Rajasthan Royals,2025,IPL,INR_LACS
+Washington Sundar,India,,200.0,320.0,Gujarat Titans,2025,IPL,INR_LACS
+Donovan Ferreira,South Africa,,75.0,75.0,Delhi Capitals,2025,IPL,INR_LACS
+Josh Inglis,Australia,,200.0,260.0,Punjab Kings,2025,IPL,INR_LACS
+Ryan Rickelton,South Africa,,100.0,100.0,Mumbai Indians,2025,IPL,INR_LACS
+Deepak Chahar,India,,200.0,925.0,Mumbai Indians,2025,IPL,INR_LACS
+Gerald Coetzee,South Africa,,125.0,240.0,Gujarat Titans,2025,IPL,INR_LACS
+Akash Deep,India,,100.0,800.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Tushar Deshpande,India,,100.0,650.0,Rajasthan Royals,2025,IPL,INR_LACS
+Lockie Ferguson,New Zealand,,200.0,200.0,Punjab Kings,2025,IPL,INR_LACS
+Bhuvneshwar Kumar,India,,200.0,1075.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Mukesh Kumar,India,,200.0,800.0,Delhi Capitals,2025,IPL,INR_LACS
+Allah Ghazanfar,Afghanistan,,75.0,480.0,Mumbai Indians,2025,IPL,INR_LACS
+Swastik Chikara,India,Batter,30.0,30.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Shubham Dubey,India,Batter,30.0,80.0,Rajasthan Royals,2025,IPL,INR_LACS
+Shaik Rasheed,India,Batter,30.0,30.0,Chennai Super Kings,2025,IPL,INR_LACS
+Himmat Singh,India,Batter,30.0,30.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Anshul Kamboj,India,All-rounder,30.0,340.0,Chennai Super Kings,2025,IPL,INR_LACS
+Arshad Khan,India,All-rounder,30.0,130.0,Gujarat Titans,2025,IPL,INR_LACS
+Darshan Nalkande,India,All-rounder,30.0,30.0,Delhi Capitals,2025,IPL,INR_LACS
+Anukul Roy,India,All-rounder,30.0,40.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Swapnil Singh,India,All-rounder,30.0,50.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Vansh Bedi,India,Wicket-keeper,30.0,55.0,Chennai Super Kings,2025,IPL,INR_LACS
+Kunal Rathore,India,Wicket-keeper,30.0,30.0,Rajasthan Royals,2025,IPL,INR_LACS
+Gurnoor Brar,India,Bowler,30.0,130.0,Gujarat Titans,2025,IPL,INR_LACS
+Mukesh Choudhary,India,Bowler,30.0,30.0,Chennai Super Kings,2025,IPL,INR_LACS
+Arjun Tendulkar,India,Bowler,30.0,30.0,Mumbai Indians,2025,IPL,INR_LACS
+Zeeshan Ansari,India,Bowler,30.0,40.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Manimaran Siddharth,India,Bowler,30.0,75.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Digvesh Singh,India,Bowler,30.0,30.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Manish Pandey,India,Batter,75.0,75.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Sherfane Rutherford,West Indies,Batter,150.0,260.0,Gujarat Titans,2025,IPL,INR_LACS
+Shahbaz Ahmed,India,All-rounder,100.0,240.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Tim David,Australia,All-rounder,200.0,300.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Deepak Hooda,India,All-rounder,75.0,170.0,Chennai Super Kings,2025,IPL,INR_LACS
+Will Jacks,England,All-rounder,200.0,525.0,Mumbai Indians,2025,IPL,INR_LACS
+Azmatullah Omarzai,Afghanistan,All-rounder,150.0,240.0,Punjab Kings,2025,IPL,INR_LACS
+Sai Kishore,India,All-rounder,75.0,200.0,Gujarat Titans,2025,IPL,INR_LACS
+Romario Shepherd,West Indies,All-rounder,150.0,150.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Spencer Johnson,Australia,Bowler,200.0,280.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Umran Malik,India,Bowler,75.0,75.0,Kolkata Knight Riders,2025,IPL,INR_LACS
+Ishant Sharma,India,Bowler,75.0,75.0,Gujarat Titans,2025,IPL,INR_LACS
+Nuwan Thushara,Sri Lanka,Bowler,75.0,160.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Jaydev Unadkat,India,Bowler,100.0,100.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Sachin Baby,India,Batter,30.0,30.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Harnoor Singh,India,Batter,30.0,30.0,Punjab Kings,2025,IPL,INR_LACS
+Andre Siddarth,India,Batter,30.0,30.0,Chennai Super Kings,2025,IPL,INR_LACS
+Yudhvir Singh,India,All-rounder,30.0,35.0,Rajasthan Royals,2025,IPL,INR_LACS
+Rajvardhan Hangargekar,India,All-rounder,30.0,30.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Arshin Kulkarni,India,All-rounder,30.0,30.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Ashwani Kumar,India,Bowler,30.0,30.0,Mumbai Indians,2025,IPL,INR_LACS
+Akash Singh,India,Bowler,30.0,30.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Gurjapneet Singh,India,Bowler,30.0,220.0,Chennai Super Kings,2025,IPL,INR_LACS
+Matthew Breetzke,South Africa,Batter,,75.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Mitchell Santner,New Zealand,All-rounder,200.0,200.0,Mumbai Indians,2025,IPL,INR_LACS
+Jayant Yadav,India,All-rounder,75.0,75.0,Gujarat Titans,2025,IPL,INR_LACS
+Fazalhaq Farooqi,Afghanistan,Bowler,200.0,200.0,Rajasthan Royals,2025,IPL,INR_LACS
+Kwena Maphaka,South Africa,Bowler,75.0,150.0,Rajasthan Royals,2025,IPL,INR_LACS
+Kuldeep Sen,India,Bowler,75.0,80.0,Punjab Kings,2025,IPL,INR_LACS
+Reece Topley,England,Bowler,75.0,75.0,Mumbai Indians,2025,IPL,INR_LACS
+Lizaad Williams,South Africa,Bowler,75.0,75.0,Mumbai Indians,2025,IPL,INR_LACS
+Priyansh Arya,India,All-rounder,30.0,380.0,Punjab Kings,2025,IPL,INR_LACS
+Manoj Bhandage,India,All-rounder,30.0,30.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Praveen Dubey,India,All-rounder,30.0,30.0,Punjab Kings,2025,IPL,INR_LACS
+Ajay Mandal,India,All-rounder,30.0,30.0,Delhi Capitals,2025,IPL,INR_LACS
+Vipraj Nigam,India,All-rounder,30.0,50.0,Delhi Capitals,2025,IPL,INR_LACS
+Krishnan Shrijith,India,All-rounder,30.0,30.0,Mumbai Indians,2025,IPL,INR_LACS
+Mohit Rathee,India,Bowler,30.0,30.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Jacob Bethell,England,All-rounder,125.0,260.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Brydon Carse,England,All-rounder,100.0,100.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Aaron Hardie,Australia,All-rounder,125.0,125.0,Punjab Kings,2025,IPL,INR_LACS
+Kamindu Mendis,Sri Lanka,All-rounder,75.0,75.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Dushmantha Chameera,Sri Lanka,Bowler,75.0,75.0,Delhi Capitals,2025,IPL,INR_LACS
+Nathan Ellis,Australia,Bowler,100.0,200.0,Chennai Super Kings,2025,IPL,INR_LACS
+Shamar Joseph,West Indies,Bowler,75.0,75.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Aniket Verma,India,Batter,30.0,30.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Raj Angad Bawa,India,All-rounder,30.0,30.0,Mumbai Indians,2025,IPL,INR_LACS
+Musheer Khan,India,All-rounder,30.0,30.0,Punjab Kings,2025,IPL,INR_LACS
+Manvanth Kumar L,India,All-rounder,30.0,30.0,Delhi Capitals,2025,IPL,INR_LACS
+Suryansh Shedge,India,All-rounder,30.0,30.0,Punjab Kings,2025,IPL,INR_LACS
+Kulwant Khejroliya,India,Bowler,30.0,30.0,Gujarat Titans,2025,IPL,INR_LACS
+Prince Yadav,India,All-rounder,30.0,30.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Jamie Overton,England,All-rounder,150.0,150.0,Chennai Super Kings,2025,IPL,INR_LACS
+Xavier Bartlett,Australia,Bowler,75.0,80.0,Punjab Kings,2025,IPL,INR_LACS
+Lungi Ngidi,South Africa,Bowler,30.0,100.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Yuvraj Chaudhary,India,All-rounder,30.0,30.0,Lucknow Super Giants,2025,IPL,INR_LACS
+Kamlesh Nagarkoti,India,All-rounder,30.0,30.0,Chennai Super Kings,2025,IPL,INR_LACS
+Abhinandan Singh,India,Bowler,30.0,30.0,Royal Challengers Bengaluru,2025,IPL,INR_LACS
+Karim Janat,Afghanistan,All-rounder,30.0,75.0,Gujarat Titans,2025,IPL,INR_LACS
+Pyla Avinash,India,Batter,30.0,30.0,Punjab Kings,2025,IPL,INR_LACS
+Ramakrishna Ghosh,India,All-rounder,30.0,30.0,Chennai Super Kings,2025,IPL,INR_LACS
+Bevon Jacobs,New Zealand,Batter,30.0,30.0,Mumbai Indians,2025,IPL,INR_LACS
+Ashok Sharma,India,Bowler,30.0,30.0,Rajasthan Royals,2025,IPL,INR_LACS
+Vaibhav Sooryavanshi,India,Batter,30.0,110.0,Rajasthan Royals,2025,IPL,INR_LACS
+Eshan Malinga,Sri Lanka,Bowler,30.0,120.0,Sunrisers Hyderabad,2025,IPL,INR_LACS
+Tripurana Vijay,India,All-rounder,30.0,30.0,Delhi Capitals,2025,IPL,INR_LACS
+Madhav Tiwari,India,All-rounder,30.0,40.0,Delhi Capitals,2025,IPL,INR_LACS
+Vignesh Puthur,India,All-rounder,30.0,30.0,Mumbai Indians,2025,IPL,INR_LACS
+Cameron Green,Australia,,200.0,2520.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Sarfaraz Khan,India,,75.0,75.0,Chennai Super Kings,2026,IPL,INR_LACS
+David Miller,South Africa,,200.0,200.0,Delhi Capitals,2026,IPL,INR_LACS
+Prithvi Shaw,India,,75.0,75.0,Delhi Capitals,2026,IPL,INR_LACS
+Wanindu Hasaranga,Sri Lanka,,200.0,200.0,Lucknow Super Giants,2026,IPL,INR_LACS
+Venkatesh Iyer,India,,200.0,700.0,Royal Challengers Bengaluru,2026,IPL,INR_LACS
+Liam Livingstone,England,,200.0,1300.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Rachin Ravindra,New Zealand,,200.0,200.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Finn Allen,New Zealand,,200.0,200.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Quinton de Kock,South Africa,,100.0,100.0,Mumbai Indians,2026,IPL,INR_LACS
+Ben Duckett,England,,200.0,200.0,Delhi Capitals,2026,IPL,INR_LACS
+Akash Deep,India,,100.0,100.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Jacob Duffy,New Zealand,,200.0,200.0,Royal Challengers Bengaluru,2026,IPL,INR_LACS
+Matt Henry,New Zealand,,200.0,200.0,Chennai Super Kings,2026,IPL,INR_LACS
+Shivam Mavi,India,,75.0,75.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Anrich Nortje,South Africa,,200.0,200.0,Lucknow Super Giants,2026,IPL,INR_LACS
+Matheesha Pathirana,Sri Lanka,,200.0,1800.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Ravi Bishnoi,India,,200.0,720.0,Rajasthan Royals,2026,IPL,INR_LACS
+Rahul Chahar,India,,100.0,520.0,Chennai Super Kings,2026,IPL,INR_LACS
+Akeal Hosein,West Indies,,200.0,200.0,Chennai Super Kings,2026,IPL,INR_LACS
+Auqib Nabi,India,,30.0,840.0,Delhi Capitals,2026,IPL,INR_LACS
+Shivang Kumar,India,,30.0,30.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Prashant Veer,India,,30.0,1420.0,Chennai Super Kings,2026,IPL,INR_LACS
+Mukul Choudhary,India,,30.0,260.0,Lucknow Super Giants,2026,IPL,INR_LACS
+Kartik Sharma,India,,30.0,1420.0,Chennai Super Kings,2026,IPL,INR_LACS
+Tejasvi Singh,India,,30.0,300.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Sushant Mishra,India,,30.0,90.0,Rajasthan Royals,2026,IPL,INR_LACS
+Ashok Sharma,India,,30.0,90.0,Gujarat Titans,2026,IPL,INR_LACS
+Naman Tiwari,India,,30.0,100.0,Lucknow Super Giants,2026,IPL,INR_LACS
+Kartik Tyagi,India,,30.0,30.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Yash Raj Punja,India,,30.0,30.0,Rajasthan Royals,2026,IPL,INR_LACS
+Vignesh Puthur,India,,30.0,30.0,Rajasthan Royals,2026,IPL,INR_LACS
+Prashant Solanki,India,,30.0,30.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Pathum Nissanka,Sri Lanka,Batter,75.0,400.0,Delhi Capitals,2026,IPL,INR_LACS
+Rahul Tripathi,India,Batter,75.0,75.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Ben Dwarshuis,Australia,All-rounder,100.0,440.0,Punjab Kings,2026,IPL,INR_LACS
+Zak Foulkes,New Zealand,All-rounder,75.0,75.0,Chennai Super Kings,2026,IPL,INR_LACS
+Jason Holder,West Indies,All-rounder,200.0,700.0,Gujarat Titans,2026,IPL,INR_LACS
+Matthew Short,Australia,All-rounder,150.0,150.0,Chennai Super Kings,2026,IPL,INR_LACS
+Tom Banton,England,Wicket-keeper,200.0,200.0,Gujarat Titans,2026,IPL,INR_LACS
+Jordan Cox,England,Wicket-keeper,75.0,75.0,Royal Challengers Bengaluru,2026,IPL,INR_LACS
+Josh Inglis,Australia,Wicket-keeper,200.0,860.0,Lucknow Super Giants,2026,IPL,INR_LACS
+Tim Seifert,New Zealand,Wicket-keeper,150.0,150.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Kyle Jamieson,New Zealand,Bowler,200.0,200.0,Delhi Capitals,2026,IPL,INR_LACS
+Adam Milne,New Zealand,Bowler,200.0,240.0,Rajasthan Royals,2026,IPL,INR_LACS
+Lungi Ngidi,South Africa,Bowler,200.0,200.0,Delhi Capitals,2026,IPL,INR_LACS
+Mustafizur Rahman,Bangladesh,Bowler,200.0,920.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Kuldeep Sen,India,Bowler,75.0,75.0,Rajasthan Royals,2026,IPL,INR_LACS
+Danish Malewar,India,Batter,30.0,30.0,Mumbai Indians,2026,IPL,INR_LACS
+Aman Rao,India,Batter,30.0,30.0,Rajasthan Royals,2026,IPL,INR_LACS
+Akshat Raghuwanshi,India,Batter,30.0,220.0,Lucknow Super Giants,2026,IPL,INR_LACS
+Satvik Deswal,India,All-rounder,30.0,30.0,Royal Challengers Bengaluru,2026,IPL,INR_LACS
+Aman Khan,India,All-rounder,30.0,40.0,Chennai Super Kings,2026,IPL,INR_LACS
+Vicky Ostwal,India,All-rounder,30.0,30.0,Royal Challengers Bengaluru,2026,IPL,INR_LACS
+Mayank Rawat,India,All-rounder,30.0,30.0,Mumbai Indians,2026,IPL,INR_LACS
+Mangesh Yadav,India,All-rounder,30.0,520.0,Royal Challengers Bengaluru,2026,IPL,INR_LACS
+Salil Arora,India,Wicket-keeper,30.0,150.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Ravi Singh,India,Wicket-keeper,30.0,95.0,Rajasthan Royals,2026,IPL,INR_LACS
+Sakib Hussain,India,Bowler,30.0,30.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Mohammad Izhar,India,Bowler,30.0,30.0,Mumbai Indians,2026,IPL,INR_LACS
+Onkar Tarmale,India,Bowler,30.0,30.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Prithvi Raj,India,Bowler,30.0,30.0,Gujarat Titans,2026,IPL,INR_LACS
+Praveen Dubey,India,Bowler,30.0,30.0,Punjab Kings,2026,IPL,INR_LACS
+Cooper Connolly,Australia,All-rounder,200.0,300.0,Punjab Kings,2026,IPL,INR_LACS
+Luke Wood,England,Bowler,75.0,75.0,Gujarat Titans,2026,IPL,INR_LACS
+Sahil Parekh,India,Batter,30.0,30.0,Delhi Capitals,2026,IPL,INR_LACS
+Amit Kumar,India,Bowler,30.0,30.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Vishal Nishad,India,All-rounder,30.0,30.0,Punjab Kings,2026,IPL,INR_LACS
+Atharva Ankolekar,India,All-rounder,30.0,30.0,Mumbai Indians,2026,IPL,INR_LACS
+Praful Hinge,India,Bowler,30.0,30.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Krains Fuletra,India,All-rounder,30.0,30.0,Sunrisers Hyderabad,2026,IPL,INR_LACS
+Vihaan Malhotra,India,All-rounder,30.0,30.0,Royal Challengers Bengaluru,2026,IPL,INR_LACS
+Sarthak Ranjan,India,All-rounder,30.0,30.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Brijesh Sharma,India,Bowler,30.0,30.0,Rajasthan Royals,2026,IPL,INR_LACS
+Kanishk Chouhan,India,All-rounder,30.0,30.0,Royal Challengers Bengaluru,2026,IPL,INR_LACS
+Daksh Kamra,India,All-rounder,30.0,30.0,Kolkata Knight Riders,2026,IPL,INR_LACS
+Jack Edwards,Australia,All-rounder,50.0,300.0,Sunrisers Hyderabad,2026,IPL,INR_LACS

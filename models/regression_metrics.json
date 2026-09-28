@@ -1,10 +1,16 @@
 {
-  "r2": 0.6427,
-  "rmse": 1.7249,
-  "mae": 0.8665,
+  "headline_r2_grouped_cv_mean": 0.3295,
+  "headline_r2_grouped_cv_std": 0.0632,
+  "headline_r2_note": "5-fold CV over the whole dataset, folds grouped by player so a player's other auction years cannot leak into training. This is the number to quote.",
+  "holdout_r2": 0.3855,
+  "holdout_rmse_cr": 3.0341,
+  "holdout_mae_cr": 1.9419,
+  "holdout_note": "single 20% random split, ungrouped \u2014 noisier and slightly optimistic vs. the headline; kept for the Actual-vs-Predicted plot only",
   "best_params": {
-    "max_depth": null,
-    "min_samples_leaf": 2,
-    "n_estimators": 200
-  }
+    "max_depth": 12,
+    "min_samples_leaf": 4,
+    "n_estimators": 400
+  },
+  "n_rows": 941,
+  "n_players": 463
 }

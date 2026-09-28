@@ -1,0 +1,996 @@
+player,cricsheet_name,competition,season,team,role,role_source,currency,sold_price_original,base_price_original,sold_price_lacs,base_price_lacs,stats_as_of_season,career_matches,career_runs,career_batting_average,career_strike_rate,career_fours,career_sixes,career_wickets,career_economy,career_bowling_average,career_bowling_strike_rate,career_catches,career_stumpings,has_bowling_record,has_batting_average,has_strike_rate,has_base_price,purse_remaining_lacs,has_purse,performance_score,sold_price_cr,value_index
+Dwayne Smith,DR Smith,IPL,2009,Deccan Chargers,Bowler,inferred,USD,100000.0,100000.0,48.41,48.41,2008,4,45,15.0,112.5,5,1,5,7.55,16.6,13.2,2,0,True,True,True,True,,False,40.39,0.484,83.45
+Mohammad Kaif,M Kaif,IPL,2010,Kings XI Punjab,Batter,inferred,USD,250000.0,100000.0,114.325,45.73,2008,16,176,16.0,102.92,14,6,0,,,,8,0,False,True,True,True,,False,23.25,1.143,20.34
+Yusuf Abdulla,YA Abdulla,IPL,2010,Kings XI Punjab,Bowler,inferred,USD,50000.0,50000.0,22.865,22.865,2009,9,0,,,0,0,14,8.61,17.21,12.0,0,0,True,False,False,True,,False,40.06,0.229,174.93
+Gautam Gambhir,G Gambhir,IPL,2011,Kolkata Knight Riders,Batter,inferred,USD,2400000.0,200000.0,1120.08,93.34,2010,40,1097,31.34,125.51,132,12,0,,,,7,0,False,True,True,True,,False,36.04,11.201,3.22
+Yusuf Pathan,YK Pathan,IPL,2011,Kolkata Knight Riders,All-Rounder,inferred,USD,2100000.0,300000.0,980.07,140.01,2010,43,1029,27.08,163.07,90,63,20,7.4,35.95,29.15,13,0,True,True,True,True,,False,41.19,9.801,4.2
+Robin Uthappa,RV Uthappa,IPL,2011,Pune Warriors India,Wicketkeeper,inferred,USD,2100000.0,200000.0,980.07,93.34,2010,45,869,27.16,130.28,73,39,0,,,,23,4,False,True,True,True,,False,29.64,9.801,3.02
+Rohit Sharma,RG Sharma,IPL,2011,Mumbai Indians,All-Rounder,inferred,USD,2000000.0,200000.0,933.4,93.34,2010,45,1170,30.79,131.46,96,51,14,7.37,24.21,19.71,21,0,True,True,True,True,,False,39.72,9.334,4.26
+Irfan Pathan,IK Pathan,IPL,2011,Delhi Daredevils,All-Rounder,inferred,USD,1900000.0,200000.0,886.73,93.34,2010,42,603,25.12,131.09,47,22,47,7.79,24.81,19.11,10,0,True,True,True,True,,False,41.38,8.867,4.67
+Yuvraj Singh,Yuvraj Singh,IPL,2011,Pune Warriors India,All-Rounder,inferred,USD,1800000.0,400000.0,840.06,186.68,2010,43,898,24.27,132.25,70,49,14,7.25,26.93,22.29,14,0,True,True,True,True,,False,37.79,8.401,4.5
+Saurabh Tiwary,SS Tiwary,IPL,2011,Royal Challengers Bangalore,Batter,inferred,USD,1600000.0,100000.0,746.72,46.67,2010,23,458,26.94,134.31,32,19,0,,,,4,0,False,True,True,True,,False,34.28,7.467,4.59
+Mahela Jayawardene,DPMD Jayawardene,IPL,2011,Kochi Tuskers Kerala,Batter,inferred,USD,1500000.0,400000.0,700.05,186.68,2010,36,843,35.12,141.44,87,26,0,,,,17,0,False,True,True,True,,False,40.49,7.0,5.78
+David Hussey,DJ Hussey,IPL,2011,Kings XI Punjab,All-Rounder,inferred,USD,1400000.0,200000.0,653.38,93.34,2010,23,511,26.89,126.49,31,28,2,9.04,122.0,81.0,10,0,True,True,True,True,,False,34.69,6.534,5.31
+Dale Steyn,DW Steyn,IPL,2011,Deccan Chargers,Bowler,inferred,USD,1200000.0,200000.0,560.04,93.34,2010,28,15,2.5,60.0,2,0,27,6.79,26.67,23.56,7,0,True,True,True,True,,False,47.56,5.6,8.49
+Muttiah Muralitharan,M Muralitharan,IPL,2011,Kochi Tuskers Kerala,Bowler,inferred,USD,1100000.0,300000.0,513.37,140.01,2010,40,9,2.25,69.23,1,0,41,6.41,24.49,22.93,11,0,True,True,True,True,,False,51.88,5.134,10.11
+Cameron White,CL White,IPL,2011,Deccan Chargers,Batter,inferred,USD,1100000.0,300000.0,513.37,140.01,2010,15,162,18.0,120.0,11,7,0,21.5,,,7,0,True,True,True,True,,False,26.69,5.134,5.2
+Jacques Kallis,JH Kallis,IPL,2011,Kolkata Knight Riders,All-Rounder,inferred,USD,1100000.0,300000.0,513.37,140.01,2010,42,1132,31.44,112.19,127,21,23,8.3,49.57,35.83,14,0,True,True,True,True,,False,38.72,5.134,7.54
+AB de Villiers,AB de Villiers,IPL,2011,Royal Challengers Bangalore,Batter,inferred,USD,1100000.0,400000.0,513.37,186.68,2010,28,671,31.95,117.31,51,13,0,,,,24,0,False,True,True,True,,False,35.41,5.134,6.9
+Ross Taylor,LRPL Taylor,IPL,2011,Rajasthan Royals,Batter,inferred,USD,1000000.0,400000.0,466.7,186.68,2010,22,517,30.41,142.03,35,31,0,13.0,,,7,0,True,True,True,True,,False,37.5,4.667,8.04
+Angelo Mathews,AD Mathews,IPL,2011,Pune Warriors India,All-Rounder,inferred,USD,950000.0,200000.0,443.365,93.34,2010,15,249,31.12,126.4,20,8,8,8.66,43.12,29.88,4,0,True,True,True,True,,False,37.24,4.434,8.4
+Ravindra Jadeja,RA Jadeja,IPL,2011,Kochi Tuskers Kerala,All-Rounder,inferred,USD,950000.0,100000.0,443.365,46.67,2009,27,430,23.89,116.53,32,12,6,6.75,28.67,25.5,12,0,True,True,True,True,,False,36.31,4.434,8.19
+Johan Botha,J Botha,IPL,2011,Rajasthan Royals,Bowler,inferred,USD,950000.0,200000.0,443.365,93.34,2009,3,47,23.5,117.5,5,0,3,6.17,24.67,24.0,0,0,True,True,True,True,,False,43.18,4.434,9.74
+Dinesh Karthik,KD Karthik,IPL,2011,Kings XI Punjab,Wicketkeeper,inferred,USD,900000.0,200000.0,420.03,93.34,2010,42,711,26.33,126.74,59,19,0,,,,24,13,False,True,True,True,,False,34.48,4.2,8.21
+Piyush Chawla,PP Chawla,IPL,2011,Kings XI Punjab,Bowler,inferred,USD,900000.0,100000.0,420.03,46.67,2010,43,183,13.07,118.06,20,3,41,7.56,25.95,20.59,14,0,True,True,True,True,,False,49.14,4.2,11.7
+Sreesanth,S Sreesanth,IPL,2011,Kochi Tuskers Kerala,Bowler,inferred,USD,900000.0,200000.0,420.03,93.34,2010,28,32,32.0,76.19,6,0,28,8.86,29.46,19.96,2,0,True,True,True,True,,False,42.88,4.2,10.21
+Adam Gilchrist,AC Gilchrist,IPL,2011,Kings XI Punjab,Wicketkeeper,inferred,USD,900000.0,400000.0,420.03,186.68,2010,46,1220,27.11,147.34,136,64,0,,,,25,13,False,True,True,True,,False,36.94,4.2,8.8
+Zaheer Khan,Z Khan,IPL,2011,Royal Challengers Bangalore,Bowler,inferred,USD,900000.0,300000.0,420.03,140.01,2010,31,66,11.0,98.51,7,1,34,7.86,25.74,19.65,7,0,True,True,True,True,,False,46.72,4.2,11.12
+Ravichandran Ashwin,R Ashwin,IPL,2011,Chennai Super Kings,Bowler,inferred,USD,850000.0,100000.0,396.695,46.67,2010,14,38,7.6,69.09,3,0,15,5.88,20.4,20.8,2,0,True,True,True,True,,False,46.8,3.967,11.8
+Ashish Nehra,A Nehra,IPL,2011,Pune Warriors India,Bowler,inferred,USD,850000.0,200000.0,396.695,93.34,2010,31,27,13.5,79.41,2,1,37,7.19,21.35,17.81,11,0,True,True,True,True,,False,49.05,3.967,12.36
+Andrew Symonds,A Symonds,IPL,2011,Mumbai Indians,All-Rounder,inferred,USD,850000.0,300000.0,396.695,140.01,2010,28,839,36.48,137.09,65,38,19,7.55,33.32,26.47,15,0,True,True,True,True,,False,42.31,3.967,10.67
+Subramaniam Badrinath,S Badrinath,IPL,2011,Chennai Super Kings,Batter,inferred,USD,800000.0,100000.0,373.36,46.67,2010,46,725,27.88,121.44,82,17,0,,,,11,0,False,True,True,True,,False,33.28,3.734,8.91
+Praveen Kumar,P Kumar,IPL,2011,Kings XI Punjab,Bowler,inferred,USD,800000.0,200000.0,373.36,93.34,2010,38,181,10.65,119.08,11,12,34,8.18,33.53,24.59,4,0,True,True,True,True,,False,45.96,3.734,12.31
+Abhishek Nayar,AM Nayar,IPL,2011,Kings XI Punjab,Batter,inferred,USD,800000.0,50000.0,373.36,23.335,2010,30,457,24.05,134.02,34,18,5,8.0,30.4,22.8,9,0,True,True,True,True,,False,32.37,3.734,8.67
+David Warner,DA Warner,IPL,2011,Delhi Daredevils,Batter,inferred,USD,750000.0,200000.0,350.025,93.34,2010,18,445,26.18,137.77,43,19,0,,,,13,0,False,True,True,True,,False,34.22,3.5,9.78
+Umesh Yadav,UT Yadav,IPL,2011,Delhi Daredevils,Bowler,inferred,USD,750000.0,50000.0,350.025,23.335,2010,7,3,,75.0,0,0,6,7.67,30.67,24.0,1,0,True,False,True,True,,False,40.34,3.5,11.53
+Munaf Patel,MM Patel,IPL,2011,Mumbai Indians,Bowler,inferred,USD,700000.0,100000.0,326.69,46.67,2010,30,37,9.25,115.62,5,0,33,7.58,23.61,18.7,4,0,True,True,True,True,,False,47.14,3.267,14.43
+Venugopal Rao,Y Venugopal Rao,IPL,2011,Delhi Daredevils,All-Rounder,inferred,USD,700000.0,100000.0,326.69,46.67,2010,33,446,19.39,121.53,31,19,6,8.97,44.83,30.0,7,0,True,True,True,True,,False,32.52,3.267,9.95
+Kumar Sangakkara,KC Sangakkara,IPL,2011,Deccan Chargers,Wicketkeeper,inferred,USD,700000.0,300000.0,326.69,140.01,2010,37,1009,31.53,129.53,117,18,0,,,,16,7,False,True,True,True,,False,33.71,3.267,10.32
+Cheteshwar Pujara,CA Pujara,IPL,2011,Royal Challengers Bangalore,Batter,inferred,USD,700000.0,100000.0,326.69,46.67,2010,10,122,30.5,106.09,14,3,0,,,,2,0,False,True,True,True,,False,33.07,3.267,10.12
+Doug Bollinger,DE Bollinger,IPL,2011,Chennai Super Kings,Bowler,inferred,USD,700000.0,200000.0,326.69,93.34,2010,8,18,,105.88,1,1,12,6.68,17.25,15.5,2,0,True,False,True,True,,False,44.16,3.267,13.52
+Dirk Nannes,DP Nannes,IPL,2011,Royal Challengers Bangalore,Bowler,inferred,USD,650000.0,200000.0,303.355,93.34,2010,22,4,4.0,30.77,0,0,22,7.11,27.09,22.86,4,0,True,True,True,True,,False,45.58,3.034,15.02
+Tillakaratne Dilshan,TM Dilshan,IPL,2011,Royal Challengers Bangalore,All-Rounder,inferred,USD,650000.0,400000.0,303.355,186.68,2010,27,566,25.73,119.66,62,16,4,6.79,42.75,37.75,13,0,True,True,True,True,,False,36.81,3.034,12.13
+Kevin Pietersen,KP Pietersen,IPL,2011,Deccan Chargers,Batter,inferred,USD,650000.0,400000.0,303.355,186.68,2010,13,329,32.9,135.95,31,10,7,7.04,23.14,19.71,6,0,True,True,True,True,,False,38.36,3.034,12.64
+Daniel Vettori,DL Vettori,IPL,2011,Royal Challengers Bangalore,Bowler,inferred,USD,550000.0,400000.0,256.685,186.68,2010,12,67,22.33,113.56,7,0,11,7.75,30.18,23.36,4,0,True,True,True,True,,False,41.37,2.567,16.12
+Pragyan Ojha,PP Ojha,IPL,2011,Deccan Chargers,Bowler,inferred,USD,500000.0,200000.0,233.35,93.34,2010,44,6,0.75,31.58,0,0,50,7.1,21.22,17.92,9,0,True,True,True,True,,False,52.43,2.334,22.46
+Rahul Dravid,R Dravid,IPL,2011,Rajasthan Royals,Batter,inferred,USD,500000.0,400000.0,233.35,186.68,2010,43,898,26.41,122.85,97,17,0,,,,8,0,False,True,True,True,,False,32.51,2.334,13.93
+Graeme Smith,GC Smith,IPL,2011,Pune Warriors India,Batter,inferred,USD,500000.0,400000.0,233.35,186.68,2010,25,697,31.68,112.97,88,9,0,,,,6,0,False,True,True,True,,False,34.69,2.334,14.86
+RP Singh,RP Singh,IPL,2011,Kochi Tuskers Kerala,Bowler,inferred,USD,500000.0,200000.0,233.35,93.34,2010,42,44,4.4,73.33,2,1,51,8.03,24.1,18.0,15,0,True,True,True,True,,False,50.46,2.334,21.62
+Lakshmipathy Balaji,L Balaji,IPL,2011,Kolkata Knight Riders,Bowler,inferred,USD,500000.0,100000.0,233.35,46.67,2010,29,22,3.67,64.71,1,1,31,8.64,26.1,18.13,5,0,True,True,True,True,,False,44.13,2.334,18.91
+Manoj Tiwari,MK Tiwary,IPL,2011,Kolkata Knight Riders,Batter,inferred,USD,475000.0,100000.0,221.683,46.67,2010,24,350,25.0,123.24,40,5,1,11.0,22.0,12.0,7,0,True,True,True,True,,False,31.64,2.217,14.27
+Morné Morkel,M Morkel,IPL,2011,Delhi Daredevils,Bowler,inferred,USD,475000.0,100000.0,221.683,46.67,2010,4,17,8.5,70.83,2,0,0,7.57,,,2,0,True,True,True,True,,False,39.12,2.217,17.65
+Brendon McCullum,BB McCullum,IPL,2011,Kochi Tuskers Kerala,Batter,inferred,USD,475000.0,400000.0,221.683,186.68,2010,22,588,30.95,133.03,54,29,0,,,,9,0,False,True,True,True,,False,36.73,2.217,16.57
+Vinay Kumar,R Vinay Kumar,IPL,2011,Kochi Tuskers Kerala,Bowler,inferred,USD,475000.0,100000.0,221.683,46.67,2010,33,99,8.25,101.02,7,2,30,8.36,28.3,20.3,9,0,True,True,True,True,,False,44.56,2.217,20.1
+Ishant Sharma,I Sharma,IPL,2011,Deccan Chargers,Bowler,inferred,USD,450000.0,200000.0,210.015,93.34,2010,31,33,8.25,80.49,2,1,25,7.82,34.48,26.44,4,0,True,True,True,True,,False,44.62,2.1,21.25
+Brad Hodge,BJ Hodge,IPL,2011,Kochi Tuskers Kerala,Batter,inferred,USD,425000.0,200000.0,198.347,93.34,2010,19,476,29.75,114.15,47,10,9,8.08,22.44,16.67,6,0,True,True,True,True,,False,33.59,1.983,16.94
+Michael Hussey,MEK Hussey,IPL,2011,Chennai Super Kings,Batter,inferred,USD,425000.0,200000.0,198.347,93.34,2010,7,205,51.25,142.36,14,11,0,,,,2,0,False,True,True,True,,False,51.07,1.983,25.75
+Brett Lee,B Lee,IPL,2011,Kolkata Knight Riders,Bowler,inferred,USD,400000.0,400000.0,186.68,186.68,2010,13,56,14.0,100.0,5,2,9,7.37,41.33,33.67,4,0,True,True,True,True,,False,41.79,1.867,22.38
+Shaun Marsh,SE Marsh,IPL,2011,Kings XI Punjab,Batter,inferred,USD,400000.0,400000.0,186.68,186.68,2010,15,763,63.58,137.48,73,32,0,,,,4,0,False,True,True,True,,False,58.47,1.867,31.32
+VVS Laxman,VVS Laxman,IPL,2011,Kochi Tuskers Kerala,Batter,inferred,USD,400000.0,300000.0,186.68,140.01,2010,17,238,15.87,105.78,30,3,0,,,,4,0,False,True,True,True,,False,23.53,1.867,12.6
+Murali Kartik,M Kartik,IPL,2011,Pune Warriors India,Bowler,inferred,USD,400000.0,200000.0,186.68,93.34,2010,26,73,14.6,105.8,5,0,16,6.63,36.31,32.88,9,0,True,True,True,True,,False,45.26,1.867,24.24
+Ashok Dinda,AB Dinda,IPL,2011,Delhi Daredevils,Bowler,inferred,USD,375000.0,100000.0,175.012,46.67,2010,29,4,1.0,50.0,0,0,22,7.02,27.5,23.5,2,0,True,True,True,True,,False,45.79,1.75,26.17
+Eoin Morgan,EJG Morgan,IPL,2011,Kolkata Knight Riders,Batter,inferred,USD,350000.0,200000.0,163.345,93.34,2010,6,35,11.67,116.67,2,1,0,,,,4,0,False,True,True,True,,False,22.16,1.633,13.57
+James Hopes,JR Hopes,IPL,2011,Delhi Daredevils,Bowler,inferred,USD,350000.0,200000.0,163.345,93.34,2008,11,221,20.09,149.32,27,8,7,9.86,39.43,24.0,2,0,True,True,True,True,,False,35.37,1.633,21.66
+Ryan Harris,RJ Harris,IPL,2011,Kings XI Punjab,Bowler,inferred,USD,325000.0,200000.0,151.678,93.34,2010,16,66,13.2,115.79,2,2,20,7.51,23.15,18.5,9,0,True,True,True,True,,False,44.14,1.517,29.1
+Aaron Finch,AJ Finch,IPL,2011,Delhi Daredevils,Batter,inferred,USD,300000.0,100000.0,140.01,46.67,2010,1,21,21.0,100.0,0,1,0,4.29,,,0,0,True,True,True,True,,False,26.14,1.4,18.67
+Amit Mishra,A Mishra,IPL,2011,Deccan Chargers,Bowler,inferred,USD,300000.0,100000.0,140.01,46.67,2010,31,102,10.2,90.27,6,2,42,6.91,18.93,16.43,6,0,True,True,True,True,,False,50.93,1.4,36.38
+Shikhar Dhawan,S Dhawan,IPL,2011,Deccan Chargers,Batter,inferred,USD,300000.0,100000.0,140.01,46.67,2010,29,571,24.83,111.96,61,11,0,,,,15,0,False,True,True,True,,False,30.12,1.4,21.51
+JP Duminy,JP Duminy,IPL,2011,Deccan Chargers,Batter,inferred,USD,300000.0,200000.0,140.01,93.34,2010,20,529,37.79,116.01,39,16,5,5.65,26.0,27.6,8,0,True,True,True,True,,False,39.04,1.4,27.89
+Shaun Tait,SW Tait,IPL,2011,Rajasthan Royals,Bowler,inferred,USD,300000.0,300000.0,140.01,140.01,2010,8,12,12.0,92.31,0,1,10,8.47,26.4,18.7,2,0,True,True,True,True,,False,39.42,1.4,28.16
+Parthiv Patel,PA Patel,IPL,2011,Kochi Tuskers Kerala,Batter,inferred,USD,290000.0,100000.0,135.343,46.67,2010,26,516,21.5,102.79,67,7,0,,,,9,2,False,True,True,True,,False,26.81,1.353,19.82
+Mitchell Marsh,MR Marsh,IPL,2011,Pune Warriors India,Bowler,inferred,USD,290000.0,100000.0,135.343,46.67,2010,3,28,14.0,93.33,1,1,2,8.8,44.0,30.0,0,0,True,True,True,True,,False,36.68,1.353,27.11
+Manpreet Gony,MS Gony,IPL,2011,Deccan Chargers,Bowler,inferred,USD,290000.0,50000.0,135.343,23.335,2010,26,50,12.5,138.89,2,5,23,8.32,30.74,22.17,3,0,True,True,True,True,,False,42.94,1.353,31.74
+Naman Ojha,NV Ojha,IPL,2011,Delhi Daredevils,Wicketkeeper,inferred,USD,270000.0,100000.0,126.009,46.67,2010,22,545,28.68,127.04,53,26,0,,,,6,6,False,True,True,True,,False,31.35,1.26,24.88
+Abhimanyu Mithun,A Mithun,IPL,2011,Royal Challengers Bangalore,Bowler,inferred,USD,260000.0,100000.0,121.342,46.67,2010,2,5,5.0,125.0,1,0,1,11.57,81.0,42.0,0,0,True,True,True,True,,False,29.84,1.213,24.6
+Jaydev Unadkat,JD Unadkat,IPL,2011,Kolkata Knight Riders,Bowler,inferred,USD,250000.0,50000.0,116.675,23.335,2010,3,0,,,0,0,4,8.23,21.25,15.5,1,0,True,False,False,True,,False,38.52,1.167,33.01
+Paul Collingwood,PD Collingwood,IPL,2011,Rajasthan Royals,Batter,inferred,USD,250000.0,200000.0,116.675,93.34,2010,8,203,40.6,130.13,9,13,5,6.81,20.2,17.8,3,0,True,True,True,True,,False,42.63,1.167,36.53
+Sudeep Tyagi,S Tyagi,IPL,2011,Chennai Super Kings,Bowler,inferred,USD,240000.0,50000.0,112.008,23.335,2010,14,3,3.0,75.0,0,0,6,8.47,49.17,34.83,3,0,True,True,True,True,,False,38.44,1.12,34.32
+Ajit Agarkar,AB Agarkar,IPL,2011,Delhi Daredevils,Bowler,inferred,USD,210000.0,100000.0,98.007,46.67,2010,27,160,20.0,121.21,12,5,18,8.78,38.56,26.33,1,0,True,True,True,True,,False,40.63,0.98,41.46
+Dwayne Bravo,DJ Bravo,IPL,2011,Chennai Super Kings,All-Rounder,inferred,USD,200000.0,200000.0,93.34,93.34,2010,30,457,21.76,117.18,37,17,26,8.19,27.65,20.27,13,0,True,True,True,True,,False,36.38,0.933,38.99
+Owais Shah,OA Shah,IPL,2011,Kochi Tuskers Kerala,Batter,inferred,USD,200000.0,200000.0,93.34,93.34,2010,5,115,57.5,121.05,7,5,0,,,,0,0,False,True,True,True,,False,52.47,0.933,56.24
+Scott Styris,SB Styris,IPL,2011,Chennai Super Kings,Bowler,inferred,USD,200000.0,100000.0,93.34,46.67,2009,10,126,18.0,96.18,9,3,8,7.51,32.88,26.25,1,0,True,True,True,True,,False,41.21,0.933,44.17
+Ramesh Powar,RR Powar,IPL,2011,Kochi Tuskers Kerala,Bowler,inferred,USD,180000.0,100000.0,84.006,46.67,2010,21,56,28.0,109.8,6,1,11,6.84,34.82,30.55,5,0,True,True,True,True,,False,43.54,0.84,51.83
+Jesse Ryder,JD Ryder,IPL,2011,Pune Warriors India,Bowler,inferred,USD,150000.0,100000.0,70.005,46.67,2009,5,56,11.2,114.29,9,0,3,6.76,38.33,34.0,2,0,True,True,True,True,,False,41.78,0.7,59.69
+Joginder Sharma,Joginder Sharma,IPL,2011,Chennai Super Kings,Bowler,inferred,USD,150000.0,100000.0,70.005,46.67,2010,15,36,12.0,124.14,1,2,12,9.71,32.08,19.83,5,0,True,True,True,True,,False,36.95,0.7,52.79
+Charl Langeveldt,CK Langeveldt,IPL,2011,Royal Challengers Bangalore,Bowler,inferred,USD,140000.0,100000.0,65.338,46.67,2010,4,0,0.0,0.0,0,0,8,6.87,12.88,11.25,0,0,True,True,True,True,,False,42.74,0.653,65.45
+Mohammad Kaif,M Kaif,IPL,2011,Royal Challengers Bangalore,Batter,inferred,USD,130000.0,100000.0,60.671,46.67,2010,20,204,14.57,101.49,16,6,0,,,,11,0,False,True,True,True,,False,22.15,0.607,36.49
+Wriddhiman Saha,WP Saha,IPL,2011,Chennai Super Kings,Wicketkeeper,inferred,USD,100000.0,100000.0,46.67,46.67,2010,33,298,27.09,139.91,24,12,0,,,,13,5,False,True,True,True,,False,31.19,0.467,66.79
+Dimitri Mascarenhas,AD Mascarenhas,IPL,2011,Kings XI Punjab,Bowler,inferred,USD,100000.0,100000.0,46.67,46.67,2010,8,60,10.0,105.26,4,1,12,7.21,18.83,15.67,1,0,True,True,True,True,,False,42.9,0.467,91.86
+Pankaj Singh,Pankaj Singh,IPL,2011,Rajasthan Royals,Bowler,inferred,USD,95000.0,50000.0,44.337,23.335,2010,10,7,3.5,58.33,0,0,4,10.19,68.75,40.5,2,0,True,True,True,True,,False,33.86,0.443,76.43
+Rusty Theron,J Theron,IPL,2011,Deccan Chargers,Bowler,inferred,USD,85000.0,50000.0,39.669,23.335,2010,7,2,1.0,40.0,0,0,8,7.89,24.5,18.62,1,0,True,True,True,True,,False,40.31,0.397,101.54
+Andrew McDonald,AB McDonald,IPL,2011,Delhi Daredevils,Bowler,inferred,USD,80000.0,50000.0,37.336,23.335,2010,5,68,68.0,121.43,3,2,5,9.41,32.0,20.4,0,0,True,True,True,True,,False,35.96,0.373,96.41
+Thissara Perera,NLTC Perera,IPL,2011,Kochi Tuskers Kerala,Bowler,inferred,USD,80000.0,50000.0,37.336,23.335,2010,1,0,,,0,0,0,19.0,,,0,0,True,False,False,True,,False,11.9,0.373,31.9
+Michael Lumb,MJ Lumb,IPL,2011,Deccan Chargers,Batter,inferred,USD,80000.0,50000.0,37.336,23.335,2010,11,278,25.27,144.79,45,6,0,,,,4,0,False,True,True,True,,False,34.51,0.373,92.52
+Moises Henriques,MC Henriques,IPL,2011,Mumbai Indians,Bowler,inferred,USD,50000.0,50000.0,23.335,23.335,2010,5,49,16.33,108.89,4,1,3,8.78,47.33,32.33,4,0,True,True,True,True,,False,36.97,0.233,158.67
+George Bailey,GJ Bailey,IPL,2011,Chennai Super Kings,Batter,inferred,USD,50000.0,50000.0,23.335,23.335,2010,4,63,21.0,95.45,9,0,0,,,,1,0,False,True,True,True,,False,25.57,0.233,109.74
+Roelof van der Merwe,RE van der Merwe,IPL,2011,Delhi Daredevils,Bowler,inferred,USD,50000.0,50000.0,23.335,23.335,2010,11,123,13.67,123.0,8,8,11,7.24,25.0,20.73,3,0,True,True,True,True,,False,42.59,0.233,182.79
+Luke Pomersbach,LA Pomersbach,IPL,2011,Royal Challengers Bangalore,Batter,inferred,USD,50000.0,20000.0,23.335,9.334,2009,9,193,38.6,130.41,16,10,0,,,,2,0,False,True,True,True,,False,41.37,0.233,177.55
+Brendon McCullum,BB McCullum,IPL,2012,Kolkata Knight Riders,Batter,inferred,USD,900000.0,400000.0,480.96,213.76,2011,35,945,29.53,131.8,89,45,0,,,,11,0,False,True,True,True,,False,35.65,4.81,7.41
+Ravindra Jadeja,RA Jadeja,IPL,2012,Chennai Super Kings,All-Rounder,inferred,USD,2000000.0,100000.0,1068.8,53.44,2011,41,713,26.41,119.43,52,26,14,7.07,34.07,28.93,13,0,True,True,True,True,,False,37.9,10.688,3.55
+Muttiah Muralitharan,M Muralitharan,IPL,2012,Royal Challengers Bangalore,Bowler,inferred,USD,220000.0,200000.0,117.568,106.88,2011,45,14,3.5,66.67,1,0,43,6.52,26.63,24.51,12,0,True,True,True,True,,False,52.11,1.176,44.31
+Mahela Jayawardene,DPMD Jayawardene,IPL,2012,Delhi Daredevils,Batter,inferred,USD,1400000.0,300000.0,748.16,160.32,2011,49,1142,30.86,133.88,122,31,0,,,,23,0,False,True,True,True,,False,36.77,7.482,4.91
+Herschelle Gibbs,HH Gibbs,IPL,2012,Mumbai Indians,Batter,inferred,USD,50000.0,50000.0,26.72,26.72,2010,33,805,26.83,111.96,75,29,0,,,,22,0,False,True,True,True,,False,31.42,0.267,117.68
+Brad Hodge,BJ Hodge,IPL,2012,Rajasthan Royals,All-Rounder,inferred,USD,475000.0,200000.0,253.84,106.88,2011,33,761,31.71,116.54,73,19,16,7.75,17.44,13.5,7,0,True,True,True,True,,False,38.88,2.538,15.32
+Parthiv Patel,PA Patel,IPL,2012,Deccan Chargers,Wicketkeeper,inferred,USD,650000.0,200000.0,347.36,106.88,2011,40,718,21.12,104.82,92,9,0,,,,17,3,False,True,True,True,,False,23.33,3.474,6.72
+R. P. Singh,RP Singh,IPL,2012,Mumbai Indians,Bowler,inferred,USD,600000.0,200000.0,320.64,106.88,2011,56,46,3.54,71.88,2,1,64,7.75,24.59,19.03,20,0,True,True,True,True,,False,54.3,3.206,16.94
+Vinay Kumar,R Vinay Kumar,IPL,2012,Royal Challengers Bangalore,Bowler,inferred,USD,1000000.0,100000.0,534.4,53.44,2011,46,149,8.28,102.76,11,3,42,8.1,28.19,20.88,12,0,True,True,True,True,,False,48.1,5.344,9.0
+Sreesanth,S Sreesanth,IPL,2012,Rajasthan Royals,Bowler,inferred,USD,400000.0,400000.0,213.76,213.76,2011,37,33,11.0,64.71,6,0,35,8.25,29.46,21.43,3,0,True,True,True,True,,False,46.04,2.138,21.53
+Ramesh Powar,RR Powar,IPL,2012,Kings XI Punjab,Bowler,inferred,USD,160000.0,100000.0,85.504,53.44,2011,26,67,22.33,104.69,6,1,13,7.28,38.08,31.38,5,0,True,True,True,True,,False,42.98,0.855,50.27
+James Faulkner,JP Faulkner,IPL,2012,Kings XI Punjab,Bowler,inferred,USD,190000.0,100000.0,101.536,53.44,2011,1,0,,,0,0,1,4.5,9.0,12.0,0,0,True,False,False,True,,False,46.67,1.015,45.98
+Thisara Perera,NLTC Perera,IPL,2012,Mumbai Indians,Bowler,inferred,USD,650000.0,50000.0,347.36,26.72,2011,5,23,11.5,85.19,4,0,2,8.67,65.0,45.0,0,0,True,True,True,True,,False,36.99,3.474,10.65
+Johan Botha,J Botha,IPL,2013,Delhi Daredevils,All-Rounder,inferred,USD,450000.0,300000.0,263.7,175.8,2012,24,335,30.45,114.73,29,3,19,6.85,32.11,28.11,8,0,True,True,True,True,,False,39.79,2.637,15.09
+Daniel Christian,DT Christian,IPL,2013,Royal Challengers Bangalore,All-Rounder,inferred,USD,100000.0,100000.0,58.6,58.6,2012,21,335,20.94,120.94,17,13,19,8.02,30.68,22.95,12,0,True,True,True,True,,False,35.7,0.586,60.92
+Michael Clarke,MJ Clarke,IPL,2013,Pune Warriors India,Batter,inferred,USD,400000.0,400000.0,234.4,234.4,2012,6,98,16.33,104.26,12,0,2,6.09,33.5,33.0,1,0,True,True,True,True,,False,23.64,2.344,10.09
+Fidel Edwards,FH Edwards,IPL,2013,Rajasthan Royals,Bowler,inferred,USD,210000.0,100000.0,123.06,58.6,2009,6,4,4.0,80.0,0,0,5,6.6,30.8,28.0,0,0,True,True,True,True,,False,42.65,1.231,34.65
+James Faulkner,JP Faulkner,IPL,2013,Rajasthan Royals,Bowler,inferred,USD,400000.0,100000.0,234.4,58.6,2012,3,14,14.0,107.69,0,0,4,8.1,20.25,15.0,1,0,True,True,True,True,,False,38.83,2.344,16.57
+Manpreet Gony,MS Gony,IPL,2013,Kings XI Punjab,Bowler,inferred,USD,500000.0,200000.0,293.0,117.2,2012,35,54,9.0,117.39,2,5,30,8.47,33.3,23.6,4,0,True,True,True,True,,False,44.29,2.93,15.12
+Moisés Henriques,MC Henriques,IPL,2013,Royal Challengers Bangalore,Bowler,inferred,USD,300000.0,100000.0,175.8,58.6,2010,5,49,16.33,108.89,4,1,3,8.78,47.33,32.33,4,0,True,True,True,True,,False,36.97,1.758,21.03
+Glenn Maxwell,GJ Maxwell,IPL,2013,Mumbai Indians,Bowler,inferred,USD,1000000.0,200000.0,586.0,117.2,2012,2,6,6.0,54.55,0,0,1,7.33,22.0,18.0,0,0,True,True,True,True,,False,39.93,5.86,6.81
+Nathan McCullum,NL McCullum,IPL,2013,Sunrisers Hyderabad,Bowler,inferred,USD,100000.0,100000.0,58.6,58.6,2011,2,26,26.0,118.18,0,1,0,6.8,,,1,0,True,True,True,True,,False,40.95,0.586,69.88
+Clint McKay,CJ McKay,IPL,2013,Sunrisers Hyderabad,Bowler,inferred,USD,100000.0,100000.0,58.6,58.6,2012,2,8,8.0,53.33,0,0,1,8.57,60.0,42.0,0,0,True,True,True,True,,False,36.98,0.586,63.11
+Ryan McLaren,R McLaren,IPL,2013,Kolkata Knight Riders,All-Rounder,inferred,USD,50000.0,50000.0,29.3,29.3,2011,16,156,26.0,94.55,14,1,9,8.62,49.78,34.67,4,0,True,True,True,True,,False,33.76,0.293,115.22
+Ajantha Mendis,BAW Mendis,IPL,2013,Pune Warriors India,Bowler,inferred,USD,725000.0,50000.0,424.85,29.3,2010,7,1,1.0,50.0,0,0,6,7.85,37.5,28.67,1,0,True,True,True,True,,False,39.92,4.248,9.4
+Dirk Nannes,DP Nannes,IPL,2013,Chennai Super Kings,Bowler,inferred,USD,600000.0,200000.0,351.6,117.2,2011,24,4,4.0,30.77,0,0,24,7.14,26.12,21.96,5,0,True,True,True,True,,False,46.0,3.516,13.08
+Abhishek Nayar,AM Nayar,IPL,2013,Pune Warriors India,All-Rounder,inferred,USD,675000.0,100000.0,395.55,58.6,2012,44,563,19.41,123.19,45,19,7,8.72,37.57,25.86,11,0,True,True,True,True,,False,33.05,3.956,8.35
+Jacob Oram,JDP Oram,IPL,2013,Mumbai Indians,Bowler,inferred,USD,50000.0,50000.0,29.3,29.3,2011,17,106,13.25,98.15,6,5,9,9.21,36.33,23.67,7,0,True,True,True,True,,False,37.41,0.293,127.68
+Thisara Perera,NLTC Perera,IPL,2013,Sunrisers Hyderabad,Bowler,inferred,USD,675000.0,50000.0,395.55,29.3,2012,7,27,9.0,75.0,4,0,2,8.97,78.5,52.5,3,0,True,True,True,True,,False,36.27,3.956,9.17
+Luke Pomersbach,LA Pomersbach,IPL,2013,Kings XI Punjab,Batter,inferred,USD,300000.0,50000.0,175.8,29.3,2012,14,244,27.11,130.48,20,12,0,,,,8,0,False,True,True,True,,False,33.91,1.758,19.29
+Ricky Ponting,RT Ponting,IPL,2013,Mumbai Indians,Batter,inferred,USD,400000.0,400000.0,234.4,234.4,2008,4,39,9.75,73.58,2,1,0,,,,2,0,False,True,True,True,,False,15.53,2.344,6.63
+Jesse Ryder,JD Ryder,IPL,2013,Delhi Daredevils,All-Rounder,inferred,USD,260000.0,100000.0,152.36,58.6,2012,29,604,21.57,131.88,69,19,8,7.7,37.88,29.5,10,0,True,True,True,True,,False,35.63,1.524,23.38
+Pankaj Singh,Pankaj Singh,IPL,2013,Royal Challengers Bangalore,Bowler,inferred,USD,150000.0,50000.0,87.9,29.3,2012,17,7,3.5,58.33,0,0,11,9.36,42.55,27.27,2,0,True,True,True,True,,False,37.54,0.879,42.71
+R. P. Singh,RP Singh,IPL,2013,Royal Challengers Bangalore,Bowler,inferred,USD,400000.0,100000.0,234.4,58.6,2012,67,52,3.47,68.42,2,1,74,7.75,25.57,19.78,23,0,True,True,True,True,,False,56.74,2.344,24.21
+Sudeep Tyagi,S Tyagi,IPL,2013,Sunrisers Hyderabad,Bowler,inferred,USD,100000.0,100000.0,58.6,58.6,2010,14,3,3.0,75.0,0,0,6,8.47,49.17,34.83,3,0,True,True,True,True,,False,38.44,0.586,65.6
+Jaydev Unadkat,JD Unadkat,IPL,2013,Royal Challengers Bangalore,Bowler,inferred,USD,525000.0,100000.0,307.65,58.6,2012,11,0,,,0,0,10,8.52,26.7,18.8,3,0,True,False,False,True,,False,39.3,3.076,12.78
+Mitchell Johnson,MG Johnson,IPL,2014,Kings XI Punjab,Bowler,inferred,INR_LACS,650.0,200.0,650.0,200.0,2013,17,39,9.75,108.33,2,2,24,7.17,19.12,16.0,7,0,True,True,True,True,4350.0,True,45.93,6.5,7.07
+Jacques Kallis,JH Kallis,IPL,2014,Kolkata Knight Riders,All-Rounder,inferred,INR_LACS,550.0,200.0,550.0,200.0,2013,90,2276,28.81,108.74,242,40,61,7.85,34.54,26.39,28,0,True,True,True,True,3800.0,True,42.82,5.5,7.79
+Kevin Pietersen,KP Pietersen,IPL,2014,Delhi Daredevils,All-Rounder,inferred,INR_LACS,900.0,200.0,900.0,200.0,2012,21,634,42.27,141.2,53,30,7,7.41,30.71,24.86,9,0,True,True,True,True,6000.0,True,43.15,9.0,4.79
+Virender Sehwag,V Sehwag,IPL,2014,Kings XI Punjab,Batter,inferred,INR_LACS,320.0,200.0,320.0,200.0,2013,79,2174,29.38,160.32,266,85,6,10.37,39.17,22.67,29,0,True,True,True,True,4350.0,True,39.12,3.2,12.22
+Yuvraj Singh,Yuvraj Singh,IPL,2014,Royal Challengers Bangalore,All-Rounder,inferred,INR_LACS,1400.0,200.0,1400.0,200.0,2013,70,1479,25.07,130.88,108,82,29,7.0,24.86,21.31,19,0,True,True,True,True,3050.0,True,40.09,14.0,2.86
+Murali Vijay,M Vijay,IPL,2014,Delhi Daredevils,Batter,inferred,INR_LACS,500.0,200.0,500.0,200.0,2013,64,1600,26.67,127.9,140,66,0,,,,33,0,False,True,True,True,6000.0,True,33.31,5.0,6.66
+David Warner,DA Warner,IPL,2014,Sunrisers Hyderabad,Batter,inferred,INR_LACS,550.0,150.0,550.0,150.0,2013,55,1435,28.14,132.99,146,58,0,,,,24,0,False,True,True,True,3800.0,True,34.9,5.5,6.35
+George Bailey,GJ Bailey,IPL,2014,Kings XI Punjab,Batter,inferred,INR_LACS,325.0,200.0,325.0,200.0,2010,4,63,21.0,95.45,9,0,0,,,,1,0,False,True,True,True,4350.0,True,25.57,3.25,7.87
+Faf du Plessis,F du Plessis,IPL,2014,Chennai Super Kings,Batter,inferred,INR_LACS,475.0,150.0,475.0,150.0,2012,12,398,33.17,130.92,29,17,0,16.0,,,5,0,True,True,True,True,2100.0,True,37.9,4.75,7.98
+Michael Hussey,MEK Hussey,IPL,2014,Mumbai Indians,Batter,inferred,INR_LACS,500.0,200.0,500.0,200.0,2013,46,1691,44.5,124.34,176,42,0,,,,22,0,False,True,True,True,2100.0,True,44.44,5.0,8.89
+Dinesh Karthik,KD Karthik,IPL,2014,Delhi Daredevils,Wicketkeeper,inferred,INR_LACS,1250.0,200.0,1250.0,200.0,2013,92,1741,25.23,123.91,175,42,0,,,,48,17,False,True,True,True,6000.0,True,36.12,12.5,2.89
+Zaheer Khan,Z Khan,IPL,2014,Mumbai Indians,Bowler,inferred,INR_LACS,260.0,100.0,260.0,100.0,2013,63,99,9.9,91.67,10,1,70,7.74,26.14,20.26,16,0,True,True,True,True,2100.0,True,55.79,2.6,21.46
+Brendon McCullum,BB McCullum,IPL,2014,Chennai Super Kings,Wicketkeeper,inferred,INR_LACS,325.0,200.0,325.0,200.0,2013,48,1240,27.56,123.14,127,48,0,,,,21,6,False,True,True,True,2100.0,True,30.38,3.25,9.35
+Amit Mishra,A Mishra,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,475.0,200.0,475.0,200.0,2013,76,275,11.96,98.92,25,3,95,6.94,20.25,17.52,9,0,True,True,True,True,3800.0,True,63.79,4.75,13.43
+Darren Sammy,DJG Sammy,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,350.0,100.0,350.0,100.0,2013,10,174,29.0,131.82,11,10,8,7.52,21.0,16.75,3,0,True,True,True,True,3800.0,True,41.19,3.5,11.77
+Jean-Paul Duminy,JP Duminy,IPL,2014,Delhi Daredevils,All-Rounder,inferred,INR_LACS,220.0,100.0,220.0,100.0,2012,39,978,36.22,119.27,61,35,10,7.11,37.7,31.8,15,0,True,True,True,True,6000.0,True,40.54,2.2,18.43
+Aaron Finch,AJ Finch,IPL,2014,Sunrisers Hyderabad,Batter,inferred,INR_LACS,400.0,100.0,400.0,100.0,2013,23,579,25.17,127.53,65,20,1,9.35,67.0,43.0,6,0,True,True,True,True,3800.0,True,32.29,4.0,8.07
+Brad Hodge,BJ Hodge,IPL,2014,Rajasthan Royals,Batter,inferred,INR_LACS,240.0,200.0,240.0,200.0,2013,62,1299,33.31,124.19,118,37,17,7.77,17.82,13.76,20,0,True,True,True,True,2250.0,True,37.15,2.4,15.48
+Shaun Marsh,SE Marsh,IPL,2014,Kings XI Punjab,Batter,inferred,INR_LACS,220.0,200.0,220.0,200.0,2013,50,1903,44.26,133.26,203,63,0,,,,21,0,False,True,True,True,4350.0,True,45.4,2.2,20.64
+Cheteshwar Pujara,CA Pujara,IPL,2014,Kings XI Punjab,Batter,inferred,INR_LACS,190.0,150.0,190.0,150.0,2013,24,265,18.93,99.25,33,4,0,,,,6,0,False,True,True,True,4350.0,True,24.7,1.9,13.0
+Dwayne Smith,DR Smith,IPL,2014,Chennai Super Kings,All-Rounder,inferred,INR_LACS,450.0,150.0,450.0,150.0,2013,35,857,28.57,134.75,76,43,11,8.48,36.09,25.55,17,0,True,True,True,True,2100.0,True,37.52,4.5,8.34
+Ross Taylor,LRPL Taylor,IPL,2014,Delhi Daredevils,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2013,51,958,25.89,125.56,60,46,0,12.0,,,16,0,True,True,True,True,6000.0,True,32.51,2.0,16.26
+Manoj Tiwary,MK Tiwary,IPL,2014,Delhi Daredevils,Batter,inferred,INR_LACS,280.0,200.0,280.0,200.0,2013,65,1115,28.59,112.06,99,23,1,11.25,45.0,24.0,33,0,True,True,True,True,6000.0,True,32.57,2.8,11.63
+Robin Uthappa,RV Uthappa,IPL,2014,Kolkata Knight Riders,Wicketkeeper,inferred,INR_LACS,500.0,200.0,500.0,200.0,2013,91,1972,27.01,124.03,180,71,0,,,,48,10,False,True,True,True,3800.0,True,32.68,5.0,6.54
+Quinton de Kock,Q de Kock,IPL,2014,Delhi Daredevils,Batter,inferred,INR_LACS,350.0,100.0,350.0,100.0,2013,3,6,2.0,40.0,1,0,0,,,,3,1,False,True,True,True,6000.0,True,6.3,3.5,1.8
+Naman Ojha,NV Ojha,IPL,2014,Sunrisers Hyderabad,Wicketkeeper,inferred,INR_LACS,50.0,50.0,50.0,50.0,2013,56,969,22.02,117.6,86,50,0,,,,29,8,False,True,True,True,3800.0,True,28.2,0.5,56.4
+Parthiv Patel,PA Patel,IPL,2014,Royal Challengers Bangalore,Wicketkeeper,inferred,INR_LACS,275.0,100.0,275.0,100.0,2013,67,1206,20.79,109.14,148,17,0,,,,27,7,False,True,True,True,3050.0,True,26.09,2.75,9.49
+Wriddhiman Saha,WP Saha,IPL,2014,Kings XI Punjab,Wicketkeeper,inferred,INR_LACS,220.0,100.0,220.0,100.0,2013,46,442,27.62,127.75,32,20,0,,,,16,5,False,True,True,True,4350.0,True,30.25,2.2,13.75
+Shakib Al Hasan,Shakib Al Hasan,IPL,2014,Kolkata Knight Riders,Bowler,inferred,INR_LACS,280.0,100.0,280.0,100.0,2012,15,120,15.0,125.0,10,3,23,6.67,16.09,14.48,2,0,True,True,True,True,3800.0,True,46.87,2.8,16.74
+Albie Morkel,JA Morkel,IPL,2014,Royal Challengers Bangalore,All-Rounder,inferred,INR_LACS,240.0,150.0,240.0,150.0,2013,77,828,23.66,144.76,51,48,76,8.1,27.08,20.07,13,0,True,True,True,True,3050.0,True,44.93,2.4,18.72
+Irfan Pathan,IK Pathan,IPL,2014,Sunrisers Hyderabad,All-Rounder,inferred,INR_LACS,240.0,150.0,240.0,150.0,2013,88,1082,23.02,122.95,83,38,76,7.68,31.01,24.22,25,0,True,True,True,True,3800.0,True,43.86,2.4,18.28
+Yusuf Pathan,YK Pathan,IPL,2014,Kolkata Knight Riders,All-Rounder,inferred,INR_LACS,325.0,200.0,325.0,200.0,2013,91,1838,26.64,148.11,154,98,37,7.25,32.76,27.11,24,0,True,True,True,True,3800.0,True,42.36,3.25,13.03
+Thisara Perera,NLTC Perera,IPL,2014,Kings XI Punjab,All-Rounder,inferred,INR_LACS,160.0,50.0,160.0,50.0,2013,23,262,20.15,130.35,16,14,21,8.23,30.24,22.05,8,0,True,True,True,True,4350.0,True,36.02,1.6,22.51
+Steve Smith,SPD Smith,IPL,2014,Rajasthan Royals,Batter,inferred,INR_LACS,400.0,200.0,400.0,200.0,2013,22,521,40.08,130.58,39,18,0,15.0,,,14,0,True,True,True,True,2250.0,True,42.35,4.0,10.59
+Ashok Dinda,AB Dinda,IPL,2014,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,150.0,100.0,150.0,100.0,2013,55,15,1.88,51.72,1,0,52,7.9,26.75,20.33,6,0,True,True,True,True,3050.0,True,51.02,1.5,34.01
+Bhuvneshwar Kumar,B Kumar,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,425.0,150.0,425.0,150.0,2013,31,93,9.3,83.04,7,1,24,6.72,29.96,26.75,4,0,True,True,True,True,3800.0,True,47.0,4.25,11.06
+Morne Morkel,M Morkel,IPL,2014,Kolkata Knight Riders,Bowler,inferred,INR_LACS,280.0,150.0,280.0,150.0,2013,41,117,10.64,140.96,11,5,45,7.62,27.09,21.33,4,0,True,True,True,True,3800.0,True,49.98,2.8,17.85
+Ravi Rampaul,R Rampaul,IPL,2014,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,90.0,50.0,90.0,50.0,2013,10,38,9.5,102.7,3,1,15,7.03,18.13,15.47,4,0,True,True,True,True,3050.0,True,44.06,0.9,48.96
+Mohammed Shami,Mohammed Shami,IPL,2014,Delhi Daredevils,Bowler,inferred,INR_LACS,425.0,100.0,425.0,100.0,2013,3,5,5.0,50.0,0,0,1,8.67,78.0,54.0,0,0,True,True,True,True,6000.0,True,36.74,4.25,8.64
+Ishant Sharma,I Sharma,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,425.0,150.0,425.0,150.0,2013,59,37,9.25,80.43,2,1,51,7.68,32.2,25.16,13,0,True,True,True,True,3800.0,True,51.3,4.25,12.07
+Ranganath Vinay Kumar,R Vinay Kumar,IPL,2014,Kolkata Knight Riders,Bowler,inferred,INR_LACS,280.0,150.0,280.0,150.0,2013,76,287,11.96,114.34,20,8,84,8.27,25.92,18.8,23,0,True,True,True,True,3800.0,True,57.94,2.8,20.69
+Umesh Yadav,UT Yadav,IPL,2014,Kolkata Knight Riders,Bowler,inferred,INR_LACS,260.0,100.0,260.0,100.0,2013,47,44,11.0,81.48,3,1,43,8.21,30.91,22.58,11,0,True,True,True,True,3800.0,True,48.08,2.6,18.49
+Piyush Chawla,PP Chawla,IPL,2014,Kolkata Knight Riders,Bowler,inferred,INR_LACS,425.0,50.0,425.0,50.0,2013,87,401,12.94,112.96,36,12,84,7.52,26.63,21.24,19,0,True,True,True,True,3800.0,True,59.73,4.25,14.05
+Murali Kartik,M Kartik,IPL,2014,Kings XI Punjab,Bowler,inferred,INR_LACS,100.0,100.0,100.0,100.0,2013,54,113,16.14,104.63,7,1,30,7.07,43.23,36.7,17,0,True,True,True,True,4350.0,True,47.63,1.0,47.63
+Muttiah Muralitharan,M Muralitharan,IPL,2014,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,100.0,100.0,100.0,100.0,2013,61,20,3.33,66.67,1,0,61,6.63,25.93,23.48,14,0,True,True,True,True,3050.0,True,56.24,1.0,56.24
+Pragyan Ojha,PP Ojha,IPL,2014,Mumbai Indians,Bowler,inferred,INR_LACS,325.0,200.0,325.0,200.0,2013,79,12,1.09,32.43,0,0,85,7.18,22.69,18.95,14,0,True,True,True,True,2100.0,True,60.78,3.25,18.7
+Rahul Sharma,R Sharma,IPL,2014,Delhi Daredevils,Bowler,inferred,INR_LACS,190.0,50.0,190.0,50.0,2013,42,66,4.71,88.0,5,3,39,6.87,26.18,22.87,10,0,True,True,True,True,6000.0,True,50.3,1.9,26.47
+Saurabh Tiwary,SS Tiwary,IPL,2014,Delhi Daredevils,Batter,inferred,INR_LACS,70.0,50.0,70.0,50.0,2013,62,945,25.54,117.39,58,36,0,,,,14,0,False,True,True,True,6000.0,True,31.26,0.7,44.66
+Moises Henriques,MC Henriques,IPL,2014,Sunrisers Hyderabad,All-Rounder,inferred,INR_LACS,100.0,100.0,100.0,100.0,2013,15,214,30.57,125.88,24,4,10,8.76,32.7,22.4,9,0,True,True,True,True,3800.0,True,37.16,1.0,37.16
+Glenn Maxwell,GJ Maxwell,IPL,2014,Kings XI Punjab,Batter,inferred,INR_LACS,600.0,100.0,600.0,100.0,2013,5,42,14.0,110.53,1,4,1,9.0,45.0,30.0,1,0,True,True,True,True,4350.0,True,22.91,6.0,3.82
+Abhishek Nayar,AM Nayar,IPL,2014,Rajasthan Royals,All-Rounder,inferred,INR_LACS,100.0,30.0,100.0,30.0,2013,55,629,17.97,118.68,50,19,9,8.44,35.78,25.44,12,0,True,True,True,True,2250.0,True,32.87,1.0,32.87
+Laxmi Ratan Shukla,LR Shukla,IPL,2014,Delhi Daredevils,All-Rounder,inferred,INR_LACS,150.0,50.0,150.0,50.0,2013,42,374,15.58,119.87,31,15,14,8.47,26.0,18.43,14,0,True,True,True,True,6000.0,True,32.75,1.5,21.83
+Andre Russell,AD Russell,IPL,2014,Kolkata Knight Riders,Bowler,inferred,INR_LACS,60.0,50.0,60.0,50.0,2013,7,58,14.5,145.0,3,3,1,9.96,229.0,138.0,1,0,True,True,True,True,3800.0,True,33.67,0.6,56.12
+Varun Aaron,VR Aaron,IPL,2014,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,200.0,150.0,200.0,150.0,2012,12,1,0.5,12.5,0,0,10,8.21,35.3,25.8,1,0,True,True,True,True,3050.0,True,40.03,2.0,20.02
+Parvinder Awana,P Awana,IPL,2014,Kings XI Punjab,Bowler,inferred,INR_LACS,65.0,50.0,65.0,50.0,2013,26,5,2.5,35.71,0,0,32,7.76,24.5,18.94,4,0,True,True,True,True,4350.0,True,46.47,0.65,71.49
+Lakshmipathy Balaji,L Balaji,IPL,2014,Kings XI Punjab,Bowler,inferred,INR_LACS,180.0,50.0,180.0,50.0,2013,64,35,5.0,76.09,2,1,64,7.93,27.02,20.44,9,0,True,True,True,True,4350.0,True,53.87,1.8,29.93
+Nathan Coulter-Nile,NM Coulter-Nile,IPL,2014,Delhi Daredevils,Bowler,inferred,INR_LACS,425.0,100.0,425.0,100.0,2013,1,9,9.0,150.0,0,1,1,7.25,29.0,24.0,1,0,True,True,True,True,6000.0,True,40.12,4.25,9.44
+Ashish Nehra,A Nehra,IPL,2014,Chennai Super Kings,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2013,54,39,6.5,72.22,3,1,59,7.78,25.56,19.71,12,0,True,True,True,True,2100.0,True,53.01,2.0,26.5
+Mohit Sharma,MM Sharma,IPL,2014,Chennai Super Kings,Bowler,inferred,INR_LACS,200.0,100.0,200.0,100.0,2013,15,0,0.0,0.0,0,0,20,6.43,16.3,15.2,2,0,True,True,True,True,2100.0,True,46.71,2.0,23.36
+Jaydev Unadkat,JD Unadkat,IPL,2014,Delhi Daredevils,Bowler,inferred,INR_LACS,280.0,100.0,280.0,100.0,2013,24,2,,100.0,0,0,23,7.93,27.7,20.96,4,0,True,False,True,True,6000.0,True,43.87,2.8,15.67
+Samuel Badree,S Badree,IPL,2014,Chennai Super Kings,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,1,0,,,0,0,0,8.5,,,0,0,True,False,False,True,2100.0,True,36.9,0.3,123.0
+Chris Lynn,CA Lynn,IPL,2014,Kolkata Knight Riders,Batter,inferred,INR_LACS,130.0,50.0,130.0,50.0,2012,1,6,6.0,66.67,1,0,0,,,,1,0,False,True,True,True,3800.0,True,12.23,1.3,9.41
+Ben Hilfenhaus,BW Hilfenhaus,IPL,2014,Chennai Super Kings,Bowler,inferred,INR_LACS,100.0,100.0,100.0,100.0,2012,9,0,,,0,0,14,6.85,16.64,14.57,0,0,True,False,False,True,2100.0,True,44.25,1.0,44.25
+Jason Holder,JO Holder,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,75.0,50.0,75.0,50.0,2013,6,0,,,0,0,2,8.4,84.0,60.0,3,0,True,False,False,True,3800.0,True,37.63,0.75,50.17
+Kane Richardson,KW Richardson,IPL,2014,Rajasthan Royals,Bowler,inferred,INR_LACS,100.0,100.0,100.0,100.0,2013,3,34,17.0,94.44,2,1,2,8.54,50.5,35.5,0,0,True,True,True,True,2250.0,True,37.3,1.0,37.3
+Tim Southee,TG Southee,IPL,2014,Rajasthan Royals,Bowler,inferred,INR_LACS,120.0,50.0,120.0,50.0,2011,5,0,,,0,0,4,8.74,41.5,28.5,0,0,True,False,False,True,2250.0,True,37.31,1.2,31.09
+Wayne Parnell,WD Parnell,IPL,2014,Delhi Daredevils,Bowler,inferred,INR_LACS,100.0,100.0,100.0,100.0,2013,18,61,7.62,83.56,4,1,20,7.34,23.9,19.55,3,0,True,True,True,True,6000.0,True,44.54,1.0,44.54
+Marchant de Lange,M de Lange,IPL,2014,Mumbai Indians,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2012,3,0,,,0,0,3,10.7,35.67,20.0,0,0,True,False,False,True,2100.0,True,32.4,0.3,108.0
+Mayank Agarwal,MA Agarwal,IPL,2014,Delhi Daredevils,Batter,inferred,INR_LACS,160.0,10.0,160.0,10.0,2013,28,433,18.83,127.35,41,22,0,,,,15,0,False,True,True,True,6000.0,True,28.15,1.6,17.59
+Srikkanth Anirudha,S Anirudha,IPL,2014,Sunrisers Hyderabad,Batter,inferred,INR_LACS,20.0,20.0,20.0,20.0,2013,19,133,19.0,123.15,9,7,0,,,,11,0,False,True,True,True,3800.0,True,27.73,0.2,138.65
+Unmukt Chand,UBT Chand,IPL,2014,Rajasthan Royals,Batter,inferred,INR_LACS,65.0,30.0,65.0,30.0,2013,13,196,15.08,96.08,19,7,0,,,,5,0,False,True,True,True,2250.0,True,21.8,0.65,33.54
+Kedar Jadhav,KM Jadhav,IPL,2014,Delhi Daredevils,Batter,inferred,INR_LACS,200.0,30.0,200.0,30.0,2013,23,246,18.92,121.18,16,7,0,,,,6,2,False,True,True,True,6000.0,True,27.43,2.0,13.72
+Manprit Juneja,MC Juneja,IPL,2014,Sunrisers Hyderabad,Batter,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,7,125,17.86,97.66,11,1,0,,,,0,0,False,True,True,True,3800.0,True,23.8,0.1,238.0
+Gurkeerat Singh,Gurkeerat Singh,IPL,2014,Kings XI Punjab,Batter,inferred,INR_LACS,130.0,20.0,130.0,20.0,2013,16,194,17.64,131.97,22,5,0,,,,6,1,False,True,True,True,4350.0,True,27.95,1.3,21.5
+Manish Pandey,MK Pandey,IPL,2014,Kolkata Knight Riders,Batter,inferred,INR_LACS,170.0,20.0,170.0,20.0,2013,48,945,24.87,113.99,95,26,0,,,,24,0,False,True,True,True,3800.0,True,30.4,1.7,17.88
+KL Rahul,KL Rahul,IPL,2014,Sunrisers Hyderabad,Batter,inferred,INR_LACS,100.0,10.0,100.0,10.0,2013,5,20,10.0,125.0,4,0,0,,,,2,0,False,True,True,True,3800.0,True,22.12,1.0,22.12
+Suryakumar Yadav,SA Yadav,IPL,2014,Kolkata Knight Riders,Batter,inferred,INR_LACS,70.0,20.0,70.0,20.0,2012,1,0,0.0,0.0,0,0,0,,,,0,0,False,True,True,True,3800.0,True,0.0,0.7,0.0
+Manvinder Bisla,MS Bisla,IPL,2014,Kolkata Knight Riders,Wicketkeeper,inferred,INR_LACS,60.0,30.0,60.0,30.0,2013,36,758,21.66,114.33,87,22,0,,,,18,7,False,True,True,True,3800.0,True,27.06,0.6,45.1
+Debabrata Das,DB Das,IPL,2014,Kolkata Knight Riders,Batter,inferred,INR_LACS,20.0,20.0,20.0,20.0,2013,31,304,21.71,116.48,23,16,0,,,,7,0,False,True,True,True,3800.0,True,28.66,0.2,143.3
+CM Gautam,CM Gautam,IPL,2014,Mumbai Indians,Batter,inferred,INR_LACS,20.0,20.0,20.0,20.0,2013,3,44,22.0,129.41,4,1,0,,,,0,0,False,True,True,True,2100.0,True,30.46,0.2,152.3
+Yogesh Takawale,YV Takawale,IPL,2014,Royal Challengers Bangalore,Wicketkeeper,inferred,INR_LACS,10.0,10.0,10.0,10.0,2009,11,88,29.33,101.15,9,2,0,,,,11,3,False,True,True,True,3050.0,True,27.23,0.1,272.3
+Aditya Tare,AP Tare,IPL,2014,Mumbai Indians,Batter,inferred,INR_LACS,160.0,20.0,160.0,20.0,2013,12,173,19.22,144.17,19,8,0,,,,1,2,False,True,True,True,2100.0,True,30.5,1.6,19.06
+Rajat Bhatia,R Bhatia,IPL,2014,Rajasthan Royals,Bowler,inferred,INR_LACS,170.0,30.0,170.0,30.0,2013,68,225,10.23,116.58,19,7,51,7.38,27.29,22.2,16,0,True,True,True,True,2250.0,True,52.01,1.7,30.59
+Kevon Cooper,KK Cooper,IPL,2014,Rajasthan Royals,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,20,77,12.83,183.33,7,5,29,7.99,21.48,16.14,9,0,True,True,True,True,2250.0,True,45.19,0.3,150.63
+Rishi Dhawan,R Dhawan,IPL,2014,Kings XI Punjab,Bowler,inferred,INR_LACS,300.0,20.0,300.0,20.0,2013,6,21,7.0,100.0,3,0,2,7.27,54.5,45.0,3,0,True,True,True,True,4350.0,True,40.32,3.0,13.44
+Mithun Manhas,M Manhas,IPL,2014,Chennai Super Kings,Batter,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,43,479,22.81,107.16,40,9,0,6.0,,,17,0,True,True,True,True,2100.0,True,28.21,0.3,94.03
+Parvez Rasool,Parvez Rasool,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,95.0,20.0,95.0,20.0,2013,2,5,5.0,55.56,0,0,1,5.6,28.0,30.0,0,0,True,True,True,True,3800.0,True,44.05,0.95,46.37
+Mandeep Singh,Mandeep Singh,IPL,2014,Kings XI Punjab,Batter,inferred,INR_LACS,80.0,30.0,80.0,30.0,2013,41,743,21.23,120.42,94,8,0,,,,12,0,False,True,True,True,4350.0,True,28.84,0.8,36.05
+Ryan Ten Doeschate,RN ten Doeschate,IPL,2014,Kolkata Knight Riders,Batter,inferred,INR_LACS,100.0,100.0,100.0,100.0,2013,13,213,30.43,135.67,19,8,1,7.86,55.0,42.0,4,0,True,True,True,True,3800.0,True,36.72,1.0,36.72
+Abu Nechim Ahmed,AN Ahmed,IPL,2014,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,10,22,,110.0,1,1,8,8.29,32.12,23.25,2,0,True,False,True,True,3050.0,True,39.36,0.3,131.2
+Jasprit Bumrah,JJ Bumrah,IPL,2014,Mumbai Indians,Bowler,inferred,INR_LACS,120.0,20.0,120.0,20.0,2013,2,0,,,0,0,3,10.0,23.33,14.0,0,0,True,False,False,True,2100.0,True,34.07,1.2,28.39
+Siddarth Kaul,S Kaul,IPL,2014,Delhi Daredevils,Bowler,inferred,INR_LACS,45.0,20.0,45.0,20.0,2013,6,7,,77.78,0,0,4,7.79,42.5,32.75,1,0,True,False,True,True,6000.0,True,39.57,0.45,87.93
+Dhawal Kulkarni,DS Kulkarni,IPL,2014,Rajasthan Royals,Bowler,inferred,INR_LACS,110.0,30.0,110.0,30.0,2013,33,23,7.67,54.76,2,0,36,7.97,23.5,17.69,5,0,True,True,True,True,2250.0,True,46.95,1.1,42.68
+Ishwar Pandey,IC Pandey,IPL,2014,Chennai Super Kings,Bowler,inferred,INR_LACS,150.0,10.0,150.0,10.0,2013,2,0,0.0,0.0,0,0,1,12.5,50.0,24.0,0,0,True,True,True,True,2100.0,True,27.62,1.5,18.41
+Prasanth Parameswaran,P Parameswaran,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2012,8,1,,50.0,0,0,9,8.73,24.89,17.11,0,0,True,False,True,True,3800.0,True,38.55,0.3,128.5
+Sandeep Sharma,Sandeep Sharma,IPL,2014,Kings XI Punjab,Bowler,inferred,INR_LACS,85.0,30.0,85.0,30.0,2013,4,0,,0.0,0,0,8,7.44,14.88,12.0,0,0,True,False,True,True,4350.0,True,41.38,0.85,48.68
+Rahul Shukla,R Shukla,IPL,2014,Delhi Daredevils,Bowler,inferred,INR_LACS,40.0,20.0,40.0,20.0,2013,4,1,,50.0,0,0,3,10.0,36.67,22.0,2,0,True,False,True,True,6000.0,True,34.07,0.4,85.18
+Anureet Singh,Anureet Singh,IPL,2014,Kings XI Punjab,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2009,3,0,,,0,0,2,9.4,23.5,15.0,0,0,True,False,False,True,4350.0,True,35.25,0.2,176.25
+Shadab Jakati,SB Jakati,IPL,2014,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2012,50,27,27.0,100.0,3,0,45,7.75,26.22,20.29,15,0,True,True,True,True,3050.0,True,49.67,0.2,248.35
+Shahbaz Nadeem,S Nadeem,IPL,2014,Delhi Daredevils,Bowler,inferred,INR_LACS,85.0,30.0,85.0,30.0,2013,29,14,2.33,46.67,1,0,21,6.66,34.24,30.86,4,0,True,True,True,True,6000.0,True,46.41,0.85,54.6
+Pawan Negi,P Negi,IPL,2014,Chennai Super Kings,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,9,36,18.0,124.14,4,1,7,6.92,25.71,22.29,1,0,True,True,True,True,2100.0,True,42.37,0.1,423.7
+Karn Sharma,KV Sharma,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,375.0,30.0,375.0,30.0,2013,14,86,17.2,96.63,6,2,11,6.6,20.91,19.0,3,0,True,True,True,True,3800.0,True,44.11,3.75,11.76
+Yuzvendra Chahal,YS Chahal,IPL,2014,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,1,0,,,0,0,0,8.5,,,0,0,True,False,False,True,3050.0,True,36.9,0.1,369.0
+Pravin Tambe,PV Tambe,IPL,2014,Rajasthan Royals,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,3,3,,50.0,0,0,1,8.0,88.0,66.0,0,0,True,False,True,True,2250.0,True,38.34,0.1,383.4
+Karun Nair,KK Nair,IPL,2014,Rajasthan Royals,Batter,inferred,INR_LACS,75.0,10.0,75.0,10.0,2013,2,9,4.5,75.0,0,0,0,,,,0,0,False,True,True,True,2250.0,True,12.3,0.75,16.4
+Amit Paunikar,AG Paunikar,IPL,2014,Sunrisers Hyderabad,Batter,inferred,INR_LACS,20.0,20.0,20.0,20.0,2011,5,49,9.8,84.48,9,0,0,,,,1,0,False,True,True,True,3800.0,True,16.92,0.2,84.6
+Dishant Yagnik,DH Yagnik,IPL,2014,Rajasthan Royals,Wicketkeeper,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,24,166,16.6,126.72,23,2,0,,,,11,5,False,True,True,True,2250.0,True,24.42,0.3,81.4
+Akshar Patel,AR Patel,IPL,2014,Kings XI Punjab,,,INR_LACS,75.0,20.0,75.0,20.0,2013,0,0,,,0,0,0,,,,1,0,False,False,False,True,4350.0,True,,0.75,
+Vikramjeet Malik,VS Malik,IPL,2014,Rajasthan Royals,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2013,12,6,6.0,120.0,1,0,5,7.44,46.4,37.4,1,0,True,True,True,True,2250.0,True,40.65,0.2,203.25
+Harshal Patel,HV Patel,IPL,2014,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,40.0,30.0,40.0,30.0,2012,11,15,7.5,100.0,1,0,9,8.29,37.78,27.33,7,0,True,True,True,True,3050.0,True,39.6,0.4,99.0
+Veer Pratap Singh,V Pratap Singh,IPL,2014,Kolkata Knight Riders,Bowler,inferred,INR_LACS,40.0,20.0,40.0,20.0,2012,9,0,0.0,0.0,0,0,10,8.71,29.6,20.4,0,0,True,True,True,True,3800.0,True,38.84,0.4,97.1
+Ashish Reddy,A Ashish Reddy,IPL,2014,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2013,21,160,16.0,135.59,11,6,14,9.07,21.93,14.5,6,0,True,True,True,True,3800.0,True,38.96,0.2,194.8
+Pawan Suyal,P Suyal,IPL,2014,Mumbai Indians,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,1,0,,,0,0,1,7.0,21.0,18.0,1,0,True,False,False,True,2100.0,True,40.72,0.1,407.2
+Ankit Nagendra Sharma,Ankit Sharma,IPL,2014,Rajasthan Royals,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,10,18,6.0,138.46,0,2,4,6.96,45.5,39.25,1,0,True,True,True,True,2250.0,True,41.55,0.1,415.5
+Sachin Rana,S Rana,IPL,2014,Royal Challengers Bangalore,Batter,inferred,INR_LACS,20.0,20.0,20.0,20.0,2011,2,18,18.0,112.5,2,0,0,3.0,,,0,0,True,True,True,True,3050.0,True,25.75,0.2,128.75
+Tanmay Mishra,T Mishra,IPL,2014,Royal Challengers Bangalore,,,INR_LACS,10.0,10.0,10.0,10.0,2012,1,0,,,0,0,0,,,,1,0,False,False,False,True,3050.0,True,,0.1,
+Michael Hussey,MEK Hussey,IPL,2015,Chennai Super Kings,Batter,inferred,INR_LACS,150.0,150.0,150.0,150.0,2014,55,1900,40.43,123.22,193,49,0,,,,25,0,False,True,True,True,,False,41.66,1.5,27.77
+Irfan Pathan,IK Pathan,IPL,2015,Chennai Super Kings,All-Rounder,inferred,INR_LACS,150.0,150.0,150.0,150.0,2014,98,1137,23.2,121.73,88,38,80,7.75,32.02,24.79,27,0,True,True,True,True,,False,44.24,1.5,29.49
+Rahul Sharma,R Sharma,IPL,2015,Chennai Super Kings,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2014,44,66,4.71,88.0,5,3,40,7.02,27.15,23.2,10,0,True,True,True,True,,False,50.18,0.3,167.27
+Yuvraj Singh,Yuvraj Singh,IPL,2015,Delhi Daredevils,All-Rounder,inferred,INR_LACS,1600.0,200.0,1600.0,200.0,2014,84,1855,26.5,131.75,130,110,34,7.23,26.71,22.18,22,0,True,True,True,True,,False,40.95,16.0,2.56
+Angelo Mathews,AD Mathews,IPL,2015,Delhi Daredevils,All-Rounder,inferred,INR_LACS,750.0,150.0,750.0,150.0,2013,35,548,24.91,123.42,30,22,20,8.02,38.85,29.05,12,0,True,True,True,True,,False,37.26,7.5,4.97
+Zaheer Khan,Z Khan,IPL,2015,Delhi Daredevils,Bowler,inferred,INR_LACS,400.0,100.0,400.0,100.0,2014,69,107,9.73,93.04,10,2,75,7.64,26.35,20.69,16,0,True,True,True,True,,False,57.25,4.0,14.31
+Amit Mishra,A Mishra,IPL,2015,Delhi Daredevils,Bowler,inferred,INR_LACS,350.0,10.0,350.0,10.0,2014,86,279,11.62,97.89,25,3,102,7.19,22.2,18.52,9,0,True,True,True,True,,False,64.9,3.5,18.54
+Jaydev Unadkat,JD Unadkat,IPL,2015,Delhi Daredevils,Bowler,inferred,INR_LACS,110.0,50.0,110.0,50.0,2014,33,3,3.0,37.5,0,0,32,8.13,28.34,20.91,4,0,True,True,True,True,,False,45.59,1.1,41.45
+Albie Morkel,JA Morkel,IPL,2015,Delhi Daredevils,All-Rounder,inferred,INR_LACS,30.0,30.0,30.0,30.0,2014,84,873,22.97,142.41,52,51,80,8.08,27.3,20.26,15,0,True,True,True,True,,False,45.07,0.3,150.23
+CM Gautam,CM Gautam,IPL,2015,Delhi Daredevils,Wicketkeeper,inferred,INR_LACS,20.0,20.0,20.0,20.0,2014,12,165,18.33,113.79,17,6,0,,,,3,3,False,True,True,True,,False,22.78,0.2,113.9
+Murali Vijay,M Vijay,IPL,2015,Kings XI Punjab,Batter,inferred,INR_LACS,300.0,50.0,300.0,50.0,2014,75,1807,25.45,125.23,160,71,0,13.0,,,41,0,True,True,True,True,,False,32.18,3.0,10.73
+James Neesham,JDS Neesham,IPL,2015,Kolkata Knight Riders,Bowler,inferred,INR_LACS,50.0,30.0,50.0,30.0,2014,4,42,14.0,91.3,3,1,1,10.11,91.0,54.0,0,0,True,True,True,True,,False,33.32,0.5,66.64
+Brad Hogg,GB Hogg,IPL,2015,Kolkata Knight Riders,Bowler,inferred,INR_LACS,50.0,50.0,50.0,50.0,2013,10,15,7.5,93.75,1,0,10,7.22,28.4,23.6,1,0,True,True,True,True,,False,42.39,0.5,84.78
+Sumit Narwal,S Narwal,IPL,2015,Kolkata Knight Riders,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,7,37,12.33,137.04,6,0,5,11.43,40.4,21.2,1,0,True,True,True,True,,False,31.15,0.1,311.5
+Aaron Finch,AJ Finch,IPL,2015,Mumbai Indians,Batter,inferred,INR_LACS,320.0,100.0,320.0,100.0,2014,36,888,26.12,123.85,96,29,1,9.35,67.0,43.0,12,0,True,True,True,True,,False,32.44,3.2,10.14
+Pragyan Ojha,PP Ojha,IPL,2015,Mumbai Indians,Bowler,inferred,INR_LACS,50.0,50.0,50.0,50.0,2014,91,16,1.33,35.56,0,0,89,7.34,25.94,21.2,14,0,True,True,True,True,,False,61.37,0.5,122.74
+Abhimanyu Mithun,A Mithun,IPL,2015,Mumbai Indians,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,16,34,6.8,130.77,4,1,7,9.83,67.43,41.14,7,0,True,True,True,True,,False,35.45,0.3,118.17
+Aiden Blizzard,AC Blizzard,IPL,2015,Mumbai Indians,Batter,inferred,INR_LACS,30.0,30.0,30.0,30.0,2012,7,120,17.14,133.33,21,2,0,,,,4,0,False,True,True,True,,False,27.8,0.3,92.67
+Chris Morris,CH Morris,IPL,2015,Rajasthan Royals,Bowler,inferred,INR_LACS,140.0,50.0,140.0,50.0,2013,16,14,7.0,87.5,0,0,15,8.02,26.73,20.0,5,0,True,True,True,True,,False,41.71,1.4,29.79
+Rusty Theron,J Theron,IPL,2015,Rajasthan Royals,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2012,9,9,4.5,81.82,1,0,10,7.98,26.2,19.7,1,0,True,True,True,True,,False,40.58,0.3,135.27
+Dinesh Salunkhe,D Salunkhe,IPL,2015,Rajasthan Royals,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2008,6,33,16.5,137.5,5,0,1,9.96,78.0,47.0,2,0,True,True,True,True,,False,33.67,0.1,336.7
+Dinesh Karthik,KD Karthik,IPL,2015,Royal Challengers Bangalore,Wicketkeeper,inferred,INR_LACS,1050.0,200.0,1050.0,200.0,2014,106,2066,24.89,124.23,203,53,0,,,,55,19,False,True,True,True,,False,37.23,10.5,3.55
+Darren Sammy,DJG Sammy,IPL,2015,Royal Challengers Bangalore,All-Rounder,inferred,INR_LACS,280.0,100.0,280.0,100.0,2014,20,282,21.69,126.46,15,18,11,8.94,29.55,19.82,8,0,True,True,True,True,,False,34.22,2.8,12.22
+Subramaniam Badrinath,S Badrinath,IPL,2015,Royal Challengers Bangalore,Batter,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,94,1441,30.66,118.89,154,28,0,,,,16,0,False,True,True,True,,False,34.77,0.3,115.9
+Praveen Kumar,P Kumar,IPL,2015,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,220.0,50.0,220.0,50.0,2014,85,291,9.7,114.57,18,17,68,7.48,34.85,27.94,8,0,True,True,True,True,,False,55.92,2.2,25.42
+Kevin Pietersen,KP Pietersen,IPL,2015,Sunrisers Hyderabad,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2014,32,928,37.12,136.07,87,37,7,7.41,30.71,24.86,11,0,True,True,True,True,,False,41.11,2.0,20.56
+Eoin Morgan,EJG Morgan,IPL,2015,Sunrisers Hyderabad,Batter,inferred,INR_LACS,150.0,150.0,150.0,150.0,2013,32,479,20.83,123.77,47,17,0,,,,13,0,False,True,True,True,,False,29.0,1.5,19.33
+Ravi Bopara,RS Bopara,IPL,2015,Sunrisers Hyderabad,Batter,inferred,INR_LACS,100.0,100.0,100.0,100.0,2010,15,386,29.69,115.92,33,10,5,9.21,26.4,17.2,3,0,True,True,True,True,,False,33.77,1.0,33.77
+Laxmi Ratan Shukla,LR Shukla,IPL,2015,Sunrisers Hyderabad,All-Rounder,inferred,INR_LACS,30.0,30.0,30.0,30.0,2014,47,405,15.0,115.71,33,16,15,8.54,29.8,20.93,15,0,True,True,True,True,,False,32.34,0.3,107.8
+Padmanabhan Prasanth,P Prasanth,IPL,2015,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2011,1,0,,,0,0,0,18.0,,,0,0,True,False,False,True,,False,14.29,0.1,142.9
+Hanuma Vihari,GH Vihari,IPL,2015,Sunrisers Hyderabad,Batter,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,17,241,17.21,86.69,17,1,1,6.33,38.0,36.0,4,0,True,True,True,True,,False,22.01,0.1,220.1
+Siddarth Kaul,S Kaul,IPL,2015,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2014,11,9,,81.82,0,0,6,8.5,49.33,34.83,1,0,True,False,True,True,,False,38.37,0.1,383.7
+Kevin Pietersen,KP Pietersen,IPL,2016,Rising Pune Supergiants,Batter,inferred,INR_LACS,300.0,200.0,300.0,200.0,2014,32,928,37.12,136.07,87,37,7,7.41,30.71,24.86,11,0,True,True,True,True,,False,41.11,3.0,13.7
+Dwayne Smith,DR Smith,IPL,2016,Gujarat Lions,Batter,inferred,INR_LACS,230.0,50.0,230.0,50.0,2015,67,1822,29.39,131.36,178,93,16,8.65,31.81,22.06,31,0,True,True,True,True,,False,35.5,2.3,15.43
+Ishant Sharma,I Sharma,IPL,2016,Rising Pune Supergiants,Bowler,inferred,INR_LACS,380.0,200.0,380.0,200.0,2015,66,37,9.25,80.43,2,1,55,7.96,34.58,26.05,13,0,True,True,True,True,,False,51.61,3.8,13.58
+Shane Watson,SR Watson,IPL,2016,Royal Challengers Bangalore,All-Rounder,inferred,INR_LACS,950.0,200.0,950.0,200.0,2015,78,2378,36.03,141.3,238,109,61,7.5,27.89,22.31,19,0,True,True,True,True,,False,47.61,9.5,5.01
+Ashish Nehra,A Nehra,IPL,2016,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,550.0,200.0,550.0,200.0,2015,74,40,5.71,65.57,3,1,89,7.75,23.58,18.26,15,0,True,True,True,True,,False,60.4,5.5,10.98
+Yuvraj Singh,Yuvraj Singh,IPL,2016,Sunrisers Hyderabad,All-Rounder,inferred,INR_LACS,700.0,200.0,700.0,200.0,2015,98,2103,25.34,129.98,153,120,35,7.28,28.0,23.09,24,0,True,True,True,True,,False,40.52,7.0,5.79
+Dale Steyn,DW Steyn,IPL,2016,Gujarat Lions,Bowler,inferred,INR_LACS,230.0,150.0,230.0,150.0,2015,89,165,7.86,105.77,14,3,92,6.74,25.04,22.3,22,0,True,True,True,True,,False,63.53,2.3,27.62
+Sanju Samson,SV Samson,IPL,2016,Delhi Daredevils,Batter,inferred,INR_LACS,420.0,200.0,420.0,200.0,2015,38,749,24.16,121.99,60,30,0,,,,27,2,False,True,True,True,,False,30.94,4.2,7.37
+Dinesh Karthik,KD Karthik,IPL,2016,Gujarat Lions,Wicketkeeper,inferred,INR_LACS,230.0,200.0,230.0,200.0,2015,122,2207,23.48,123.99,218,57,0,,,,69,23,False,True,True,True,,False,38.97,2.3,16.94
+Irfan Pathan,IK Pathan,IPL,2016,Rising Pune Supergiants,All-Rounder,inferred,INR_LACS,100.0,100.0,100.0,100.0,2014,98,1137,23.2,121.73,88,38,80,7.75,32.02,24.79,27,0,True,True,True,True,,False,44.24,1.0,44.24
+Chris Morris,CH Morris,IPL,2016,Delhi Daredevils,Bowler,inferred,INR_LACS,700.0,50.0,700.0,50.0,2015,27,90,22.5,145.16,3,5,29,7.81,25.03,19.24,8,0,True,True,True,True,,False,45.62,7.0,6.52
+Stuart Binny,STR Binny,IPL,2016,Royal Challengers Bangalore,All-Rounder,inferred,INR_LACS,200.0,200.0,200.0,200.0,2015,58,625,21.55,127.81,48,22,16,7.42,31.06,25.12,14,0,True,True,True,True,,False,36.67,2.0,18.34
+Mitchell Marsh,MR Marsh,IPL,2016,Rising Pune Supergiants,All-Rounder,inferred,INR_LACS,480.0,200.0,480.0,200.0,2013,17,218,19.82,117.84,9,14,16,8.48,23.06,16.31,7,0,True,True,True,True,,False,34.23,4.8,7.13
+Dhawal Kulkarni,DS Kulkarni,IPL,2016,Gujarat Lions,Bowler,inferred,INR_LACS,230.0,200.0,230.0,200.0,2015,52,62,12.4,79.49,3,2,55,7.99,24.44,18.35,10,0,True,True,True,True,,False,51.53,2.3,22.4
+John Hastings,JW Hastings,IPL,2016,Kolkata Knight Riders,Bowler,inferred,INR_LACS,130.0,100.0,130.0,100.0,2014,1,0,,,0,0,1,9.67,29.0,18.0,0,0,True,False,False,True,,False,34.36,1.3,26.43
+Praveen Kumar,P Kumar,IPL,2016,Gujarat Lions,Bowler,inferred,INR_LACS,350.0,50.0,350.0,50.0,2015,97,308,9.33,110.39,19,17,75,7.65,35.99,28.21,11,0,True,True,True,True,,False,57.22,3.5,16.35
+Tim Southee,TG Southee,IPL,2016,Mumbai Indians,Bowler,inferred,INR_LACS,250.0,100.0,250.0,100.0,2015,15,17,8.5,130.77,2,0,10,8.58,48.9,34.2,6,0,True,True,True,True,,False,39.15,2.5,15.66
+Mohit Sharma,MM Sharma,IPL,2016,Kings XI Punjab,Bowler,inferred,INR_LACS,650.0,150.0,650.0,150.0,2015,47,29,7.25,111.54,1,2,57,7.8,22.09,17.0,10,0,True,True,True,True,,False,52.47,6.5,8.07
+Jaydev Unadkat,JD Unadkat,IPL,2016,Kolkata Knight Riders,Bowler,inferred,INR_LACS,160.0,30.0,160.0,30.0,2015,34,3,3.0,37.5,0,0,32,8.18,29.28,21.47,4,0,True,True,True,True,,False,45.47,1.6,28.42
+Barinder Sran,BB Sran,IPL,2016,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,120.0,50.0,120.0,50.0,2015,1,0,,,0,0,0,11.67,,,0,0,True,False,False,True,,False,29.36,1.2,24.47
+Abhimanyu Mithun,A Mithun,IPL,2016,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,16,34,6.8,130.77,4,1,7,9.83,67.43,41.14,7,0,True,True,True,True,,False,35.45,0.3,118.17
+R. P. Singh,RP Singh,IPL,2016,Rising Pune Supergiants,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,78,52,3.47,68.42,2,1,87,7.85,25.6,19.57,27,0,True,True,True,True,,False,59.67,0.3,198.9
+Sachin Baby,Sachin Baby,IPL,2016,Royal Challengers Bangalore,Batter,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,4,3,3.0,42.86,0,0,0,,,,2,0,False,True,True,True,,False,7.31,0.1,73.1
+Karun Nair,KK Nair,IPL,2016,Delhi Daredevils,Batter,inferred,INR_LACS,400.0,10.0,400.0,10.0,2015,27,520,22.61,133.68,56,14,0,,,,7,0,False,True,True,True,,False,31.39,4.0,7.85
+Paras Dogra,P Dogra,IPL,2016,Gujarat Lions,Batter,inferred,INR_LACS,400.0,10.0,400.0,10.0,2013,13,127,11.55,92.03,4,5,0,,,,5,0,False,True,True,True,,False,19.0,4.0,4.75
+Aditya Tare,AP Tare,IPL,2016,Sunrisers Hyderabad,Wicketkeeper,inferred,INR_LACS,120.0,20.0,120.0,20.0,2015,29,313,16.47,133.19,36,11,0,,,,2,5,False,True,True,True,,False,25.0,1.2,20.83
+Iqbal Abdulla,Iqbal Abdulla,IPL,2016,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2015,39,46,23.0,92.0,5,0,32,6.82,26.28,23.12,9,0,True,True,True,True,,False,48.71,0.1,487.1
+Deepak Hooda,DJ Hooda,IPL,2016,Sunrisers Hyderabad,Batter,inferred,INR_LACS,420.0,10.0,420.0,10.0,2015,14,151,16.78,158.95,6,11,1,8.51,129.0,91.0,1,0,True,True,True,True,,False,30.76,4.2,7.32
+Ankit Sharma,Ankit Sharma,IPL,2016,Rising Pune Supergiants,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2015,17,59,9.83,120.41,5,3,11,7.04,30.82,26.27,3,0,True,True,True,True,,False,43.06,0.1,430.6
+Pawan Negi,P Negi,IPL,2016,Delhi Daredevils,Bowler,inferred,INR_LACS,850.0,30.0,850.0,30.0,2015,21,152,15.2,149.02,14,6,13,8.05,39.0,29.08,6,0,True,True,True,True,,False,41.15,8.5,4.84
+Rajat Bhatia,R Bhatia,IPL,2016,Rising Pune Supergiants,Bowler,inferred,INR_LACS,60.0,30.0,60.0,30.0,2015,82,292,10.43,118.22,23,10,63,7.43,27.32,22.06,20,0,True,True,True,True,,False,54.82,0.6,91.37
+Pradeep Sangwan,PJ Sangwan,IPL,2016,Gujarat Lions,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2013,31,22,5.5,70.97,1,0,30,8.44,30.87,21.93,6,0,True,True,True,True,,False,44.36,0.2,221.8
+Ishwar Pandey,IC Pandey,IPL,2016,Rising Pune Supergiants,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2015,25,0,0.0,0.0,0,0,18,7.68,32.83,25.67,6,0,True,True,True,True,,False,43.25,0.2,216.25
+Ankit Rajpoot,AS Rajpoot,IPL,2016,Kolkata Knight Riders,Bowler,inferred,INR_LACS,150.0,10.0,150.0,10.0,2013,2,2,,33.33,0,0,1,8.75,35.0,24.0,0,0,True,False,True,True,,False,36.55,1.5,24.37
+Pravin Tambe,PV Tambe,IPL,2016,Gujarat Lions,Bowler,inferred,INR_LACS,20.0,10.0,20.0,10.0,2015,26,11,5.5,55.0,0,0,23,7.55,30.87,24.52,0,0,True,True,True,True,,False,44.78,0.2,223.9
+Sarabjit Ladda,S Ladda,IPL,2016,Gujarat Lions,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,8,0,0.0,0.0,0,0,5,9.67,40.6,25.2,1,0,True,True,True,True,,False,35.34,0.1,353.4
+KC Cariappa,KC Cariappa,IPL,2016,Kings XI Punjab,Bowler,inferred,INR_LACS,80.0,10.0,80.0,10.0,2015,1,0,,,0,0,1,14.0,28.0,12.0,0,0,True,False,False,True,,False,24.05,0.8,30.06
+Aaron Finch,AJ Finch,IPL,2016,Gujarat Lions,Batter,inferred,INR_LACS,100.0,100.0,100.0,100.0,2015,39,911,25.31,121.47,100,29,1,9.35,67.0,43.0,12,0,True,True,True,True,,False,31.62,1.0,31.62
+Tirumalasetti Suman,TL Suman,IPL,2016,Sunrisers Hyderabad,Batter,inferred,INR_LACS,10.0,10.0,10.0,10.0,2013,43,676,21.12,117.57,55,26,6,7.88,32.83,25.0,10,0,True,True,True,True,,False,28.41,0.1,284.1
+Jason Holder,JO Holder,IPL,2016,Kolkata Knight Riders,Bowler,inferred,INR_LACS,70.0,50.0,70.0,50.0,2014,7,16,16.0,133.33,2,1,3,8.83,67.67,46.0,5,0,True,True,True,True,,False,36.85,0.7,52.64
+Thisara Perera,NLTC Perera,IPL,2016,Rising Pune Supergiants,All-Rounder,inferred,INR_LACS,100.0,100.0,100.0,100.0,2015,25,274,18.27,126.85,16,15,22,8.3,31.36,22.68,8,0,True,True,True,True,,False,35.23,1.0,35.23
+Ben Cutting,BCJ Cutting,IPL,2016,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,50.0,50.0,50.0,50.0,2014,1,8,8.0,133.33,0,1,1,7.75,31.0,24.0,1,0,True,True,True,True,,False,38.93,0.5,77.86
+Rajagopal Sathish,R Sathish,IPL,2016,Kolkata Knight Riders,Batter,inferred,INR_LACS,20.0,20.0,20.0,20.0,2013,30,246,17.57,118.84,21,5,2,10.08,86.5,51.5,5,0,True,True,True,True,,False,26.26,0.2,131.3
+Vijay Shankar,V Shankar,IPL,2016,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,35.0,10.0,35.0,10.0,2014,1,0,,,0,0,0,19.0,,,0,0,True,False,False,True,,False,11.9,0.35,34.0
+Shadab Jakati,SB Jakati,IPL,2016,Gujarat Lions,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2014,51,27,27.0,100.0,3,0,45,7.84,27.13,20.78,15,0,True,True,True,True,,False,49.45,0.2,247.25
+Baba Aparajith,B Aparajith,IPL,2016,Rising Pune Supergiants,,,INR_LACS,10.0,10.0,10.0,10.0,2015,0,0,,,0,0,0,,,,1,0,False,False,False,True,,False,,0.1,
+Ashok Dinda,AB Dinda,IPL,2016,Rising Pune Supergiants,Bowler,inferred,INR_LACS,50.0,50.0,50.0,50.0,2015,66,19,2.11,46.34,1,0,57,8.12,30.23,22.33,7,0,True,True,True,True,,False,51.71,0.5,103.42
+Kane Richardson,KW Richardson,IPL,2016,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2014,10,35,11.67,92.11,2,1,11,7.91,27.91,21.18,3,0,True,True,True,True,,False,40.99,2.0,20.5
+Samuel Badree,S Badree,IPL,2016,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,50.0,50.0,50.0,50.0,2014,5,0,,,0,0,2,7.28,65.5,54.0,0,0,True,False,False,True,,False,40.3,0.5,80.6
+Vikramjeet Malik,VS Malik,IPL,2016,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2014,13,7,7.0,100.0,1,0,6,7.64,43.5,34.17,2,0,True,True,True,True,,False,40.42,0.2,202.1
+Pawan Suyal,P Suyal,IPL,2016,Delhi Daredevils,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2015,5,0,,,0,0,2,9.44,75.5,48.0,1,0,True,False,False,True,,False,35.15,0.1,351.5
+Amit Mishra,A Mishra,IPL,2016,Gujarat Lions,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2015,98,287,11.04,96.63,25,3,111,7.25,23.19,19.19,11,0,True,True,True,True,,False,66.95,0.1,669.5
+Jaskaran Singh,Jaskaran Singh,IPL,2016,Rising Pune Supergiants,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2010,8,8,8.0,72.73,0,0,6,10.06,28.5,17.0,0,0,True,True,True,True,,False,34.65,0.1,346.5
+Eoin Morgan,EJG Morgan,IPL,2017,Kings XI Punjab,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2016,48,789,21.92,122.71,66,32,0,,,,21,0,False,True,True,True,,False,29.57,2.0,14.78
+Pawan Negi,P Negi,IPL,2017,Royal Challengers Bangalore,All-Rounder,inferred,INR_LACS,100.0,30.0,100.0,30.0,2016,29,209,17.42,129.81,16,9,14,8.21,42.21,30.86,8,0,True,True,True,True,,False,34.27,1.0,34.27
+Angelo Mathews,AD Mathews,IPL,2017,Delhi Daredevils,All-Rounder,inferred,INR_LACS,200.0,200.0,200.0,200.0,2015,46,692,23.86,126.28,42,28,27,8.07,37.89,28.19,17,0,True,True,True,True,,False,37.9,2.0,18.95
+Corey Anderson,CJ Anderson,IPL,2017,Delhi Daredevils,Batter,inferred,INR_LACS,100.0,100.0,100.0,100.0,2015,16,379,31.58,136.33,32,21,5,9.86,43.4,26.4,6,0,True,True,True,True,,False,37.55,1.0,37.55
+Trent Boult,TA Boult,IPL,2017,Kolkata Knight Riders,Bowler,inferred,INR_LACS,500.0,150.0,500.0,150.0,2016,8,0,,,0,0,10,8.59,27.5,19.2,3,0,True,False,False,True,,False,39.13,5.0,7.83
+Pat Cummins,PJ Cummins,IPL,2017,Delhi Daredevils,Bowler,inferred,INR_LACS,450.0,200.0,450.0,200.0,2015,4,0,0.0,0.0,0,0,2,9.0,63.0,42.0,1,0,True,True,True,True,,False,36.2,4.5,8.04
+Mitchell Johnson,MG Johnson,IPL,2017,Mumbai Indians,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2016,43,131,10.08,96.32,7,6,53,8.2,25.49,18.66,12,0,True,True,True,True,,False,50.55,2.0,25.28
+Rahul Tewatia,R Tewatia,IPL,2017,Kings XI Punjab,Bowler,inferred,INR_LACS,25.0,10.0,25.0,10.0,2015,4,16,16.0,123.08,0,1,3,7.5,30.0,24.0,0,0,True,True,True,True,,False,40.02,0.25,160.08
+Aditya Tare,AP Tare,IPL,2017,Delhi Daredevils,Wicketkeeper,inferred,INR_LACS,25.0,20.0,25.0,20.0,2016,32,321,15.29,128.4,37,11,0,,,,3,5,False,True,True,True,,False,23.91,0.25,95.64
+Eklavya Dwivedi,ER Dwivedi,IPL,2017,Sunrisers Hyderabad,Batter,inferred,INR_LACS,75.0,30.0,75.0,30.0,2016,4,24,12.0,171.43,2,2,0,,,,2,0,False,True,True,True,,False,29.22,0.75,38.96
+M Ashwin,M Ashwin,IPL,2017,Delhi Daredevils,Bowler,inferred,INR_LACS,100.0,10.0,100.0,10.0,2016,10,0,0.0,0.0,0,0,7,8.46,34.43,24.43,0,0,True,True,True,True,,False,38.71,1.0,38.71
+Pravin Tambe,PV Tambe,IPL,2017,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,10.0,10.0,10.0,10.0,2016,33,18,9.0,46.15,1,0,28,7.75,30.46,23.57,1,0,True,True,True,True,,False,45.52,0.1,455.2
+Karn Sharma,KV Sharma,IPL,2017,Mumbai Indians,Bowler,inferred,INR_LACS,320.0,30.0,320.0,30.0,2016,47,268,17.87,115.02,13,12,36,7.83,30.81,23.61,7,0,True,True,True,True,,False,47.28,3.2,14.78
+Rishi Dhawan,R Dhawan,IPL,2017,Kolkata Knight Riders,Bowler,inferred,INR_LACS,55.0,30.0,55.0,30.0,2016,26,153,21.86,113.33,13,4,18,7.87,35.56,27.11,6,0,True,True,True,True,,False,42.8,0.55,77.82
+Jaydev Unadkat,JD Unadkat,IPL,2017,Rising Pune Supergiants,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2016,35,3,3.0,37.5,0,0,32,8.39,30.81,22.03,4,0,True,True,True,True,,False,44.97,0.3,149.9
+Varun Aaron,VR Aaron,IPL,2017,Kings XI Punjab,Bowler,inferred,INR_LACS,280.0,30.0,280.0,30.0,2016,36,42,14.0,93.33,2,2,31,8.75,34.06,23.35,2,0,True,True,True,True,,False,43.87,2.8,15.67
+Manpreet Gony,MS Gony,IPL,2017,Gujarat Lions,Bowler,inferred,INR_LACS,60.0,30.0,60.0,30.0,2013,43,99,9.9,139.44,6,8,37,8.6,33.92,23.68,4,0,True,True,True,True,,False,45.69,0.6,76.15
+Martin Guptill,MJ Guptill,IPL,2017,Kings XI Punjab,Batter,inferred,INR_LACS,50.0,50.0,50.0,50.0,2016,3,57,19.0,103.64,3,3,0,,,,0,0,False,True,True,True,,False,25.29,0.5,50.58
+Saurabh Tiwary,SS Tiwary,IPL,2017,Mumbai Indians,Batter,inferred,INR_LACS,30.0,30.0,30.0,30.0,2016,79,1224,27.82,119.53,84,45,0,,,,23,0,False,True,True,True,,False,33.01,0.3,110.03
+Chris Jordan,CJ Jordan,IPL,2017,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,50.0,50.0,50.0,50.0,2016,9,3,3.0,75.0,0,0,11,9.21,23.45,15.27,3,0,True,True,True,True,,False,37.9,0.5,75.8
+Nathan Coulter-Nile,NM Coulter-Nile,IPL,2017,Kolkata Knight Riders,Bowler,inferred,INR_LACS,350.0,100.0,350.0,100.0,2016,18,38,7.6,100.0,3,2,21,7.5,23.38,18.71,6,0,True,True,True,True,,False,44.41,3.5,12.69
+Ben Laughlin,B Laughlin,IPL,2017,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,2,4,4.0,44.44,0,0,1,10.14,71.0,42.0,0,0,True,True,True,True,,False,33.24,0.3,110.8
+Daniel Christian,DT Christian,IPL,2017,Rising Pune Supergiants,All-Rounder,inferred,INR_LACS,100.0,100.0,100.0,100.0,2013,23,341,18.94,116.78,17,13,19,8.11,33.58,24.84,13,0,True,True,True,True,,False,34.68,1.0,34.68
+Darren Sammy,DJG Sammy,IPL,2017,Kings XI Punjab,All-Rounder,inferred,INR_LACS,30.0,30.0,30.0,30.0,2015,22,295,19.67,122.41,15,18,11,8.9,31.82,21.45,9,0,True,True,True,True,,False,33.35,0.3,111.17
+Munaf Patel,MM Patel,IPL,2017,Gujarat Lions,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2013,61,39,7.8,97.5,5,0,73,7.5,22.48,17.99,12,0,True,True,True,True,,False,57.09,0.3,190.3
+Ishank Jaggi,IR Jaggi,IPL,2017,Kolkata Knight Riders,Batter,inferred,INR_LACS,10.0,10.0,10.0,10.0,2012,5,43,10.75,74.14,3,0,0,,,,2,0,False,True,True,True,,False,16.25,0.1,162.5
+Akshdeep Nath,AD Nath,IPL,2017,Gujarat Lions,Batter,inferred,INR_LACS,10.0,10.0,10.0,10.0,2016,4,20,6.67,74.07,1,0,0,,,,0,0,False,True,True,True,,False,13.59,0.1,135.9
+Manoj Tiwary,MK Tiwary,IPL,2017,Rising Pune Supergiants,Batter,inferred,INR_LACS,50.0,50.0,50.0,50.0,2015,78,1324,28.78,113.26,121,28,1,12.17,73.0,36.0,36,0,True,True,True,True,,False,32.85,0.5,65.7
+Shikhar Dhawan,S Dhawan,IPL,2018,Sunrisers Hyderabad,Batter,sourced,INR_LACS,520.0,200.0,520.0,200.0,2017,127,3561,32.67,121.87,401,71,4,8.25,16.5,12.0,52,0,True,True,True,True,5900.0,True,36.45,5.2,7.01
+Ravichandran Ashwin,R Ashwin,IPL,2018,Kings XI Punjab,All-Rounder,sourced,INR_LACS,760.0,200.0,760.0,200.0,2016,110,231,10.5,96.25,22,2,100,6.55,24.99,22.9,20,0,True,True,True,True,6750.0,True,42.39,7.6,5.58
+Kieron Pollard,KA Pollard,IPL,2018,Mumbai Indians,All-Rounder,sourced,INR_LACS,540.0,200.0,540.0,200.0,2017,123,2353,28.7,146.88,158,148,56,8.86,31.61,21.41,64,0,True,True,True,True,4700.0,True,43.35,5.4,8.03
+Ben Stokes,BA Stokes,IPL,2018,Rajasthan Royals,All-Rounder,sourced,INR_LACS,1250.0,200.0,1250.0,200.0,2017,12,316,31.6,142.99,22,15,12,7.18,26.33,22.0,5,0,True,True,True,True,6750.0,True,40.68,12.5,3.25
+Faf du Plessis,F du Plessis,IPL,2018,Chennai Super Kings,Batter,sourced,INR_LACS,160.0,150.0,160.0,150.0,2017,52,1295,30.12,127.96,110,38,0,16.0,,,30,0,True,True,True,True,4700.0,True,35.55,1.6,22.22
+Ajinkya Rahane,AM Rahane,IPL,2018,Rajasthan Royals,Batter,sourced,INR_LACS,400.0,200.0,400.0,200.0,2017,111,3057,33.59,120.59,320,60,1,5.0,5.0,6.0,47,0,True,True,True,True,6750.0,True,36.89,4.0,9.22
+Mitchell Starc,MA Starc,IPL,2018,Kolkata Knight Riders,Bowler,sourced,INR_LACS,940.0,200.0,940.0,200.0,2015,27,96,13.71,97.96,10,0,34,7.17,20.38,17.06,16,0,True,True,True,True,5900.0,True,48.36,9.4,5.14
+Harbhajan Singh,Harbhajan Singh,IPL,2018,Chennai Super Kings,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2017,136,799,16.31,142.42,76,41,127,6.96,26.65,22.98,30,0,True,True,True,True,4700.0,True,71.55,2.0,35.78
+Shakib Al Hasan,Shakib Al Hasan,IPL,2018,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,200.0,100.0,200.0,100.0,2017,43,500,20.83,130.21,44,15,43,7.17,25.6,21.42,8,0,True,True,True,True,5900.0,True,40.18,2.0,20.09
+Glenn Maxwell,GJ Maxwell,IPL,2018,Delhi Daredevils,All-Rounder,sourced,INR_LACS,900.0,200.0,900.0,200.0,2017,57,1229,25.08,164.3,96,82,11,8.87,43.55,29.45,22,0,True,True,True,True,4700.0,True,37.76,9.0,4.2
+Gautam Gambhir,G Gambhir,IPL,2018,Delhi Daredevils,Batter,sourced,INR_LACS,280.0,200.0,280.0,200.0,2017,148,4132,31.54,124.61,484,58,0,,,,27,0,False,True,True,True,4700.0,True,36.06,2.8,12.88
+Dwayne Bravo,DJ Bravo,IPL,2018,Chennai Super Kings,All-Rounder,sourced,INR_LACS,640.0,200.0,640.0,200.0,2016,105,1262,22.95,126.33,102,48,122,8.19,22.58,16.54,52,0,True,True,True,True,4700.0,True,49.05,6.4,7.66
+Kane Williamson,KS Williamson,IPL,2018,Sunrisers Hyderabad,Batter,sourced,INR_LACS,300.0,150.0,300.0,150.0,2017,15,411,31.62,129.25,35,11,0,7.0,,,8,0,True,True,True,True,5900.0,True,36.69,3.0,12.23
+Yuvraj Singh,Yuvraj Singh,IPL,2018,Kings XI Punjab,All-Rounder,sourced,INR_LACS,200.0,200.0,200.0,200.0,2017,120,2591,25.65,131.26,205,141,36,7.38,29.28,23.81,28,0,True,True,True,True,6750.0,True,40.71,2.0,20.36
+Karun Nair,KK Nair,IPL,2018,Kings XI Punjab,Batter,sourced,INR_LACS,560.0,50.0,560.0,50.0,2017,55,1158,25.17,126.97,135,26,0,,,,12,0,False,True,True,True,6750.0,True,32.22,5.6,5.75
+KL Rahul,KL Rahul,IPL,2018,Kings XI Punjab,Batter,sourced,INR_LACS,1100.0,200.0,1100.0,200.0,2016,39,725,30.21,125.65,61,24,0,,,,12,4,False,True,True,True,6750.0,True,35.32,11.0,3.21
+David Miller,DA Miller,IPL,2018,Kings XI Punjab,Batter,sourced,INR_LACS,300.0,150.0,300.0,150.0,2017,66,1563,34.73,141.32,104,78,0,,,,44,0,False,True,True,True,6750.0,True,40.22,3.0,13.41
+Aaron Finch,AJ Finch,IPL,2018,Kings XI Punjab,Batter,sourced,INR_LACS,620.0,150.0,620.0,150.0,2017,65,1604,27.66,130.09,170,59,1,9.35,67.0,43.0,21,0,True,True,True,True,6750.0,True,34.22,6.2,5.52
+Brendon McCullum,BB McCullum,IPL,2018,Royal Challengers Bangalore,Batter,sourced,INR_LACS,360.0,200.0,360.0,200.0,2017,103,2755,28.11,131.07,277,124,0,,,,37,6,False,True,True,True,4900.0,True,34.64,3.6,9.62
+Jason Roy,JJ Roy,IPL,2018,Delhi Daredevils,Batter,sourced,INR_LACS,150.0,150.0,150.0,150.0,2017,3,59,29.5,147.5,9,1,0,,,,1,0,False,True,True,True,4700.0,True,37.59,1.5,25.06
+Chris Lynn,CA Lynn,IPL,2018,Kolkata Knight Riders,Batter,sourced,INR_LACS,960.0,200.0,960.0,200.0,2017,12,384,38.4,158.02,31,23,0,,,,6,0,False,True,True,True,5900.0,True,44.69,9.6,4.66
+Manish Pandey,MK Pandey,IPL,2018,Sunrisers Hyderabad,Batter,sourced,INR_LACS,1100.0,100.0,1100.0,100.0,2017,103,2223,28.5,120.36,197,65,0,,,,47,0,False,True,True,True,5900.0,True,33.55,11.0,3.05
+Chris Woakes,CR Woakes,IPL,2018,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,740.0,200.0,740.0,200.0,2017,13,46,11.5,97.87,4,1,17,8.77,22.71,15.53,5,0,True,True,True,True,4900.0,True,30.05,7.4,4.06
+Carlos Brathwaite,CR Brathwaite,IPL,2018,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,200.0,100.0,200.0,100.0,2017,10,95,11.88,179.25,8,8,8,8.78,32.0,21.88,4,0,True,True,True,True,5900.0,True,34.15,2.0,17.08
+Shane Watson,SR Watson,IPL,2018,Chennai Super Kings,All-Rounder,sourced,INR_LACS,400.0,100.0,400.0,100.0,2017,102,2628,30.92,138.68,258,122,86,7.84,28.27,21.64,27,0,True,True,True,True,4700.0,True,48.43,4.0,12.11
+Kedar Jadhav,KM Jadhav,IPL,2018,Chennai Super Kings,All-Rounder,sourced,INR_LACS,780.0,200.0,780.0,200.0,2017,64,893,23.5,134.89,72,33,0,,,,23,7,False,True,True,True,4700.0,True,16.06,7.8,2.06
+Colin de Grandhomme,C de Grandhomme,IPL,2018,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,220.0,75.0,220.0,75.0,2017,12,126,15.75,136.96,10,6,4,8.44,33.75,24.0,2,0,True,True,True,True,4900.0,True,32.69,2.2,14.86
+Yusuf Pathan,YK Pathan,IPL,2018,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,190.0,75.0,190.0,75.0,2017,149,2922,29.82,146.1,240,149,41,7.4,33.98,27.54,37,0,True,True,True,True,5900.0,True,43.57,1.9,22.93
+Colin Munro,C Munro,IPL,2018,Delhi Daredevils,All-Rounder,sourced,INR_LACS,190.0,50.0,190.0,50.0,2016,4,30,10.0,100.0,3,0,0,7.5,,,2,0,True,True,True,True,4700.0,True,29.14,1.9,15.34
+Stuart Binny,STR Binny,IPL,2018,Rajasthan Royals,All-Rounder,sourced,INR_LACS,50.0,50.0,50.0,50.0,2017,80,766,20.16,126.82,59,29,21,7.57,32.43,25.71,18,0,True,True,True,True,6750.0,True,36.59,0.5,73.18
+Marcus Stoinis,MP Stoinis,IPL,2018,Kings XI Punjab,All-Rounder,sourced,INR_LACS,620.0,200.0,620.0,200.0,2017,12,163,23.29,123.48,14,4,10,9.07,30.4,20.1,3,0,True,True,True,True,6750.0,True,34.27,6.2,5.53
+Quinton de Kock,Q de Kock,IPL,2018,Royal Challengers Bangalore,Wicketkeeper,sourced,INR_LACS,280.0,200.0,280.0,200.0,2016,26,726,29.04,132.24,90,21,0,,,,7,3,False,True,True,True,4900.0,True,30.18,2.8,10.78
+Wriddhiman Saha,WP Saha,IPL,2018,Sunrisers Hyderabad,Wicketkeeper,sourced,INR_LACS,500.0,100.0,500.0,100.0,2017,103,1557,25.52,130.73,130,57,0,,,,52,17,False,True,True,True,5900.0,True,36.96,5.0,7.39
+Dinesh Karthik,KD Karthik,IPL,2018,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,740.0,200.0,740.0,200.0,2017,152,2903,24.81,125.94,286,71,0,,,,88,26,False,True,True,True,5900.0,True,41.73,7.4,5.64
+Robin Uthappa,RV Uthappa,IPL,2018,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,640.0,200.0,640.0,200.0,2017,149,3778,29.52,131.64,377,125,0,,,,75,32,False,True,True,True,5900.0,True,48.5,6.4,7.58
+Sanju Samson,SV Samson,IPL,2018,Rajasthan Royals,Wicketkeeper,sourced,INR_LACS,800.0,100.0,800.0,100.0,2017,66,1426,25.46,124.43,112,57,0,,,,34,3,False,True,True,True,6750.0,True,27.54,8.0,3.44
+Ambati Rayudu,AT Rayudu,IPL,2018,Chennai Super Kings,Wicketkeeper,sourced,INR_LACS,220.0,50.0,220.0,50.0,2017,114,2416,27.15,126.16,205,79,0,,,,45,2,False,True,True,True,4700.0,True,27.97,2.2,12.71
+Jos Buttler,JC Buttler,IPL,2018,Rajasthan Royals,Wicketkeeper,sourced,INR_LACS,440.0,150.0,440.0,150.0,2017,24,528,24.0,145.45,50,26,0,,,,8,0,False,True,True,True,6750.0,True,27.01,4.4,6.14
+Mustafizur Rahman,Mustafizur Rahman,IPL,2018,Mumbai Indians,Bowler,sourced,INR_LACS,220.0,100.0,220.0,100.0,2017,17,0,,,0,0,17,7.15,26.76,22.47,2,0,True,False,False,True,4700.0,True,44.27,2.2,20.12
+Pat Cummins,PJ Cummins,IPL,2018,Mumbai Indians,Bowler,sourced,INR_LACS,540.0,200.0,540.0,200.0,2017,16,77,12.83,140.0,5,4,17,8.29,29.35,21.24,2,0,True,True,True,True,4700.0,True,41.55,5.4,7.69
+Umesh Yadav,UT Yadav,IPL,2018,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,420.0,100.0,420.0,100.0,2017,94,94,13.43,104.44,8,3,91,8.42,29.91,21.32,23,0,True,True,True,True,4900.0,True,59.29,4.2,14.12
+Mohammed Shami,Mohammed Shami,IPL,2018,Delhi Daredevils,Bowler,sourced,INR_LACS,300.0,100.0,300.0,100.0,2017,31,46,6.57,102.22,4,2,18,8.97,51.89,34.72,1,0,True,True,True,True,4700.0,True,40.18,3.0,13.39
+Kagiso Rabada,K Rabada,IPL,2018,Delhi Daredevils,Bowler,sourced,INR_LACS,420.0,150.0,420.0,150.0,2017,6,55,18.33,85.94,5,1,6,8.81,31.33,21.33,0,0,True,True,True,True,4700.0,True,37.63,4.2,8.96
+Piyush Chawla,PP Chawla,IPL,2018,Kolkata Knight Riders,Bowler,sourced,INR_LACS,420.0,100.0,420.0,100.0,2017,129,515,12.26,113.69,49,15,126,7.63,25.88,20.34,27,0,True,True,True,True,5900.0,True,69.71,4.2,16.6
+Imran Tahir,Imran Tahir,IPL,2018,Chennai Super Kings,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2017,32,18,4.5,72.0,3,0,47,8.31,21.11,15.23,3,0,True,True,True,True,4700.0,True,48.82,1.0,48.82
+Karn Sharma,KV Sharma,IPL,2018,Chennai Super Kings,Bowler,sourced,INR_LACS,500.0,200.0,500.0,200.0,2017,56,317,15.1,115.69,18,14,49,7.68,27.0,21.1,9,0,True,True,True,True,4700.0,True,50.81,5.0,10.16
+Rashid Khan,Rashid Khan,IPL,2018,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,900.0,200.0,900.0,200.0,2017,14,11,5.5,122.22,0,1,17,6.63,21.06,19.06,5,0,True,True,True,True,5900.0,True,45.5,9.0,5.06
+Amit Mishra,A Mishra,IPL,2018,Delhi Daredevils,Bowler,sourced,INR_LACS,400.0,150.0,400.0,150.0,2017,126,340,11.72,93.66,27,5,134,7.41,24.34,19.69,16,0,True,True,True,True,4700.0,True,72.18,4.0,18.05
+Yuzvendra Chahal,YS Chahal,IPL,2018,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,600.0,200.0,600.0,200.0,2017,56,15,5.0,53.57,0,0,70,7.9,22.41,17.01,13,0,True,True,True,True,4900.0,True,55.41,6.0,9.24
+Kuldeep Yadav,Kuldeep Yadav,IPL,2018,Kolkata Knight Riders,Bowler,sourced,INR_LACS,580.0,150.0,580.0,150.0,2017,15,20,10.0,90.91,2,0,18,8.3,24.44,17.67,1,0,True,True,True,True,5900.0,True,41.77,5.8,7.2
+Suryakumar Yadav,SA Yadav,IPL,2018,Mumbai Indians,Batter,sourced,INR_LACS,320.0,30.0,320.0,30.0,2017,55,608,20.97,130.47,54,21,0,8.0,,,25,0,True,True,True,True,4700.0,True,29.93,3.2,9.35
+Ishank Jaggi,IR Jaggi,IPL,2018,Kolkata Knight Riders,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,7,76,15.2,78.35,6,0,0,,,,2,0,False,True,True,True,5900.0,True,19.66,0.2,98.3
+Mayank Agarwal,MA Agarwal,IPL,2018,Kings XI Punjab,Batter,sourced,INR_LACS,100.0,20.0,100.0,20.0,2017,52,814,17.7,123.33,82,33,0,,,,21,0,False,True,True,True,6750.0,True,26.91,1.0,26.91
+Rahul Tripathi,RA Tripathi,IPL,2018,Rajasthan Royals,Batter,sourced,INR_LACS,340.0,20.0,340.0,20.0,2017,14,391,27.93,146.44,43,17,0,12.0,,,5,0,True,True,True,True,6750.0,True,36.44,3.4,10.72
+Manan Vohra,M Vohra,IPL,2018,Royal Challengers Bangalore,Batter,sourced,INR_LACS,110.0,20.0,110.0,20.0,2017,45,957,24.54,132.73,95,35,0,,,,13,0,False,True,True,True,4900.0,True,32.53,1.1,29.57
+Rahul Tewatia,R Tewatia,IPL,2018,Delhi Daredevils,All-Rounder,sourced,INR_LACS,300.0,20.0,300.0,20.0,2017,7,35,17.5,145.83,4,1,6,6.62,23.17,21.0,0,0,True,True,True,True,4700.0,True,36.22,3.0,12.07
+Deepak Hooda,DJ Hooda,IPL,2018,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,360.0,40.0,360.0,40.0,2017,41,373,14.35,139.18,20,20,6,8.33,44.67,32.17,9,0,True,True,True,True,5900.0,True,32.74,3.6,9.09
+Vijay Shankar,V Shankar,IPL,2018,Delhi Daredevils,All-Rounder,sourced,INR_LACS,320.0,40.0,320.0,40.0,2017,5,101,50.5,134.67,12,1,0,19.0,,,5,0,True,True,True,True,4700.0,True,30.77,3.2,9.62
+Harshal Patel,HV Patel,IPL,2018,Delhi Daredevils,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,35,47,5.22,138.24,2,3,34,8.53,28.56,20.09,10,0,True,True,True,True,4700.0,True,32.9,0.2,164.5
+Krunal Pandya,KH Pandya,IPL,2018,Mumbai Indians,All-Rounder,sourced,INR_LACS,880.0,40.0,880.0,40.0,2017,25,480,36.92,158.42,46,20,16,7.15,31.81,26.69,3,0,True,True,True,True,4700.0,True,43.9,8.8,4.99
+Nitish Rana,N Rana,IPL,2018,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,340.0,20.0,340.0,20.0,2017,17,437,31.21,128.91,31,25,0,3.0,,,4,0,True,True,True,True,5900.0,True,43.19,3.4,12.7
+Ishan Kishan,Ishan Kishan,IPL,2018,Mumbai Indians,Wicketkeeper,sourced,INR_LACS,620.0,40.0,620.0,40.0,2017,16,319,21.27,129.15,34,13,0,,,,5,0,False,True,True,True,4700.0,True,23.96,6.2,3.86
+Siddharth Kaul,S Kaul,IPL,2018,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,380.0,30.0,380.0,30.0,2017,21,9,,69.23,0,0,22,8.45,27.09,19.23,4,0,True,False,True,True,5900.0,True,42.39,3.8,11.16
+T Natarajan,T Natarajan,IPL,2018,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,40.0,40.0,40.0,40.0,2017,6,0,,,0,0,2,9.08,57.5,38.0,0,0,True,False,False,True,5900.0,True,36.01,0.4,90.02
+Basil Thampi,Basil Thampi,IPL,2018,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,95.0,30.0,95.0,30.0,2017,12,28,,100.0,1,1,11,9.49,38.55,24.36,2,0,True,False,True,True,5900.0,True,37.23,0.95,39.19
+Aniket Choudhary,A Choudhary,IPL,2018,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2017,5,25,25.0,125.0,1,1,5,8.55,28.8,20.2,0,0,True,True,True,True,4900.0,True,38.01,0.3,126.7
+Avesh Khan,Avesh Khan,IPL,2018,Delhi Daredevils,Bowler,sourced,INR_LACS,70.0,20.0,70.0,20.0,2017,1,0,,,0,0,1,5.75,23.0,24.0,0,0,True,False,False,True,4700.0,True,43.7,0.7,62.43
+Ankit Rajpoot,AS Rajpoot,IPL,2018,Kings XI Punjab,Bowler,sourced,INR_LACS,300.0,30.0,300.0,30.0,2017,11,6,6.0,46.15,1,0,8,8.28,30.0,21.75,1,0,True,True,True,True,6750.0,True,39.38,3.0,13.13
+Rahul Chahar,RD Chahar,IPL,2018,Mumbai Indians,Bowler,sourced,INR_LACS,190.0,20.0,190.0,20.0,2017,3,3,,150.0,0,0,2,8.29,29.0,21.0,1,0,True,False,True,True,4700.0,True,37.89,1.9,19.94
+Shahbaz Nadeem,S Nadeem,IPL,2018,Delhi Daredevils,Bowler,sourced,INR_LACS,320.0,40.0,320.0,40.0,2017,55,26,2.17,37.14,1,0,37,7.1,35.65,30.14,9,0,True,True,True,True,4700.0,True,49.26,3.2,15.39
+Murugan Ashwin,M Ashwin,IPL,2018,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,220.0,20.0,220.0,20.0,2016,10,0,0.0,0.0,0,0,7,8.46,34.43,24.43,0,0,True,True,True,True,4900.0,True,38.71,2.2,17.6
+Saurabh Tiwary,SS Tiwary,IPL,2018,Mumbai Indians,Batter,sourced,INR_LACS,80.0,50.0,80.0,50.0,2017,80,1276,28.36,119.59,93,45,0,,,,23,0,False,True,True,True,4700.0,True,33.36,0.8,41.7
+Mandeep Singh,Mandeep Singh,IPL,2018,Royal Challengers Bangalore,Batter,sourced,INR_LACS,140.0,50.0,140.0,50.0,2017,70,1112,20.22,120.87,134,18,0,,,,27,0,False,True,True,True,4900.0,True,28.24,1.4,20.17
+Manoj Tiwary,MK Tiwary,IPL,2018,Kings XI Punjab,Batter,sourced,INR_LACS,100.0,50.0,100.0,50.0,2017,93,1648,29.43,117.3,152,39,1,12.17,73.0,36.0,42,0,True,True,True,True,6750.0,True,33.77,1.0,33.77
+Washington Sundar,Washington Sundar,IPL,2018,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,320.0,150.0,320.0,150.0,2017,11,9,9.0,75.0,0,0,8,6.17,23.12,22.5,5,0,True,True,True,True,4900.0,True,29.81,3.2,9.32
+Pawan Negi,P Negi,IPL,2018,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,100.0,50.0,100.0,50.0,2017,41,353,17.65,129.78,26,16,30,7.56,26.27,20.83,10,0,True,True,True,True,4900.0,True,37.07,1.0,37.07
+Daniel Christian,DT Christian,IPL,2018,Delhi Daredevils,All-Rounder,sourced,INR_LACS,150.0,100.0,150.0,100.0,2017,36,420,18.26,123.17,22,18,30,7.89,31.2,23.73,19,0,True,True,True,True,4700.0,True,36.46,1.5,24.31
+Jayant Yadav,J Yadav,IPL,2018,Delhi Daredevils,All-Rounder,sourced,INR_LACS,50.0,50.0,50.0,50.0,2017,10,6,3.0,60.0,0,0,4,6.53,49.0,45.0,3,0,True,True,True,True,4700.0,True,26.01,0.5,52.02
+Gurkeerat Singh,Gurkeerat Singh,IPL,2018,Delhi Daredevils,All-Rounder,sourced,INR_LACS,75.0,50.0,75.0,50.0,2017,30,342,16.29,125.74,36,9,5,7.46,19.4,15.6,13,1,True,True,True,True,4700.0,True,33.45,0.75,44.6
+Ben Cutting,BCJ Cutting,IPL,2018,Mumbai Indians,All-Rounder,sourced,INR_LACS,220.0,100.0,220.0,100.0,2017,9,124,24.8,187.88,9,10,7,8.41,33.43,23.86,3,0,True,True,True,True,4700.0,True,39.21,2.2,17.82
+Mohammad Nabi,Mohammad Nabi,IPL,2018,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,100.0,50.0,100.0,50.0,2017,3,2,2.0,66.67,0,0,2,5.27,29.0,33.0,0,0,True,True,True,True,5900.0,True,27.36,1.0,27.36
+Dhawal Kulkarni,DS Kulkarni,IPL,2018,Rajasthan Royals,Bowler,sourced,INR_LACS,75.0,50.0,75.0,50.0,2017,72,90,11.25,93.75,6,2,76,7.97,24.75,18.63,12,0,True,True,True,True,6750.0,True,56.7,0.75,75.6
+Mohit Sharma,MM Sharma,IPL,2018,Kings XI Punjab,Bowler,sourced,INR_LACS,240.0,150.0,240.0,150.0,2017,75,112,8.0,109.8,8,4,83,8.12,25.01,18.48,14,0,True,True,True,True,6750.0,True,58.05,2.4,24.19
+Sandeep Sharma,Sandeep Sharma,IPL,2018,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,300.0,50.0,300.0,50.0,2017,56,26,26.0,74.29,1,0,71,7.77,22.35,17.25,7,0,True,True,True,True,5900.0,True,55.96,3.0,18.65
+Vinay Kumar,R Vinay Kumar,IPL,2018,Kolkata Knight Riders,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2017,102,304,10.86,112.18,20,9,103,8.33,28.36,20.43,30,0,True,True,True,True,5900.0,True,62.43,1.0,62.43
+Mohammed Siraj,Mohammed Siraj,IPL,2018,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,260.0,100.0,260.0,100.0,2017,6,0,,,0,0,10,9.22,21.2,13.8,1,0,True,False,False,True,4900.0,True,37.63,2.6,14.47
+Nathan Coulter-Nile,NM Coulter-Nile,IPL,2018,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,220.0,150.0,220.0,150.0,2017,26,52,6.5,104.0,3,4,36,7.66,19.97,15.64,7,0,True,True,True,True,4900.0,True,47.69,2.2,21.68
+Jaydev Unadkat,JD Unadkat,IPL,2018,Rajasthan Royals,Bowler,sourced,INR_LACS,1150.0,150.0,1150.0,150.0,2017,47,5,5.0,38.46,0,0,56,8.01,23.36,17.5,9,0,True,True,True,True,6750.0,True,51.73,11.5,4.5
+Trent Boult,TA Boult,IPL,2018,Delhi Daredevils,Bowler,sourced,INR_LACS,220.0,150.0,220.0,150.0,2017,14,5,,62.5,0,0,15,8.79,32.73,22.33,3,0,True,False,True,True,4700.0,True,39.87,2.2,18.12
+Shardul Thakur,SN Thakur,IPL,2018,Chennai Super Kings,Bowler,sourced,INR_LACS,260.0,75.0,260.0,75.0,2017,13,7,2.33,77.78,1,0,12,8.57,29.42,20.58,4,0,True,True,True,True,4700.0,True,39.66,2.6,15.25
+Apoorv Wankhade,AV Wankhade,IPL,2018,Kolkata Knight Riders,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2014,0,0,,,0,0,0,,,,1,0,False,False,False,True,5900.0,True,,0.2,
+Sachin Baby,Sachin Baby,IPL,2018,Sunrisers Hyderabad,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,18,137,17.12,135.64,11,5,2,4.8,4.0,5.0,5,0,True,True,True,True,5900.0,True,28.07,0.2,140.35
+Ankit Sharma,Ankit Sharma,IPL,2018,Rajasthan Royals,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,21,87,12.43,129.85,7,4,12,7.3,36.58,30.08,4,0,True,True,True,True,6750.0,True,33.5,0.2,167.5
+Pradeep Sangwan,PJ Sangwan,IPL,2018,Mumbai Indians,Bowler,sourced,INR_LACS,150.0,30.0,150.0,30.0,2017,38,24,4.0,68.57,1,0,35,8.78,33.03,22.57,7,0,True,True,True,True,4700.0,True,44.77,1.5,29.85
+Anureet Singh,Anureet Singh,IPL,2018,Rajasthan Royals,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2017,20,33,8.25,76.74,2,1,17,8.98,34.18,22.82,4,0,True,True,True,True,6750.0,True,39.91,0.3,133.03
+Jean-Paul Duminy,JP Duminy,IPL,2018,Mumbai Indians,All-Rounder,sourced,INR_LACS,100.0,100.0,100.0,100.0,2016,77,1993,39.86,124.87,123,78,23,7.25,34.7,28.7,27,0,True,True,True,True,4700.0,True,43.49,1.0,43.49
+Chris Jordan,CJ Jordan,IPL,2018,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,100.0,100.0,100.0,100.0,2017,10,3,1.5,60.0,0,0,12,9.21,22.25,14.5,4,0,True,True,True,True,5900.0,True,23.31,1.0,23.31
+Barinder Sran,BB Sran,IPL,2018,Kings XI Punjab,Bowler,sourced,INR_LACS,220.0,50.0,220.0,50.0,2017,16,4,,100.0,0,0,14,8.75,34.07,23.36,2,0,True,False,True,True,6750.0,True,39.72,2.2,18.05
+Billy Stanlake,B Stanlake,IPL,2018,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2017,2,0,,,0,0,2,8.75,35.0,24.0,1,0,True,False,False,True,5900.0,True,36.8,0.5,73.6
+Andrew Tye,AJ Tye,IPL,2018,Kings XI Punjab,Bowler,sourced,INR_LACS,720.0,100.0,720.0,100.0,2017,6,53,26.5,176.67,4,3,12,6.71,11.75,10.5,0,0,True,True,True,True,6750.0,True,44.09,7.2,6.12
+Deepak Chahar,DL Chahar,IPL,2018,Chennai Super Kings,All-Rounder,sourced,INR_LACS,80.0,20.0,80.0,20.0,2017,5,14,14.0,233.33,0,2,1,9.58,115.0,72.0,1,0,True,True,True,True,4700.0,True,36.42,0.8,45.52
+Shreyas Gopal,S Gopal,IPL,2018,Rajasthan Royals,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2016,6,14,7.0,51.85,1,0,7,8.03,22.0,16.43,0,0,True,True,True,True,6750.0,True,25.38,0.2,126.9
+Akshdeep Nath,AD Nath,IPL,2018,Kings XI Punjab,All-Rounder,sourced,INR_LACS,100.0,20.0,100.0,20.0,2017,5,20,5.0,71.43,1,0,0,,,,0,0,False,True,True,True,6750.0,True,6.09,1.0,6.09
+Shreevats Goswami,SP Goswami,IPL,2018,Sunrisers Hyderabad,Wicketkeeper,sourced,INR_LACS,100.0,20.0,100.0,20.0,2012,23,241,16.07,96.02,26,2,0,,,,11,7,False,True,True,True,5900.0,True,22.33,1.0,22.33
+Murali Vijay,M Vijay,IPL,2018,Chennai Super Kings,Batter,sourced,INR_LACS,200.0,200.0,200.0,200.0,2016,100,2511,26.43,123.39,237,89,0,8.17,,,47,0,True,True,True,True,4700.0,True,32.59,2.0,16.3
+Sam Billings,SW Billings,IPL,2018,Chennai Super Kings,Wicketkeeper,sourced,INR_LACS,100.0,100.0,100.0,100.0,2017,11,226,22.6,134.52,23,5,0,,,,7,0,False,True,True,True,4700.0,True,25.19,1.0,25.19
+Naman Ojha,NV Ojha,IPL,2018,Delhi Daredevils,Wicketkeeper,sourced,INR_LACS,140.0,75.0,140.0,75.0,2017,112,1553,20.99,118.64,121,79,0,,,,65,10,False,True,True,True,4700.0,True,29.02,1.4,20.73
+Parthiv Patel,PA Patel,IPL,2018,Royal Challengers Bangalore,Wicketkeeper,sourced,INR_LACS,170.0,100.0,170.0,100.0,2017,119,2322,21.7,117.21,297,35,0,,,,60,14,False,True,True,True,4900.0,True,31.74,1.7,18.67
+Mitchell Johnson,MG Johnson,IPL,2018,Kolkata Knight Riders,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2017,48,151,11.62,98.69,8,7,60,8.07,24.87,18.48,13,0,True,True,True,True,5900.0,True,52.56,2.0,26.28
+Tim Southee,TG Southee,IPL,2018,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2017,29,54,9.0,154.29,3,3,22,8.31,41.55,30.0,10,0,True,True,True,True,4900.0,True,42.72,1.0,42.72
+Aditya Tare,AP Tare,IPL,2018,Mumbai Indians,Wicketkeeper,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,35,339,14.12,124.18,40,11,0,,,,3,5,False,True,True,True,4700.0,True,22.88,0.2,114.4
+Bipul Sharma,Bipul Sharma,IPL,2018,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,33,187,23.38,152.03,11,9,17,8.06,33.65,25.06,7,0,True,True,True,True,5900.0,True,38.14,0.2,190.7
+Ben Laughlin,B Laughlin,IPL,2018,Rajasthan Royals,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2013,2,4,4.0,44.44,0,0,1,10.14,71.0,42.0,0,0,True,True,True,True,6750.0,True,33.24,0.5,66.48
+Pardeep Sahu,P Sahu,IPL,2018,Kings XI Punjab,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2016,5,19,19.0,146.15,1,1,3,8.34,48.67,35.0,0,0,True,True,True,True,6750.0,True,38.02,0.2,190.1
+Aryaman Birla,UA Birla,IPL,2018,Rajasthan Royals,All-Rounder,sourced,INR_LACS,30.0,20.0,30.0,20.0,2013,2,7,7.0,50.0,1,0,0,,,,1,0,False,True,True,True,6750.0,True,5.4,0.3,18.0
+Chris Gayle,CH Gayle,IPL,2018,Kings XI Punjab,Batter,sourced,INR_LACS,200.0,200.0,200.0,200.0,2017,100,3651,41.02,151.56,297,266,18,7.91,40.22,30.5,24,0,True,True,True,True,6750.0,True,45.58,2.0,22.79
+Hanuma Vihari,GH Vihari,IPL,2019,Delhi Capitals,Batter,sourced,INR_LACS,200.0,50.0,200.0,50.0,2015,22,280,15.56,89.46,23,1,1,6.33,38.0,36.0,6,0,True,True,True,True,2550.0,True,21.29,2.0,10.64
+Carlos Brathwaite,CR Brathwaite,IPL,2019,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,500.0,75.0,500.0,75.0,2018,14,170,15.45,168.32,9,16,13,8.9,26.92,18.15,6,0,True,True,True,True,1520.0,True,35.1,5.0,7.02
+Gurkeerat Singh,Gurkeerat Singh,IPL,2019,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,50.0,50.0,50.0,50.0,2017,30,342,16.29,125.74,36,9,5,7.46,19.4,15.6,13,1,True,True,True,True,1815.0,True,33.45,0.5,66.9
+Moises Henriques,MC Henriques,IPL,2019,Kings XI Punjab,All-Rounder,sourced,INR_LACS,100.0,100.0,100.0,100.0,2017,57,969,28.5,128.17,87,27,38,8.39,32.74,23.42,27,0,True,True,True,True,3620.0,True,40.48,1.0,40.48
+Axar Patel,AR Patel,IPL,2019,Delhi Capitals,All-Rounder,sourced,INR_LACS,500.0,100.0,500.0,100.0,2018,68,686,19.06,126.57,37,32,61,7.53,28.93,23.07,23,0,True,True,True,True,2550.0,True,41.15,5.0,8.23
+Wriddhiman Saha,WP Saha,IPL,2019,Sunrisers Hyderabad,Wicketkeeper,sourced,INR_LACS,120.0,100.0,120.0,100.0,2018,114,1679,24.33,129.85,147,58,0,,,,57,18,False,True,True,True,970.0,True,36.87,1.2,30.72
+Jaydev Unadkat,JD Unadkat,IPL,2019,Rajasthan Royals,Bowler,sourced,INR_LACS,840.0,150.0,840.0,150.0,2018,62,54,10.8,105.88,6,1,67,8.4,26.78,19.13,15,0,True,True,True,True,2095.0,True,53.48,8.4,6.37
+Ishant Sharma,I Sharma,IPL,2019,Delhi Capitals,Bowler,sourced,INR_LACS,110.0,75.0,110.0,75.0,2017,76,45,7.5,77.59,3,1,58,8.2,38.43,28.12,15,0,True,True,True,True,2550.0,True,51.77,1.1,47.06
+Lasith Malinga,SL Malinga,IPL,2019,Mumbai Indians,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2017,110,88,5.5,88.89,6,5,154,6.87,19.01,16.61,15,0,True,True,True,True,1115.0,True,78.35,2.0,39.17
+Mohammad Shami,Mohammed Shami,IPL,2019,Kings XI Punjab,Bowler,sourced,INR_LACS,480.0,100.0,480.0,100.0,2018,35,53,6.62,103.92,5,2,21,9.14,51.33,33.71,3,0,True,True,True,True,3620.0,True,40.5,4.8,8.44
+Varun Aaron,VR Aaron,IPL,2019,Rajasthan Royals,Bowler,sourced,INR_LACS,240.0,50.0,240.0,50.0,2017,42,46,11.5,83.64,2,2,38,8.67,32.08,22.21,2,0,True,True,True,True,2095.0,True,45.77,2.4,19.07
+Mohit Sharma,MM Sharma,IPL,2019,Chennai Super Kings,Bowler,sourced,INR_LACS,500.0,50.0,500.0,50.0,2018,84,122,8.13,106.09,9,4,90,8.4,26.64,19.02,16,0,True,True,True,True,840.0,True,59.09,5.0,11.82
+Sarfaraz Khan,SN Khan,IPL,2019,Kings XI Punjab,All-Rounder,sourced,INR_LACS,25.0,20.0,25.0,20.0,2018,25,228,20.73,159.44,26,7,0,,,,2,0,False,True,True,True,3620.0,True,16.7,0.25,66.8
+Nathu Singh,NB Singh,IPL,2019,Delhi Capitals,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,2,0,,,0,0,1,3.75,15.0,24.0,0,0,True,False,False,True,2550.0,True,48.46,0.2,242.3
+Colin Ingram,CA Ingram,IPL,2019,Delhi Capitals,Batter,sourced,INR_LACS,640.0,200.0,640.0,200.0,2011,3,21,10.5,80.77,2,0,0,,,,0,0,False,True,True,True,2550.0,True,16.91,6.4,2.64
+Heinrich Klaasen,H Klaasen,IPL,2019,Royal Challengers Bangalore,Wicketkeeper,sourced,INR_LACS,50.0,50.0,50.0,50.0,2018,4,57,19.0,121.28,5,1,0,,,,3,4,False,True,True,True,1815.0,True,24.5,0.5,49.0
+Barinder Sran,BB Sran,IPL,2019,Mumbai Indians,Bowler,sourced,INR_LACS,340.0,50.0,340.0,50.0,2018,22,7,7.0,63.64,0,0,18,9.23,39.22,25.5,4,0,True,True,True,True,1115.0,True,39.56,3.4,11.64
+Lockie Ferguson,LH Ferguson,IPL,2019,Kolkata Knight Riders,Bowler,sourced,INR_LACS,160.0,100.0,160.0,100.0,2017,4,1,,100.0,0,0,3,7.15,31.0,26.0,0,0,True,False,True,True,1520.0,True,40.85,1.6,25.53
+Nikhil Naik,NS Naik,IPL,2019,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,20.0,20.0,20.0,20.0,2016,2,23,11.5,74.19,1,0,0,,,,2,0,False,True,True,True,1520.0,True,13.39,0.2,66.95
+Martin Guptill,MJ Guptill,IPL,2019,Sunrisers Hyderabad,Batter,sourced,INR_LACS,100.0,100.0,100.0,100.0,2017,10,189,21.0,132.17,20,8,0,,,,6,0,False,True,True,True,970.0,True,30.16,1.0,30.16
+Yuvraj Singh,Yuvraj Singh,IPL,2019,Mumbai Indians,All-Rounder,sourced,INR_LACS,100.0,100.0,100.0,100.0,2018,128,2656,24.82,129.75,211,143,36,7.44,29.92,24.14,29,0,True,True,True,True,1115.0,True,40.27,1.0,40.27
+Akshdeep Nath,AD Nath,IPL,2019,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,360.0,20.0,360.0,20.0,2018,6,29,5.8,70.73,2,0,0,,,,1,0,False,True,True,True,1815.0,True,6.3,3.6,1.75
+Murugan Ashwin,M Ashwin,IPL,2019,Kings XI Punjab,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2018,12,1,0.5,33.33,0,0,10,8.28,29.4,21.3,0,0,True,True,True,True,3620.0,True,39.87,0.2,199.35
+Shrikant Mundhe,SS Mundhe,IPL,2019,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2011,1,0,,,0,0,1,6.0,6.0,6.0,0,0,True,False,False,True,1520.0,True,,0.2,
+Manan Vohra,M Vohra,IPL,2019,Rajasthan Royals,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2018,49,1012,23.53,131.77,97,39,0,,,,13,0,False,True,True,True,2095.0,True,31.75,0.2,158.75
+Chris Lynn,CA Lynn,IPL,2020,Mumbai Indians,Batter,sourced,INR_LACS,200.0,200.0,200.0,200.0,2019,41,1280,33.68,140.66,128,63,0,,,,10,0,False,True,True,True,1115.0,True,39.45,2.0,19.73
+Eoin Morgan,EJG Morgan,IPL,2020,Kolkata Knight Riders,Batter,sourced,INR_LACS,525.0,200.0,525.0,200.0,2017,52,854,21.35,121.13,72,34,0,,,,24,0,False,True,True,True,3565.0,True,29.0,5.25,5.52
+Robin Uthappa,RV Uthappa,IPL,2020,Rajasthan Royals,Batter,sourced,INR_LACS,300.0,150.0,300.0,150.0,2019,177,4413,28.84,130.48,435,156,0,,,,84,32,False,True,True,True,2890.0,True,35.04,3.0,11.68
+Jason Roy,JJ Roy,IPL,2020,Delhi Capitals,Batter,sourced,INR_LACS,150.0,150.0,150.0,150.0,2018,8,179,29.83,133.58,18,8,0,,,,5,0,False,True,True,True,2785.0,True,36.07,1.5,24.05
+Aaron Finch,AJ Finch,IPL,2020,Royal Challengers Bangalore,Batter,sourced,INR_LACS,440.0,100.0,440.0,100.0,2018,75,1738,26.33,130.38,176,67,1,9.35,67.0,43.0,25,0,True,True,True,True,2790.0,True,33.39,4.4,7.59
+Glenn Maxwell,GJ Maxwell,IPL,2020,Kings XI Punjab,All-Rounder,sourced,INR_LACS,1075.0,200.0,1075.0,200.0,2018,69,1398,22.92,161.06,110,91,16,8.73,38.19,26.25,26,0,True,True,True,True,4270.0,True,37.64,10.75,3.5
+Chris Woakes,CR Woakes,IPL,2020,Delhi Capitals,All-Rounder,sourced,INR_LACS,150.0,150.0,150.0,150.0,2018,18,63,10.5,95.45,5,2,25,9.24,23.04,14.96,6,0,True,True,True,True,2785.0,True,29.99,1.5,19.99
+Pat Cummins,PJ Cummins,IPL,2020,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,1550.0,200.0,1550.0,200.0,2017,16,77,12.83,140.0,5,4,17,8.29,29.35,21.24,2,0,True,True,True,True,3565.0,True,33.69,15.5,2.17
+Sam Curran,SM Curran,IPL,2020,Chennai Super Kings,All-Rounder,sourced,INR_LACS,550.0,100.0,550.0,100.0,2019,9,95,23.75,172.73,13,3,10,9.79,32.3,19.8,2,0,True,True,True,True,1460.0,True,36.64,5.5,6.66
+Chris Morris,CH Morris,IPL,2020,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,1000.0,150.0,1000.0,150.0,2019,61,517,27.21,157.62,37,27,70,8.01,24.61,18.43,25,0,True,True,True,True,2790.0,True,46.26,10.0,4.63
+Jaydev Unadkat,JD Unadkat,IPL,2020,Rajasthan Royals,Bowler,sourced,INR_LACS,300.0,100.0,300.0,100.0,2019,73,55,9.17,101.85,6,1,77,8.73,28.47,19.56,17,0,True,True,True,True,2890.0,True,55.14,3.0,18.38
+Nathan Coulter-Nile,NM Coulter-Nile,IPL,2020,Mumbai Indians,All-Rounder,sourced,INR_LACS,800.0,100.0,800.0,100.0,2017,26,52,6.5,104.0,3,4,36,7.66,19.97,15.64,7,0,True,True,True,True,1115.0,True,32.45,8.0,4.06
+Piyush Chawla,PP Chawla,IPL,2020,Chennai Super Kings,Bowler,inferred,INR_LACS,675.0,100.0,675.0,100.0,2019,157,584,11.92,111.45,54,18,150,7.82,27.15,20.83,35,0,True,True,True,True,1460.0,True,75.11,6.75,11.13
+Rahul Tripathi,RA Tripathi,IPL,2020,Kolkata Knight Riders,Batter,sourced,INR_LACS,60.0,20.0,60.0,20.0,2019,34,758,26.14,137.32,74,27,0,12.0,,,12,0,True,True,True,True,3565.0,True,34.14,0.6,56.9
+Deepak Hooda,DJ Hooda,IPL,2020,Kings XI Punjab,All-Rounder,sourced,INR_LACS,50.0,40.0,50.0,40.0,2019,61,524,14.56,127.18,27,24,7,8.42,44.71,31.86,24,0,True,True,True,True,4270.0,True,32.08,0.5,64.16
+Varun Chakravarthy,CV Varun,IPL,2020,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,400.0,30.0,400.0,30.0,2019,1,0,,,0,0,1,11.67,35.0,18.0,0,0,True,False,False,True,3565.0,True,,4.0,
+Shimron Hetmyer,SO Hetmyer,IPL,2020,Delhi Capitals,Batter,sourced,INR_LACS,775.0,50.0,775.0,50.0,2019,5,90,18.0,123.29,4,7,0,,,,3,0,False,True,True,True,2785.0,True,27.1,7.75,3.5
+David Miller,DA Miller,IPL,2020,Rajasthan Royals,Batter,sourced,INR_LACS,75.0,75.0,75.0,75.0,2019,79,1850,33.64,138.68,126,87,0,,,,53,0,False,True,True,True,2890.0,True,39.18,0.75,52.24
+Saurabh Tiwary,SS Tiwary,IPL,2020,Mumbai Indians,Batter,sourced,INR_LACS,50.0,50.0,50.0,50.0,2017,80,1276,28.36,119.59,93,45,0,,,,23,0,False,True,True,True,1115.0,True,33.36,0.5,66.72
+Mitchell Marsh,MR Marsh,IPL,2020,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,200.0,200.0,200.0,200.0,2016,20,225,18.75,114.8,9,14,20,7.89,20.7,15.75,7,0,True,True,True,True,1700.0,True,34.88,2.0,17.44
+James Neesham,JDS Neesham,IPL,2020,Kings XI Punjab,All-Rounder,sourced,INR_LACS,50.0,50.0,50.0,50.0,2014,4,42,14.0,91.3,3,1,1,10.11,91.0,54.0,0,0,True,True,True,True,4270.0,True,26.91,0.5,53.82
+Chris Jordan,CJ Jordan,IPL,2020,Kings XI Punjab,All-Rounder,sourced,INR_LACS,300.0,75.0,300.0,75.0,2018,11,3,1.5,60.0,0,0,12,9.03,24.83,16.5,4,0,True,True,True,True,4270.0,True,23.52,3.0,7.84
+Kane Richardson,KW Richardson,IPL,2020,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,400.0,150.0,400.0,150.0,2016,14,36,12.0,92.31,2,1,18,8.38,24.61,17.61,4,0,True,True,True,True,2790.0,True,41.58,4.0,10.4
+Oshane Thomas,O Thomas,IPL,2020,Rajasthan Royals,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2019,4,0,,,0,0,5,7.9,15.8,12.0,1,0,True,False,False,True,2890.0,True,39.55,0.5,79.1
+Pravin Tambe,PV Tambe,IPL,2020,Kolkata Knight Riders,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2016,33,18,9.0,46.15,1,0,28,7.75,30.46,23.57,1,0,True,True,True,True,3565.0,True,45.52,0.2,227.6
+Mohit Sharma,MM Sharma,IPL,2020,Delhi Capitals,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2019,85,122,8.13,104.27,9,4,91,8.41,26.65,19.01,16,0,True,True,True,True,2785.0,True,59.31,0.5,118.62
+Prabhsimran Singh,P Simran Singh,IPL,2020,Kings XI Punjab,Wicketkeeper,sourced,INR_LACS,55.0,20.0,55.0,20.0,2019,1,16,16.0,94.12,1,1,0,,,,1,0,False,True,True,True,4270.0,True,17.72,0.55,32.22
+Marcus Stoinis,MP Stoinis,IPL,2020,Delhi Capitals,All-Rounder,sourced,INR_LACS,480.0,100.0,480.0,100.0,2019,29,473,31.53,129.95,34,18,15,9.3,37.93,24.47,7,0,True,True,True,True,2785.0,True,37.69,4.8,7.85
+Dale Steyn,DW Steyn,IPL,2020,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2019,92,166,7.55,105.06,14,3,96,6.79,24.9,22.0,22,0,True,True,True,True,2790.0,True,64.39,2.0,32.2
+Andrew Tye,AJ Tye,IPL,2020,Rajasthan Royals,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2019,26,85,10.62,121.43,6,4,39,8.3,21.08,15.23,6,0,True,True,True,True,2890.0,True,46.89,1.0,46.89
+Nikhil Naik,NS Naik,IPL,2020,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,20.0,20.0,20.0,20.0,2019,3,30,10.0,63.83,2,0,0,,,,2,0,False,True,True,True,3565.0,True,11.58,0.2,57.9
+Tom Curran,TK Curran,IPL,2020,Rajasthan Royals,All-Rounder,sourced,INR_LACS,100.0,100.0,100.0,100.0,2018,5,23,7.67,82.14,3,0,6,11.61,19.67,10.17,1,0,True,True,True,True,2890.0,True,23.11,1.0,23.11
+Steve Smith,SPD Smith,IPL,2021,Delhi Capitals,Batter,sourced,INR_LACS,220.0,200.0,220.0,200.0,2020,95,2343,35.5,129.45,213,58,0,15.0,,,44,0,True,True,True,True,1290.0,True,39.23,2.2,17.83
+Glenn Maxwell,GJ Maxwell,IPL,2021,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,1425.0,200.0,1425.0,200.0,2020,82,1506,22.15,154.62,119,91,19,8.57,41.05,28.74,30,0,True,True,True,True,3590.0,True,37.54,14.25,2.63
+Shakib Al Hasan,Shakib Al Hasan,IPL,2021,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,320.0,200.0,320.0,200.0,2019,63,748,20.78,126.57,70,20,59,7.46,28.0,22.51,10,0,True,True,True,True,1075.0,True,41.54,3.2,12.98
+Moeen Ali,MM Ali,IPL,2021,Chennai Super Kings,All-Rounder,sourced,INR_LACS,700.0,200.0,700.0,200.0,2020,19,309,20.6,158.46,21,23,10,7.14,30.8,25.9,4,0,True,True,True,True,2290.0,True,37.88,7.0,5.41
+Shivam Dube,S Dube,IPL,2021,Rajasthan Royals,All-Rounder,sourced,INR_LACS,440.0,50.0,440.0,50.0,2020,15,169,16.9,122.46,6,12,4,7.59,20.25,16.0,3,0,True,True,True,True,3485.0,True,33.16,4.4,7.54
+Chris Morris,CH Morris,IPL,2021,Rajasthan Royals,All-Rounder,sourced,INR_LACS,1625.0,75.0,1625.0,75.0,2020,70,551,23.96,157.88,39,30,81,7.84,23.86,18.27,32,0,True,True,True,True,3485.0,True,46.76,16.25,2.88
+Adam Milne,AF Milne,IPL,2021,Mumbai Indians,Bowler,sourced,INR_LACS,320.0,50.0,320.0,50.0,2017,5,7,3.5,58.33,0,0,4,9.83,44.25,27.0,5,0,True,True,True,True,1535.0,True,34.71,3.2,10.85
+Mustafizur Rahman,Mustafizur Rahman,IPL,2021,Rajasthan Royals,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2018,24,1,1.0,33.33,0,0,24,7.51,28.54,22.79,3,0,True,True,True,True,3485.0,True,45.12,1.0,45.12
+Nathan Coulter-Nile,NM Coulter-Nile,IPL,2021,Mumbai Indians,Bowler,sourced,INR_LACS,500.0,150.0,500.0,150.0,2020,33,77,8.56,118.46,7,4,41,7.72,22.56,17.54,9,0,True,True,True,True,1535.0,True,48.76,5.0,9.75
+Umesh Yadav,UT Yadav,IPL,2021,Delhi Capitals,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2020,121,122,8.71,95.31,11,4,119,8.53,30.2,21.24,29,0,True,True,True,True,1290.0,True,65.86,1.0,65.86
+Piyush Chawla,PP Chawla,IPL,2021,Mumbai Indians,Bowler,inferred,INR_LACS,240.0,50.0,240.0,50.0,2020,164,584,11.92,111.45,54,18,156,7.87,27.33,20.83,35,0,True,True,True,True,1535.0,True,76.45,2.4,31.85
+Sachin Baby,Sachin Baby,IPL,2021,Royal Challengers Bangalore,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,18,137,17.12,135.64,11,5,2,4.8,4.0,5.0,5,0,True,True,True,True,3590.0,True,28.07,0.2,140.35
+Krishnappa Gowtham,K Gowtham,IPL,2021,Chennai Super Kings,All-Rounder,sourced,INR_LACS,925.0,20.0,925.0,20.0,2020,24,186,14.31,169.09,13,12,13,8.26,43.23,31.38,9,0,True,True,True,True,2290.0,True,35.54,9.25,3.84
+Vishnu Vinod,Vishnu Vinod,IPL,2021,Delhi Capitals,Wicketkeeper,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,3,19,6.33,73.08,1,1,0,,,,0,2,False,True,True,True,1290.0,True,11.85,0.2,59.25
+Sheldon Jackson,SP Jackson,IPL,2021,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,4,38,19.0,122.58,5,0,0,,,,2,0,False,True,True,True,1075.0,True,22.13,0.2,110.65
+Jagadeesha Suchith,J Suchith,IPL,2021,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,30.0,20.0,30.0,20.0,2020,15,54,27.0,114.89,4,2,12,8.8,33.0,22.5,10,0,True,True,True,True,1075.0,True,39.12,0.3,130.4
+K. C. Cariappa,KC Cariappa,IPL,2021,Rajasthan Royals,Bowler,inferred,INR_LACS,20.0,20.0,20.0,20.0,2019,11,24,8.0,114.29,0,2,8,9.67,43.5,27.0,2,0,True,True,True,True,3485.0,True,36.07,0.2,180.35
+Cheteshwar Pujara,CA Pujara,IPL,2021,Chennai Super Kings,Batter,sourced,INR_LACS,50.0,50.0,50.0,50.0,2014,30,390,20.53,99.74,50,4,0,,,,6,0,False,True,True,True,2290.0,True,25.8,0.5,51.6
+Tom Curran,TK Curran,IPL,2021,Delhi Capitals,All-Rounder,sourced,INR_LACS,525.0,150.0,525.0,150.0,2020,10,106,26.5,117.78,8,3,9,11.51,36.22,18.89,2,0,True,True,True,True,1290.0,True,31.93,5.25,6.08
+Moises Henriques,MC Henriques,IPL,2021,Punjab Kings,All-Rounder,sourced,INR_LACS,420.0,100.0,420.0,100.0,2019,57,969,28.5,128.17,87,27,38,8.39,32.74,23.42,28,0,True,True,True,True,5320.0,True,40.48,4.2,9.64
+Dan Christian,DT Christian,IPL,2021,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,480.0,75.0,480.0,75.0,2018,40,446,17.84,119.25,22,19,34,7.95,30.5,23.03,19,0,True,True,True,True,3590.0,True,36.5,4.8,7.6
+Liam Livingstone,LS Livingstone,IPL,2021,Rajasthan Royals,All-Rounder,sourced,INR_LACS,75.0,75.0,75.0,75.0,2019,4,70,23.33,145.83,6,5,0,13.0,,,4,0,True,True,True,True,3485.0,True,29.78,0.75,39.71
+James Neesham,JDS Neesham,IPL,2021,Mumbai Indians,All-Rounder,sourced,INR_LACS,50.0,50.0,50.0,50.0,2020,9,61,12.2,95.31,3,2,3,9.96,79.67,48.0,1,0,True,True,True,True,1535.0,True,27.0,0.5,54.0
+Karun Nair,KK Nair,IPL,2021,Kolkata Knight Riders,Batter,sourced,INR_LACS,50.0,50.0,50.0,50.0,2020,73,1480,24.26,128.36,160,39,0,,,,25,0,False,True,True,True,1075.0,True,31.8,0.5,63.6
+Kedar Jadhav,KM Jadhav,IPL,2021,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,200.0,200.0,200.0,200.0,2020,87,1141,22.82,124.16,99,38,0,,,,28,7,False,True,True,True,1075.0,True,15.17,2.0,7.58
+Sam Billings,SW Billings,IPL,2021,Delhi Capitals,Wicketkeeper,sourced,INR_LACS,200.0,200.0,200.0,200.0,2019,22,334,17.58,133.6,31,10,0,,,,13,0,False,True,True,True,1290.0,True,22.49,2.0,11.24
+Mujeeb Ur Rahman,Mujeeb Ur Rahman,IPL,2021,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,150.0,150.0,150.0,150.0,2020,18,11,3.67,78.57,2,0,17,8.24,33.12,24.12,2,0,True,True,True,True,1075.0,True,41.67,1.5,27.78
+Harbhajan Singh,Harbhajan Singh,IPL,2021,Kolkata Knight Riders,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2019,160,829,15.64,138.17,79,42,150,7.05,26.45,22.49,37,0,True,True,True,True,1075.0,True,76.94,2.0,38.47
+Ben Cutting,BCJ Cutting,IPL,2021,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,75.0,75.0,75.0,75.0,2019,21,238,21.64,168.79,15,19,10,9.16,42.9,28.1,10,0,True,True,True,True,1075.0,True,36.46,0.75,48.61
+Pawan Negi,P Negi,IPL,2021,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,50.0,50.0,50.0,50.0,2020,50,365,14.04,126.3,27,16,34,7.87,27.62,21.06,16,0,True,True,True,True,1075.0,True,35.8,0.5,71.6
+Shikhar Dhawan,S Dhawan,IPL,2022,Punjab Kings,Batter,sourced,INR_LACS,825.0,200.0,825.0,200.0,2021,192,5784,34.84,126.59,654,125,4,8.25,16.5,12.0,83,0,True,True,True,True,7200.0,True,38.45,8.25,4.66
+Ravichandran Ashwin,R Ashwin,IPL,2022,Rajasthan Royals,All-Rounder,sourced,INR_LACS,500.0,200.0,500.0,200.0,2021,166,456,11.12,109.88,37,12,145,6.91,27.8,24.12,31,0,True,True,True,True,6200.0,True,48.51,5.0,9.7
+Pat Cummins,PJ Cummins,IPL,2022,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,725.0,200.0,725.0,200.0,2021,37,316,19.75,140.44,19,20,38,8.24,30.13,21.95,7,0,True,True,True,True,4800.0,True,38.59,7.25,5.32
+Kagiso Rabada,K Rabada,IPL,2022,Punjab Kings,Bowler,sourced,INR_LACS,925.0,200.0,925.0,200.0,2021,50,138,13.8,102.99,11,4,79,8.19,19.86,14.54,19,0,True,True,True,True,7200.0,True,56.91,9.25,6.15
+Trent Boult,TA Boult,IPL,2022,Rajasthan Royals,Bowler,sourced,INR_LACS,800.0,200.0,800.0,200.0,2021,62,13,4.33,68.42,0,1,76,8.44,26.29,18.7,22,0,True,True,True,True,6200.0,True,55.58,8.0,6.95
+Shreyas Iyer,SS Iyer,IPL,2022,Kolkata Knight Riders,Batter,sourced,INR_LACS,1225.0,200.0,1225.0,200.0,2021,87,2379,31.3,124.04,197,88,0,,,,34,0,False,True,True,True,4800.0,True,35.83,12.25,2.92
+Mohammed Shami,Mohammed Shami,IPL,2022,Gujarat Titans,Bowler,sourced,INR_LACS,625.0,200.0,625.0,200.0,2021,77,69,6.27,94.52,5,2,79,8.62,30.51,21.24,10,0,True,True,True,True,5200.0,True,55.89,6.25,8.94
+Faf du Plessis,F du Plessis,IPL,2022,Royal Challengers Bangalore,Batter,sourced,INR_LACS,700.0,200.0,700.0,200.0,2021,99,2935,34.94,131.09,266,96,0,16.0,,,67,0,True,True,True,True,5700.0,True,39.07,7.0,5.58
+Quinton de Kock,Q de Kock,IPL,2022,Lucknow Super Giants,Wicketkeeper,sourced,INR_LACS,675.0,200.0,675.0,200.0,2021,77,2259,30.95,130.88,230,83,0,,,,53,14,False,True,True,True,5900.0,True,37.92,6.75,5.62
+David Warner,DA Warner,IPL,2022,Delhi Capitals,Batter,sourced,INR_LACS,625.0,200.0,625.0,200.0,2021,150,5451,40.98,139.84,525,201,0,12.0,,,70,0,True,True,True,True,4750.0,True,44.09,6.25,7.05
+Manish Pandey,MK Pandey,IPL,2022,Lucknow Super Giants,Batter,sourced,INR_LACS,460.0,150.0,460.0,150.0,2021,154,3569,30.5,121.98,309,104,0,,,,75,0,False,True,True,True,5900.0,True,35.05,4.6,7.62
+Shimron Hetmyer,SO Hetmyer,IPL,2022,Rajasthan Royals,Batter,sourced,INR_LACS,850.0,150.0,850.0,150.0,2021,31,517,25.85,151.17,34,31,0,,,,14,0,False,True,True,True,6200.0,True,35.68,8.5,4.2
+Robin Uthappa,RV Uthappa,IPL,2022,Chennai Super Kings,Batter,sourced,INR_LACS,200.0,200.0,200.0,200.0,2021,193,4724,27.95,130.14,462,168,0,,,,87,32,False,True,True,True,4800.0,True,34.42,2.0,17.21
+Jason Roy,JJ Roy,IPL,2022,Gujarat Titans,Batter,sourced,INR_LACS,200.0,200.0,200.0,200.0,2021,13,329,29.91,129.02,39,9,0,,,,8,0,False,True,True,True,5200.0,True,35.55,2.0,17.77
+Devdutt Padikkal,D Padikkal,IPL,2022,Rajasthan Royals,Batter,sourced,INR_LACS,775.0,150.0,775.0,150.0,2021,29,884,31.57,125.04,95,22,0,,,,15,0,False,True,True,True,6200.0,True,36.13,7.75,4.66
+Dwayne Bravo,DJ Bravo,IPL,2022,Chennai Super Kings,All-Rounder,sourced,INR_LACS,440.0,150.0,440.0,150.0,2021,150,1537,22.94,130.25,119,65,167,8.36,24.32,17.45,66,0,True,True,True,True,4800.0,True,54.57,4.4,12.4
+Nitish Rana,N Rana,IPL,2022,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,800.0,150.0,800.0,150.0,2021,77,1820,28.44,132.46,161,89,7,8.03,22.0,16.43,15,0,True,True,True,True,4800.0,True,37.38,8.0,4.67
+Jason Holder,JO Holder,IPL,2022,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,875.0,150.0,875.0,150.0,2021,26,189,14.54,121.15,11,11,35,8.2,22.46,16.43,7,0,True,True,True,True,5900.0,True,35.37,8.75,4.04
+Harshal Patel,HV Patel,IPL,2022,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,1075.0,150.0,1075.0,150.0,2021,62,187,11.0,134.53,11,11,78,8.58,23.18,16.21,14,0,True,True,True,True,5700.0,True,39.85,10.75,3.71
+Deepak Hooda,DJ Hooda,IPL,2022,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,575.0,75.0,575.0,75.0,2021,80,786,16.72,129.49,41,38,9,8.46,50.89,36.11,34,0,True,True,True,True,5900.0,True,33.12,5.75,5.76
+Wanindu Hasaranga,PWH de Silva,IPL,2022,Royal Challengers Bangalore,Batter,sourced,INR_LACS,1075.0,100.0,1075.0,100.0,2021,2,1,1.0,50.0,0,0,0,10.0,,,0,0,True,True,True,True,5700.0,True,6.9,10.75,0.64
+Washington Sundar,Washington Sundar,IPL,2022,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,875.0,150.0,875.0,150.0,2021,42,217,13.56,111.28,17,6,27,6.94,32.11,27.78,8,0,True,True,True,True,6800.0,True,34.96,8.75,4.0
+Krunal Pandya,KH Pandya,IPL,2022,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,825.0,200.0,825.0,200.0,2021,84,1143,22.86,138.55,105,46,51,7.37,34.76,28.31,23,0,True,True,True,True,5900.0,True,42.1,8.25,5.1
+Mitchell Marsh,MR Marsh,IPL,2022,Delhi Capitals,All-Rounder,sourced,INR_LACS,650.0,200.0,650.0,200.0,2020,21,225,17.31,114.21,9,14,20,7.9,21.0,15.95,7,0,True,True,True,True,4750.0,True,34.36,6.5,5.29
+Ambati Rayudu,AT Rayudu,IPL,2022,Chennai Super Kings,Wicketkeeper,sourced,INR_LACS,675.0,200.0,675.0,200.0,2021,175,3916,29.44,127.47,324,149,0,,,,58,2,False,True,True,True,4800.0,True,29.29,6.75,4.34
+Ishan Kishan,Ishan Kishan,IPL,2022,Mumbai Indians,Wicketkeeper,sourced,INR_LACS,1525.0,150.0,1525.0,150.0,2021,61,1452,28.47,136.34,121,74,0,,,,20,2,False,True,True,True,4800.0,True,29.67,15.25,1.95
+Jonny Bairstow,JM Bairstow,IPL,2022,Punjab Kings,Wicketkeeper,sourced,INR_LACS,675.0,100.0,675.0,100.0,2021,28,1038,41.52,142.19,99,46,0,,,,18,4,False,True,True,True,7200.0,True,38.29,6.75,5.67
+Dinesh Karthik,KD Karthik,IPL,2022,Royal Challengers Bangalore,Wicketkeeper,sourced,INR_LACS,550.0,200.0,550.0,200.0,2021,213,4047,25.78,129.63,399,112,0,,,,123,32,False,True,True,True,5700.0,True,46.36,5.5,8.43
+Nicholas Pooran,N Pooran,IPL,2022,Sunrisers Hyderabad,Wicketkeeper,sourced,INR_LACS,1075.0,150.0,1075.0,150.0,2021,33,606,20.9,154.2,36,44,0,,,,11,0,False,True,True,True,6800.0,True,26.28,10.75,2.44
+T. Natarajan,T Natarajan,IPL,2022,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,400.0,100.0,400.0,100.0,2021,24,3,,60.0,0,0,20,8.24,34.4,25.05,2,0,True,False,True,True,6800.0,True,42.4,4.0,10.6
+Deepak Chahar,DL Chahar,IPL,2022,Chennai Super Kings,Bowler,sourced,INR_LACS,1400.0,200.0,1400.0,200.0,2021,63,79,11.29,138.6,2,6,59,7.8,29.19,22.44,10,0,True,True,True,True,4800.0,True,52.96,14.0,3.78
+Prasidh Krishna,M Prasidh Krishna,IPL,2022,Rajasthan Royals,Bowler,sourced,INR_LACS,1000.0,100.0,1000.0,100.0,2021,34,3,1.5,25.0,0,0,31,9.27,37.48,24.26,7,0,True,True,True,True,6200.0,True,42.63,10.0,4.26
+Lockie Ferguson,LH Ferguson,IPL,2022,Gujarat Titans,Bowler,sourced,INR_LACS,1000.0,200.0,1000.0,200.0,2021,22,62,,151.22,5,2,26,8.09,25.0,18.54,3,0,True,False,True,True,5200.0,True,44.22,10.0,4.42
+Josh Hazlewood,JR Hazlewood,IPL,2022,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,775.0,150.0,775.0,150.0,2021,12,0,,,0,0,12,7.93,29.75,22.5,1,0,True,False,False,True,5700.0,True,41.19,7.75,5.31
+Mark Wood,MA Wood,IPL,2022,Lucknow Super Giants,Bowler,sourced,INR_LACS,750.0,200.0,750.0,200.0,2018,1,1,1.0,33.33,0,0,0,12.25,,,1,0,True,True,True,True,5900.0,True,27.98,7.5,3.73
+Bhuvneshwar Kumar,B Kumar,IPL,2022,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,420.0,200.0,420.0,200.0,2021,132,217,8.35,96.88,20,3,142,7.3,25.27,20.77,22,0,True,True,True,True,6800.0,True,74.4,4.2,17.71
+Shardul Thakur,SN Thakur,IPL,2022,Delhi Capitals,Bowler,sourced,INR_LACS,1075.0,200.0,1075.0,200.0,2021,61,53,6.62,112.77,5,1,67,8.89,27.87,18.81,15,0,True,True,True,True,4750.0,True,52.32,10.75,4.87
+Mustafizur Rahman,Mustafizur Rahman,IPL,2022,Delhi Capitals,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2021,38,9,9.0,52.94,0,1,38,7.84,29.5,22.58,3,0,True,True,True,True,4750.0,True,47.74,2.0,23.87
+Kuldeep Yadav,Kuldeep Yadav,IPL,2022,Delhi Capitals,Bowler,sourced,INR_LACS,200.0,100.0,200.0,100.0,2020,45,57,9.5,76.0,5,0,40,8.28,30.9,22.4,6,0,True,True,True,True,4750.0,True,47.18,2.0,23.59
+Rahul Chahar,RD Chahar,IPL,2022,Punjab Kings,Bowler,sourced,INR_LACS,525.0,75.0,525.0,75.0,2021,42,31,4.43,96.88,3,0,43,7.45,25.98,20.93,10,0,True,True,True,True,7200.0,True,49.89,5.25,9.5
+Yuzvendra Chahal,YS Chahal,IPL,2022,Rajasthan Royals,Bowler,sourced,INR_LACS,650.0,200.0,650.0,200.0,2021,114,32,5.33,41.03,0,0,139,7.59,22.28,17.61,21,0,True,True,True,True,6200.0,True,72.97,6.5,11.23
+Priyam Garg,PK Garg,IPL,2022,Sunrisers Hyderabad,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,19,205,14.64,110.81,11,7,0,,,,8,0,False,True,True,True,6800.0,True,23.36,0.2,116.8
+Rahul Tripathi,RA Tripathi,IPL,2022,Sunrisers Hyderabad,Batter,sourced,INR_LACS,850.0,40.0,850.0,40.0,2021,62,1385,26.13,136.32,136,48,0,12.0,,,23,0,True,True,True,True,6800.0,True,34.01,8.5,4.0
+Riyan Parag,R Parag,IPL,2022,Rajasthan Royals,All-Rounder,sourced,INR_LACS,380.0,30.0,380.0,30.0,2021,30,339,16.95,118.53,29,12,3,9.97,73.67,44.33,12,0,True,True,True,True,6200.0,True,29.98,3.8,7.89
+Abhishek Sharma,Abhishek Sharma,IPL,2022,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,650.0,20.0,650.0,20.0,2021,22,241,17.21,139.31,17,12,7,8.0,25.14,18.86,5,0,True,True,True,True,6800.0,True,34.2,6.5,5.26
+Sarfaraz Khan,SN Khan,IPL,2022,Delhi Capitals,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,40,441,23.21,138.24,50,11,0,18.0,,,6,0,True,True,True,True,4750.0,True,23.32,0.2,116.6
+M. Shahrukh Khan,M Shahrukh Khan,IPL,2022,Punjab Kings,All-Rounder,sourced,INR_LACS,900.0,40.0,900.0,40.0,2021,11,153,21.86,134.21,9,10,0,,,,4,0,False,True,True,True,7200.0,True,15.49,9.0,1.72
+Shivam Mavi,Shivam Mavi,IPL,2022,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,725.0,40.0,725.0,40.0,2021,26,48,6.86,97.96,4,2,25,8.3,28.6,20.68,12,0,True,True,True,True,4800.0,True,30.09,7.25,4.15
+Rahul Tewatia,R Tewatia,IPL,2022,Gujarat Titans,All-Rounder,sourced,INR_LACS,900.0,40.0,900.0,40.0,2021,48,521,23.68,124.34,35,26,32,7.71,31.88,24.81,22,0,True,True,True,True,5200.0,True,38.75,9.0,4.31
+Kamlesh Nagarkoti,KL Nagarkoti,IPL,2022,Delhi Capitals,All-Rounder,sourced,INR_LACS,110.0,40.0,110.0,40.0,2021,11,22,5.5,66.67,1,0,5,9.14,51.2,33.6,7,0,True,True,True,True,4750.0,True,24.25,1.1,22.05
+Harpreet Brar,Harpreet Brar,IPL,2022,Punjab Kings,All-Rounder,sourced,INR_LACS,380.0,20.0,380.0,20.0,2021,10,84,,120.0,5,3,5,7.12,45.6,38.4,2,0,True,False,True,True,7200.0,True,35.7,3.8,9.39
+Shahbaz Ahmed,Shahbaz Ahmed,IPL,2022,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,240.0,30.0,240.0,30.0,2021,13,60,8.57,111.11,4,2,9,6.8,15.11,13.33,4,0,True,True,True,True,5700.0,True,31.3,2.4,13.04
+K. S. Bharat,KS Bharat,IPL,2022,Delhi Capitals,Wicketkeeper,sourced,INR_LACS,200.0,20.0,200.0,20.0,2021,8,191,38.2,122.44,10,8,0,,,,4,1,False,True,True,True,4750.0,True,32.71,2.0,16.36
+Anuj Rawat,Anuj Rawat,IPL,2022,Royal Challengers Bangalore,Wicketkeeper,sourced,INR_LACS,340.0,20.0,340.0,20.0,2021,2,0,0.0,0.0,0,0,0,,,,4,0,False,True,True,True,5700.0,True,0.0,3.4,0.0
+Prabhsimran Singh,P Simran Singh,IPL,2022,Punjab Kings,Wicketkeeper,sourced,INR_LACS,60.0,20.0,60.0,20.0,2021,5,50,10.0,90.91,4,2,0,,,,2,0,False,True,True,True,7200.0,True,14.29,0.6,23.82
+Sheldon Jackson,SP Jackson,IPL,2022,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,60.0,30.0,60.0,30.0,2017,4,38,19.0,122.58,5,0,0,,,,2,0,False,True,True,True,4800.0,True,22.13,0.6,36.88
+Basil Thampi,Basil Thampi,IPL,2022,Mumbai Indians,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2020,20,32,32.0,91.43,1,1,17,9.8,40.82,25.0,3,0,True,True,True,True,4800.0,True,37.96,0.3,126.53
+Kartik Tyagi,Kartik Tyagi,IPL,2022,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,400.0,20.0,400.0,20.0,2021,14,6,3.0,60.0,0,0,13,9.41,37.77,24.08,3,0,True,True,True,True,6800.0,True,37.91,4.0,9.48
+KM Asif,KM Asif,IPL,2022,Chennai Super Kings,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,3,0,,,0,0,4,11.39,23.25,12.25,0,0,True,False,False,True,4800.0,True,31.0,0.2,155.0
+Avesh Khan,Avesh Khan,IPL,2022,Lucknow Super Giants,Bowler,sourced,INR_LACS,1000.0,20.0,1000.0,20.0,2021,25,9,9.0,150.0,2,0,29,8.23,25.83,18.83,4,0,True,True,True,True,5900.0,True,44.62,10.0,4.46
+Ishan Porel,IC Porel,IPL,2022,Punjab Kings,Bowler,sourced,INR_LACS,25.0,20.0,25.0,20.0,2021,1,0,,,0,0,1,9.75,39.0,24.0,0,0,True,False,False,True,7200.0,True,34.17,0.25,136.68
+Tushar Deshpande,TU Deshpande,IPL,2022,Chennai Super Kings,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2020,5,21,21.0,175.0,2,1,3,11.29,64.0,34.0,1,0,True,True,True,True,4800.0,True,30.99,0.2,154.95
+Ankit Rajpoot,AS Rajpoot,IPL,2022,Lucknow Super Giants,Bowler,sourced,INR_LACS,50.0,20.0,50.0,20.0,2020,29,26,5.2,63.41,2,1,24,9.23,33.92,22.04,3,0,True,True,True,True,5900.0,True,41.02,0.5,82.04
+Murugan Ashwin,M Ashwin,IPL,2022,Mumbai Indians,Bowler,sourced,INR_LACS,160.0,20.0,160.0,20.0,2021,34,23,3.83,63.89,1,0,26,7.87,33.88,25.85,7,0,True,True,True,True,4800.0,True,44.75,1.6,27.97
+K. C. Cariappa,KC Cariappa,IPL,2022,Rajasthan Royals,Bowler,sourced,INR_LACS,30.0,20.0,30.0,20.0,2019,11,24,8.0,114.29,0,2,8,9.67,43.5,27.0,2,0,True,True,True,True,6200.0,True,36.07,0.3,120.23
+Shreyas Gopal,S Gopal,IPL,2022,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,75.0,20.0,75.0,20.0,2021,48,171,12.21,105.56,17,2,48,8.04,26.0,19.4,5,0,True,True,True,True,6800.0,True,49.71,0.75,66.28
+Jagadeesha Suchith,J Suchith,IPL,2022,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,17,68,34.0,128.3,6,3,12,8.88,38.5,26.0,14,0,True,True,True,True,6800.0,True,38.93,0.2,194.65
+Aiden Markram,AK Markram,IPL,2022,Sunrisers Hyderabad,Batter,sourced,INR_LACS,260.0,100.0,260.0,100.0,2021,6,146,29.2,122.69,12,4,0,5.75,,,3,0,True,True,True,True,6800.0,True,34.3,2.6,13.19
+Ajinkya Rahane,AM Rahane,IPL,2022,Kolkata Knight Riders,Batter,sourced,INR_LACS,100.0,100.0,100.0,100.0,2021,151,3941,31.53,121.34,417,76,1,5.0,5.0,6.0,60,0,True,True,True,True,4800.0,True,35.64,1.0,35.64
+Mandeep Singh,Mandeep Singh,IPL,2022,Delhi Capitals,Batter,sourced,INR_LACS,110.0,50.0,110.0,50.0,2021,105,1674,22.03,124.09,172,37,0,13.0,,,37,0,True,True,True,True,4750.0,True,29.82,1.1,27.11
+Liam Livingstone,LS Livingstone,IPL,2022,Punjab Kings,All-Rounder,sourced,INR_LACS,1150.0,100.0,1150.0,100.0,2021,9,112,14.0,125.84,9,6,0,13.0,,,7,0,True,True,True,True,7200.0,True,25.51,11.5,2.22
+Jayant Yadav,J Yadav,IPL,2022,Gujarat Titans,All-Rounder,sourced,INR_LACS,170.0,100.0,170.0,100.0,2021,19,40,10.0,111.11,2,1,8,6.87,52.38,45.75,5,0,True,True,True,True,5200.0,True,31.56,1.7,18.56
+Vijay Shankar,V Shankar,IPL,2022,Gujarat Titans,All-Rounder,sourced,INR_LACS,140.0,50.0,140.0,50.0,2021,47,712,26.37,126.24,45,28,9,8.62,36.56,25.44,24,0,True,True,True,True,5200.0,True,35.86,1.4,25.61
+Marco Jansen,M Jansen,IPL,2022,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,420.0,50.0,420.0,50.0,2021,2,0,0.0,0.0,0,0,2,7.5,22.5,18.0,1,0,True,True,True,True,6800.0,True,19.89,4.2,4.74
+Shivam Dube,S Dube,IPL,2022,Chennai Super Kings,All-Rounder,sourced,INR_LACS,400.0,50.0,400.0,50.0,2021,24,399,22.17,120.54,24,22,4,8.3,32.5,23.5,5,0,True,True,True,True,4800.0,True,33.91,4.0,8.48
+Krishnappa Gowtham,K Gowtham,IPL,2022,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,90.0,50.0,90.0,50.0,2021,24,186,14.31,169.09,13,12,13,8.26,43.23,31.38,10,0,True,True,True,True,5900.0,True,35.54,0.9,39.49
+Khaleel Ahmed,KK Ahmed,IPL,2022,Delhi Capitals,Bowler,sourced,INR_LACS,525.0,50.0,525.0,50.0,2021,24,1,0.33,20.0,0,0,32,8.69,24.56,16.97,1,0,True,True,True,True,4750.0,True,44.26,5.25,8.43
+Chetan Sakariya,C Sakariya,IPL,2022,Delhi Capitals,Bowler,sourced,INR_LACS,420.0,50.0,420.0,50.0,2021,14,16,3.2,64.0,2,0,14,8.19,30.43,22.29,4,0,True,True,True,True,4750.0,True,41.06,4.2,9.78
+Sandeep Sharma,Sandeep Sharma,IPL,2022,Punjab Kings,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2021,99,52,8.67,81.25,4,0,112,7.78,25.44,19.62,8,0,True,True,True,True,7200.0,True,65.94,0.5,131.88
+Navdeep Saini,NA Saini,IPL,2022,Rajasthan Royals,Bowler,sourced,INR_LACS,260.0,75.0,260.0,75.0,2021,28,31,10.33,88.57,3,0,18,8.45,46.33,32.89,6,0,True,True,True,True,6200.0,True,41.41,2.6,15.93
+Jaydev Unadkat,JD Unadkat,IPL,2022,Mumbai Indians,Bowler,sourced,INR_LACS,130.0,75.0,130.0,75.0,2021,86,105,11.67,109.38,9,3,85,8.74,30.45,20.89,18,0,True,True,True,True,4800.0,True,57.07,1.3,43.9
+Mayank Markande,M Markande,IPL,2022,Mumbai Indians,Bowler,sourced,INR_LACS,65.0,50.0,65.0,50.0,2021,18,27,9.0,93.1,3,0,16,8.55,28.31,19.88,3,0,True,True,True,True,4800.0,True,40.69,0.65,62.6
+Shahbaz Nadeem,S Nadeem,IPL,2022,Lucknow Super Giants,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2021,72,39,2.79,44.83,2,0,48,7.56,37.17,29.48,11,0,True,True,True,True,5900.0,True,50.85,0.5,101.7
+Rinku Singh,RK Singh,IPL,2022,Kolkata Knight Riders,Batter,sourced,INR_LACS,55.0,20.0,55.0,20.0,2020,10,77,11.0,101.32,6,2,0,,,,8,0,False,True,True,True,4800.0,True,19.81,0.55,36.02
+Manan Vohra,M Vohra,IPL,2022,Lucknow Super Giants,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,53,1054,22.43,130.61,102,41,0,,,,13,0,False,True,True,True,5900.0,True,30.89,0.2,154.45
+Lalit Yadav,Lalit Yadav,IPL,2022,Delhi Capitals,All-Rounder,sourced,INR_LACS,65.0,20.0,65.0,20.0,2021,7,68,34.0,93.15,7,0,4,7.21,25.25,21.0,8,0,True,True,True,True,4750.0,True,37.34,0.65,57.45
+Ripal Patel,RV Patel,IPL,2022,Delhi Capitals,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,2,25,25.0,92.59,3,0,0,7.33,,,1,0,True,True,True,True,4750.0,True,33.75,0.2,168.75
+Mahipal Lomror,MK Lomror,IPL,2022,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,95.0,40.0,95.0,40.0,2021,11,181,22.62,119.87,8,9,1,7.4,74.0,60.0,2,0,True,True,True,True,5700.0,True,34.72,0.95,36.55
+Anukul Roy,AS Roy,IPL,2022,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,1,0,,,0,0,1,5.5,11.0,12.0,4,0,True,False,False,True,4800.0,True,,0.2,
+Rovman Powell,R Powell,IPL,2022,Delhi Capitals,Batter,sourced,INR_LACS,280.0,75.0,280.0,75.0,2017,0,0,,,0,0,0,,,,1,0,False,False,False,True,4750.0,True,,2.8,
+Jofra Archer,JC Archer,IPL,2022,Mumbai Indians,All-Rounder,sourced,INR_LACS,800.0,200.0,800.0,200.0,2020,35,195,15.0,157.26,11,14,46,7.13,21.33,17.93,7,0,True,True,True,True,4800.0,True,40.39,8.0,5.05
+Rishi Dhawan,R Dhawan,IPL,2022,Punjab Kings,All-Rounder,sourced,INR_LACS,55.0,50.0,55.0,50.0,2017,26,153,21.86,113.33,13,4,18,7.87,35.56,27.11,8,0,True,True,True,True,7200.0,True,35.58,0.55,64.69
+Sherfane Rutherford,SE Rutherford,IPL,2022,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,100.0,100.0,100.0,100.0,2019,7,73,14.6,135.19,2,7,1,8.63,59.0,41.0,5,0,True,True,True,True,5700.0,True,31.61,1.0,31.61
+Daniel Sams,DR Sams,IPL,2022,Mumbai Indians,All-Rounder,sourced,INR_LACS,260.0,100.0,260.0,100.0,2021,5,6,3.0,75.0,0,0,1,8.5,153.0,108.0,3,0,True,True,True,True,4800.0,True,24.24,2.6,9.32
+Mitchell Santner,MJ Santner,IPL,2022,Chennai Super Kings,All-Rounder,sourced,INR_LACS,190.0,100.0,190.0,100.0,2021,6,32,32.0,139.13,0,3,6,7.0,24.5,21.0,3,0,True,True,True,True,4800.0,True,40.06,1.9,21.08
+Jason Behrendorff,JP Behrendorff,IPL,2022,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2019,5,0,,,0,0,5,8.68,33.0,22.8,0,0,True,False,False,True,5700.0,True,37.7,0.75,50.27
+Tymal Mills,TS Mills,IPL,2022,Mumbai Indians,Bowler,sourced,INR_LACS,150.0,100.0,150.0,100.0,2017,5,8,2.67,72.73,0,1,5,8.58,30.6,21.4,1,0,True,True,True,True,4800.0,True,37.93,1.5,25.29
+Adam Milne,AF Milne,IPL,2022,Chennai Super Kings,Bowler,sourced,INR_LACS,190.0,150.0,190.0,150.0,2021,9,23,5.75,79.31,0,1,7,9.62,44.0,27.43,7,0,True,True,True,True,4800.0,True,35.95,1.9,18.92
+Tim David,TH David,IPL,2022,Mumbai Indians,Batter,sourced,INR_LACS,825.0,40.0,825.0,40.0,2021,1,1,1.0,33.33,0,0,0,,,,0,0,False,True,True,True,4800.0,True,4.82,8.25,0.58
+Pravin Dubey,P Dubey,IPL,2022,Delhi Capitals,All-Rounder,sourced,INR_LACS,50.0,20.0,50.0,20.0,2020,3,7,,53.85,0,0,0,9.0,,,1,0,True,False,True,True,4750.0,True,24.59,0.5,49.18
+Rasikh Salam Dar,Rasikh Salam,IPL,2022,Kolkata Knight Riders,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2019,1,5,,125.0,0,0,0,10.5,,,1,0,True,False,True,True,4800.0,True,32.14,0.2,160.7
+Sean Abbott,SA Abbott,IPL,2022,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,240.0,20.0,240.0,20.0,2015,2,15,7.5,115.38,1,1,0,11.4,,,0,0,True,True,True,True,6800.0,True,24.65,2.4,10.27
+Alzarri Joseph,AS Joseph,IPL,2022,Gujarat Titans,Bowler,sourced,INR_LACS,240.0,75.0,240.0,75.0,2019,3,15,,115.38,2,0,6,10.04,14.5,8.67,0,0,True,False,True,True,5200.0,True,34.7,2.4,14.46
+Riley Meredith,RP Meredith,IPL,2022,Mumbai Indians,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2021,5,0,,,0,0,4,9.94,42.25,25.5,0,0,True,False,False,True,4800.0,True,34.45,1.0,34.45
+Pradeep Sangwan,PJ Sangwan,IPL,2022,Gujarat Titans,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2018,39,24,3.43,61.54,1,0,35,8.79,33.57,22.91,7,0,True,True,True,True,5200.0,True,44.75,0.2,223.75
+Baltej Singh,NB Singh,IPL,2022,Punjab Kings,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,2,0,,,0,0,1,3.75,15.0,24.0,0,0,True,False,False,True,7200.0,True,48.46,0.2,242.3
+David Miller,DA Miller,IPL,2022,Gujarat Titans,Batter,sourced,INR_LACS,300.0,100.0,300.0,100.0,2021,89,1974,32.36,136.42,137,90,0,,,,58,0,False,True,True,True,5200.0,True,38.07,3.0,12.69
+Sam Billings,SW Billings,IPL,2022,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,200.0,200.0,200.0,200.0,2019,22,334,17.58,133.6,31,10,0,,,,13,0,False,True,True,True,4800.0,True,22.49,2.0,11.24
+Wriddhiman Saha,WP Saha,IPL,2022,Gujarat Titans,Wicketkeeper,sourced,INR_LACS,190.0,100.0,190.0,100.0,2021,132,2110,24.53,128.74,191,69,0,,,,68,20,False,True,True,True,5200.0,True,38.12,1.9,20.06
+Matthew Wade,MS Wade,IPL,2022,Gujarat Titans,Wicketkeeper,sourced,INR_LACS,240.0,200.0,240.0,200.0,2011,3,22,7.33,66.67,0,0,0,,,,0,0,False,True,True,True,5200.0,True,10.47,2.4,4.36
+Anmolpreet Singh,Anmolpreet Singh,IPL,2022,Mumbai Indians,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,1,16,16.0,114.29,2,1,0,,,,1,0,False,True,True,True,4800.0,True,24.68,0.2,123.4
+Narayan Jagadeesan,N Jagadeesan,IPL,2022,Chennai Super Kings,Wicketkeeper,sourced,INR_LACS,20.0,20.0,20.0,20.0,2020,5,33,16.5,113.79,4,0,0,,,,0,0,False,True,True,True,4800.0,True,19.95,0.2,99.75
+Vishnu Vinod,Vishnu Vinod,IPL,2022,Sunrisers Hyderabad,Wicketkeeper,sourced,INR_LACS,50.0,20.0,50.0,20.0,2017,3,19,6.33,73.08,1,1,0,,,,0,2,False,True,True,True,6800.0,True,11.85,0.5,23.7
+Chris Jordan,CJ Jordan,IPL,2022,Chennai Super Kings,Bowler,sourced,INR_LACS,360.0,200.0,360.0,200.0,2021,24,64,9.14,112.28,3,3,25,9.15,28.36,18.6,9,0,True,True,True,True,4800.0,True,41.45,3.6,11.51
+Lungi Ngidi,L Ngidi,IPL,2022,Delhi Capitals,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2021,14,0,,,0,0,25,8.3,17.92,12.96,1,0,True,False,False,True,4750.0,True,43.48,0.5,86.96
+Karn Sharma,KV Sharma,IPL,2022,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2020,68,317,15.1,115.69,18,14,59,7.91,27.29,20.71,12,0,True,True,True,True,5700.0,True,52.7,0.5,105.4
+Alex Hales,AD Hales,IPL,2022,Kolkata Knight Riders,Batter,sourced,INR_LACS,150.0,150.0,150.0,150.0,2018,6,148,24.67,125.42,13,6,0,,,,2,0,False,True,True,True,4800.0,True,31.7,1.5,21.13
+Evin Lewis,E Lewis,IPL,2022,Lucknow Super Giants,Batter,sourced,INR_LACS,200.0,200.0,200.0,200.0,2021,21,581,27.67,138.0,54,33,0,,,,6,0,False,True,True,True,5900.0,True,35.22,2.0,17.61
+Karun Nair,KK Nair,IPL,2022,Rajasthan Royals,Batter,sourced,INR_LACS,140.0,50.0,140.0,50.0,2021,73,1480,24.26,128.36,160,39,0,,,,25,0,False,True,True,True,6200.0,True,31.8,1.4,22.71
+Glenn Phillips,GD Phillips,IPL,2022,Sunrisers Hyderabad,Wicketkeeper,sourced,INR_LACS,150.0,150.0,150.0,150.0,2021,3,26,13.0,78.79,1,2,1,10.0,20.0,12.0,1,0,True,True,True,True,6800.0,True,14.63,1.5,9.75
+Tim Seifert,TL Seifert,IPL,2022,Delhi Capitals,Wicketkeeper,sourced,INR_LACS,50.0,50.0,50.0,50.0,2021,1,2,2.0,50.0,0,0,0,,,,0,0,False,True,True,True,4750.0,True,6.04,0.5,12.08
+Nathan Ellis,NT Ellis,IPL,2022,Punjab Kings,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2021,3,18,18.0,112.5,0,1,1,8.18,90.0,66.0,0,0,True,True,True,True,7200.0,True,37.91,0.75,50.55
+Tejas Baroka,Tejas Baroka,IPL,2022,Rajasthan Royals,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,1,0,,,0,0,0,9.43,,,0,0,True,False,False,True,6200.0,True,34.69,0.2,173.45
+Gurkeerat Singh,Gurkeerat Singh,IPL,2022,Gujarat Titans,Batter,sourced,INR_LACS,50.0,50.0,50.0,50.0,2020,41,511,21.29,121.09,55,11,5,7.46,19.4,15.6,20,1,True,True,True,True,5200.0,True,28.96,0.5,57.92
+Tim Southee,TG Southee,IPL,2022,Kolkata Knight Riders,Bowler,sourced,INR_LACS,150.0,150.0,150.0,150.0,2021,43,118,13.11,124.21,8,4,31,8.68,44.77,30.97,18,0,True,True,True,True,4800.0,True,44.04,1.5,29.36
+Kuldip Yadav,K Yadav,IPL,2022,Rajasthan Royals,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2021,1,0,,0.0,0,0,0,8.0,,,0,0,True,False,True,True,6200.0,True,38.1,0.2,190.5
+Varun Aaron,VR Aaron,IPL,2022,Gujarat Titans,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2020,50,50,10.0,69.44,2,2,42,8.89,34.02,22.95,3,0,True,True,True,True,5200.0,True,46.22,0.5,92.44
+Ramesh Kumar,R Vinay Kumar,IPL,2022,Kolkata Knight Riders,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2018,104,310,11.07,113.14,21,9,105,8.42,28.44,20.26,32,0,True,True,True,True,4800.0,True,62.7,0.2,313.5
+Mohammad Nabi,Mohammad Nabi,IPL,2022,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,100.0,100.0,100.0,100.0,2021,17,186,14.31,153.72,16,10,13,7.14,31.38,26.38,11,0,True,True,True,True,4800.0,True,35.91,1.0,35.91
+Umesh Yadav,UT Yadav,IPL,2022,Kolkata Knight Riders,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2020,121,122,8.71,95.31,11,4,119,8.53,30.2,21.24,29,0,True,True,True,True,4800.0,True,65.86,2.0,32.93
+James Neesham,JDS Neesham,IPL,2022,Rajasthan Royals,All-Rounder,sourced,INR_LACS,150.0,150.0,150.0,150.0,2021,12,61,8.71,92.42,3,2,8,9.24,38.12,24.75,1,0,True,True,True,True,6200.0,True,27.15,1.5,18.1
+Nathan Coulter-Nile,NM Coulter-Nile,IPL,2022,Rajasthan Royals,All-Rounder,sourced,INR_LACS,200.0,200.0,200.0,200.0,2021,38,81,7.36,115.71,7,4,48,7.52,21.92,17.48,10,0,True,True,True,True,6200.0,True,35.09,2.0,17.55
+Siddharth Kaul,S Kaul,IPL,2022,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2021,54,20,5.0,55.56,1,0,58,8.59,29.24,20.43,8,0,True,True,True,True,5700.0,True,50.84,0.75,67.79
+Fabian Allen,FA Allen,IPL,2022,Mumbai Indians,All-Rounder,sourced,INR_LACS,75.0,75.0,75.0,75.0,2021,4,6,6.0,50.0,0,0,1,8.18,90.0,66.0,2,0,True,True,True,True,4800.0,True,24.03,0.75,32.04
+David Willey,DJ Willey,IPL,2022,Royal Challengers Bangalore,All-Rounder,sourced,INR_LACS,200.0,200.0,200.0,200.0,2018,3,0,,,0,0,2,9.5,47.5,30.0,2,0,True,False,False,True,5700.0,True,,2.0,
+Kane Williamson,KS Williamson,IPL,2023,Gujarat Titans,Batter,sourced,INR_LACS,200.0,200.0,200.0,200.0,2022,76,2105,36.29,126.05,183,64,0,10.33,,,39,0,True,True,True,True,,False,39.32,2.0,19.66
+Mayank Agarwal,MA Agarwal,IPL,2023,Sunrisers Hyderabad,Batter,sourced,INR_LACS,825.0,100.0,825.0,100.0,2022,112,2335,22.67,134.58,228,91,0,,,,51,0,False,True,True,True,,False,31.54,8.25,3.82
+Ajinkya Rahane,AM Rahane,IPL,2023,Chennai Super Kings,Batter,sourced,INR_LACS,50.0,50.0,50.0,50.0,2022,158,4074,30.86,120.68,431,80,1,5.0,5.0,6.0,63,0,True,True,True,True,,False,35.12,0.5,70.24
+Sam Curran,SM Curran,IPL,2023,Punjab Kings,All-Rounder,sourced,INR_LACS,1850.0,200.0,1850.0,200.0,2021,32,337,22.47,149.78,30,18,32,9.21,31.09,20.25,9,0,True,True,True,True,,False,38.17,18.5,2.06
+Odean Smith,OF Smith,IPL,2023,Gujarat Titans,All-Rounder,sourced,INR_LACS,50.0,50.0,50.0,50.0,2022,6,51,17.0,115.91,1,5,6,11.87,29.67,15.0,2,0,True,True,True,True,,False,27.94,0.5,55.88
+Jason Holder,JO Holder,IPL,2023,Rajasthan Royals,All-Rounder,sourced,INR_LACS,575.0,200.0,575.0,200.0,2022,38,247,13.0,123.5,13,17,49,8.57,24.02,16.82,11,0,True,True,True,True,,False,36.28,5.75,6.31
+Ben Stokes,BA Stokes,IPL,2023,Chennai Super Kings,All-Rounder,sourced,INR_LACS,1625.0,200.0,1625.0,200.0,2021,43,920,25.56,134.5,79,32,28,8.56,34.79,24.39,21,0,True,True,True,True,,False,38.5,16.25,2.37
+Nicholas Pooran,N Pooran,IPL,2023,Lucknow Super Giants,Wicketkeeper,sourced,INR_LACS,1600.0,200.0,1600.0,200.0,2022,47,912,24.65,150.74,52,65,0,,,,19,1,False,True,True,True,,False,28.5,16.0,1.78
+Heinrich Klaasen,H Klaasen,IPL,2023,Sunrisers Hyderabad,Wicketkeeper,sourced,INR_LACS,525.0,100.0,525.0,100.0,2019,7,66,13.2,115.79,5,1,0,,,,4,4,False,True,True,True,,False,20.94,5.25,3.99
+Jaydev Unadkat,JD Unadkat,IPL,2023,Lucknow Super Giants,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2022,91,164,13.67,123.31,13,6,91,8.79,30.53,20.84,19,0,True,True,True,True,,False,58.41,0.5,116.82
+Jhye Richardson,JA Richardson,IPL,2023,Mumbai Indians,Bowler,sourced,INR_LACS,150.0,150.0,150.0,150.0,2021,3,15,7.5,62.5,2,0,3,10.64,39.0,22.0,1,0,True,True,True,True,,False,32.54,1.5,21.69
+Ishant Sharma,I Sharma,IPL,2023,Delhi Capitals,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2021,93,55,9.17,90.16,4,2,72,8.12,37.51,27.74,16,0,True,True,True,True,,False,55.37,0.5,110.74
+Adil Rashid,AU Rashid,IPL,2023,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2021,1,0,,,0,0,0,11.67,,,0,0,True,False,False,True,,False,29.36,2.0,14.68
+Mayank Markande,M Markande,IPL,2023,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2022,20,27,9.0,93.1,3,0,17,8.5,30.0,21.18,5,0,True,True,True,True,,False,41.05,0.5,82.1
+N Jagadeesan,N Jagadeesan,IPL,2023,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,90.0,20.0,90.0,20.0,2022,7,73,24.33,110.61,7,1,0,,,,0,0,False,True,True,True,,False,23.7,0.9,26.33
+K. S. Bharat,KS Bharat,IPL,2023,Gujarat Titans,Wicketkeeper,sourced,INR_LACS,120.0,20.0,120.0,20.0,2022,10,199,28.43,122.09,12,8,0,,,,4,1,False,True,True,True,,False,27.6,1.2,23.0
+Vaibhav Arora,VG Arora,IPL,2023,Kolkata Knight Riders,Bowler,sourced,INR_LACS,60.0,20.0,60.0,20.0,2022,5,5,2.5,38.46,0,0,3,9.2,54.67,35.67,1,0,True,True,True,True,,False,35.97,0.6,59.95
+Shivam Mavi,Shivam Mavi,IPL,2023,Gujarat Titans,Bowler,sourced,INR_LACS,600.0,40.0,600.0,40.0,2022,32,51,5.67,91.07,4,2,30,8.71,31.4,21.63,16,0,True,True,True,True,,False,43.72,6.0,7.29
+Manish Pandey,MK Pandey,IPL,2023,Delhi Capitals,Batter,sourced,INR_LACS,240.0,100.0,240.0,100.0,2022,160,3657,29.73,121.66,318,106,0,,,,78,0,False,True,True,True,,False,34.51,2.4,14.38
+Romario Shepherd,R Shepherd,IPL,2023,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,50.0,50.0,50.0,50.0,2022,3,58,29.0,141.46,2,5,3,10.89,32.67,18.0,0,0,True,True,True,True,,False,34.23,0.5,68.46
+Daniel Sams,DR Sams,IPL,2023,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,75.0,75.0,75.0,75.0,2022,16,44,4.89,100.0,1,3,14,8.72,37.36,25.71,10,0,True,True,True,True,,False,27.74,0.75,36.99
+Kyle Jamieson,KA Jamieson,IPL,2023,Chennai Super Kings,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2021,9,65,16.25,118.18,5,3,9,9.61,29.89,18.67,2,0,True,True,True,True,,False,36.46,1.0,36.46
+Piyush Chawla,PP Chawla,IPL,2023,Mumbai Indians,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2021,165,584,11.68,111.03,54,18,157,7.88,27.39,20.85,35,0,True,True,True,True,,False,76.67,0.5,153.34
+Amit Mishra,A Mishra,IPL,2023,Lucknow Super Giants,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2021,154,362,11.68,93.06,29,5,166,7.35,23.95,19.55,18,0,True,True,True,True,,False,80.13,0.5,160.26
+Prerak Mankad,PN Mankad,IPL,2023,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,180.0,20.0,180.0,20.0,2022,1,4,,400.0,1,0,0,,,,1,0,False,False,True,True,,False,50.0,1.8,27.78
+Vishnu Vinod,Vishnu Vinod,IPL,2023,Mumbai Indians,Wicketkeeper,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,3,19,6.33,73.08,1,1,0,,,,0,2,False,True,True,True,,False,11.85,0.2,59.25
+Rajan Kumar,R Vinay Kumar,IPL,2023,Royal Challengers Bangalore,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2018,104,310,11.07,113.14,21,9,105,8.42,28.44,20.26,32,0,True,True,True,True,,False,62.7,0.2,313.5
+Mohit Sharma,MM Sharma,IPL,2023,Gujarat Titans,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2020,86,122,8.13,104.27,9,4,92,8.45,26.85,19.07,16,0,True,True,True,True,,False,59.46,0.5,118.92
+Swapnil Singh,Swapnil Singh,IPL,2023,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2017,5,12,4.0,60.0,0,0,1,9.0,90.0,60.0,0,0,True,True,True,True,,False,23.03,0.2,115.15
+David Wiese,D Wiese,IPL,2023,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,100.0,100.0,100.0,100.0,2016,15,127,31.75,141.11,12,4,16,8.68,25.12,17.38,5,0,True,True,True,True,,False,39.32,1.0,39.32
+Kulwant Khejroliya,K Khejroliya,IPL,2023,Kolkata Knight Riders,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2019,5,0,,,0,0,3,9.66,51.0,31.67,0,0,True,False,False,True,,False,34.87,0.2,174.35
+Rilee Rossouw,RR Rossouw,IPL,2023,Delhi Capitals,Batter,sourced,INR_LACS,460.0,200.0,460.0,200.0,2015,5,53,10.6,103.92,3,3,0,,,,3,0,False,True,True,True,,False,19.87,4.6,4.32
+Adam Zampa,A Zampa,IPL,2023,Rajasthan Royals,Bowler,sourced,INR_LACS,150.0,150.0,150.0,150.0,2020,14,5,2.5,62.5,1,0,21,7.74,17.62,13.67,1,0,True,True,True,True,,False,43.84,1.5,29.23
+Anmolpreet Singh,Anmolpreet Singh,IPL,2023,Sunrisers Hyderabad,Batter,sourced,INR_LACS,20.0,20.0,20.0,20.0,2022,3,29,9.67,107.41,3,1,0,,,,1,0,False,True,True,True,,False,19.71,0.2,98.55
+KM Asif,KM Asif,IPL,2023,Rajasthan Royals,Bowler,sourced,INR_LACS,30.0,20.0,30.0,20.0,2021,3,0,,,0,0,4,11.39,23.25,12.25,0,0,True,False,False,True,,False,31.0,0.3,103.33
+Murugan Ashwin,M Ashwin,IPL,2023,Rajasthan Royals,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2022,42,35,3.89,70.0,2,1,35,7.87,31.69,24.17,7,0,True,True,True,True,,False,46.94,0.2,234.7
+Mandeep Singh,Mandeep Singh,IPL,2023,Kolkata Knight Riders,Batter,sourced,INR_LACS,50.0,50.0,50.0,50.0,2022,108,1692,21.42,123.32,176,37,0,13.0,,,38,0,True,True,True,True,,False,29.32,0.5,58.64
+Shakib al Hasan,Shakib Al Hasan,IPL,2023,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,150.0,150.0,150.0,150.0,2021,71,795,19.39,124.41,73,21,63,7.44,29.19,23.56,13,0,True,True,True,True,,False,41.47,1.5,27.65
+Harry Brook,HC Brook,IPL,2024,Delhi Capitals,Batter,sourced,INR_LACS,400.0,200.0,400.0,200.0,2023,11,190,21.11,123.38,23,4,0,,,,3,0,False,True,True,True,2895.0,True,29.13,4.0,7.28
+Travis Head,TM Head,IPL,2024,Sunrisers Hyderabad,Batter,sourced,INR_LACS,680.0,200.0,680.0,200.0,2017,10,205,29.29,138.51,12,8,2,10.12,40.5,24.0,3,0,True,True,True,True,3400.0,True,36.33,6.8,5.34
+Rovman Powell,R Powell,IPL,2024,Rajasthan Royals,Batter,sourced,INR_LACS,740.0,100.0,740.0,100.0,2023,17,257,19.77,146.02,11,22,1,11.67,35.0,18.0,11,0,True,True,True,True,1450.0,True,31.09,7.4,4.2
+Wanindu Hasaranga,PWH de Silva,IPL,2024,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,150.0,150.0,150.0,150.0,2023,26,72,7.2,98.63,7,1,35,8.13,21.37,15.77,1,0,True,True,True,True,3400.0,True,31.66,1.5,21.11
+Shardul Thakur,SN Thakur,IPL,2024,Chennai Super Kings,All-Rounder,sourced,INR_LACS,400.0,200.0,400.0,200.0,2023,86,286,11.92,140.2,25,12,89,9.16,28.76,18.83,25,0,True,True,True,True,3140.0,True,41.15,4.0,10.29
+Pat Cummins,PJ Cummins,IPL,2024,Sunrisers Hyderabad,All-Rounder,sourced,INR_LACS,2050.0,200.0,2050.0,200.0,2022,42,379,18.95,152.21,24,26,45,8.54,30.16,21.18,8,0,True,True,True,True,3400.0,True,39.56,20.5,1.93
+Harshal Patel,HV Patel,IPL,2024,Punjab Kings,All-Rounder,sourced,INR_LACS,1175.0,200.0,1175.0,200.0,2023,91,236,9.83,128.26,15,14,111,8.59,24.07,16.82,18,0,True,True,True,True,2910.0,True,43.09,11.75,3.67
+Daryl Mitchell,DJ Mitchell,IPL,2024,Chennai Super Kings,All-Rounder,sourced,INR_LACS,1400.0,100.0,1400.0,100.0,2022,2,33,16.5,75.0,1,0,0,13.5,,,2,0,True,True,True,True,3140.0,True,22.54,14.0,1.61
+Chris Woakes,CR Woakes,IPL,2024,Punjab Kings,All-Rounder,sourced,INR_LACS,420.0,200.0,420.0,200.0,2021,21,78,13.0,101.3,7,2,30,8.97,21.93,14.67,6,0,True,True,True,True,2910.0,True,32.1,4.2,7.64
+Tristan Stubbs,T Stubbs,IPL,2024,Delhi Capitals,Wicketkeeper,sourced,INR_LACS,50.0,50.0,50.0,50.0,2023,4,27,6.75,77.14,2,0,1,7.0,14.0,12.0,0,0,True,True,True,True,2895.0,True,11.22,0.5,22.44
+K. S. Bharat,KS Bharat,IPL,2024,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,50.0,50.0,50.0,50.0,2023,10,199,28.43,122.09,12,8,0,,,,5,1,False,True,True,True,3270.0,True,27.6,0.5,55.2
+Chetan Sakariya,C Sakariya,IPL,2024,Kolkata Knight Riders,Bowler,sourced,INR_LACS,50.0,50.0,50.0,50.0,2023,19,20,3.33,64.52,3,0,20,8.44,29.95,21.3,6,0,True,True,True,True,3270.0,True,41.93,0.5,83.86
+Alzarri Joseph,AS Joseph,IPL,2024,Royal Challengers Bengaluru,Bowler,sourced,INR_LACS,1150.0,100.0,1150.0,100.0,2023,19,27,27.0,84.38,3,0,20,9.19,28.8,18.8,3,0,True,True,True,True,2325.0,True,40.14,11.5,3.49
+Umesh Yadav,UT Yadav,IPL,2024,Gujarat Titans,Bowler,sourced,INR_LACS,580.0,200.0,580.0,200.0,2023,141,196,9.8,105.38,16,8,136,8.44,30.31,21.54,35,0,True,True,True,True,3815.0,True,70.22,5.8,12.11
+Shivam Mavi,Shivam Mavi,IPL,2024,Lucknow Super Giants,Bowler,sourced,INR_LACS,640.0,50.0,640.0,50.0,2023,32,51,5.67,91.07,4,2,30,8.71,31.4,21.63,17,0,True,True,True,True,1315.0,True,43.72,6.4,6.83
+Mitchell Starc,MA Starc,IPL,2024,Kolkata Knight Riders,Bowler,sourced,INR_LACS,2475.0,200.0,2475.0,200.0,2015,27,96,13.71,97.96,10,0,34,7.17,20.38,17.06,16,0,True,True,True,True,3270.0,True,48.36,24.75,1.95
+Jaydev Unadkat,JD Unadkat,IPL,2024,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,160.0,50.0,160.0,50.0,2023,94,173,13.31,123.57,14,6,91,8.86,31.54,21.36,19,0,True,True,True,True,3400.0,True,58.24,1.6,36.4
+Shahrukh Khan,M Shahrukh Khan,IPL,2024,Gujarat Titans,All-Rounder,sourced,INR_LACS,740.0,20.0,740.0,20.0,2023,33,426,20.29,134.81,26,28,0,,,,14,0,False,True,True,True,3815.0,True,15.01,7.4,2.03
+Ramandeep Singh,Ramandeep Singh,IPL,2024,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2023,5,45,22.5,112.5,3,1,6,9.0,9.0,6.0,3,0,True,True,True,True,3270.0,True,32.93,0.2,164.65
+Ricky Bhui,RK Bhui,IPL,2024,Delhi Capitals,Wicketkeeper,sourced,INR_LACS,20.0,20.0,20.0,20.0,2019,2,7,3.5,41.18,0,0,0,,,,0,0,False,True,True,True,2895.0,True,5.94,0.2,29.7
+Yash Dayal,Yash Dayal,IPL,2024,Royal Challengers Bengaluru,Bowler,sourced,INR_LACS,500.0,20.0,500.0,20.0,2023,14,0,0.0,0.0,0,0,13,10.02,35.46,21.23,2,0,True,True,True,True,2325.0,True,36.46,5.0,7.29
+Kartik Tyagi,Kartik Tyagi,IPL,2024,Gujarat Titans,Bowler,sourced,INR_LACS,500.0,20.0,500.0,20.0,2023,19,13,3.25,81.25,1,0,15,9.98,44.13,26.53,3,0,True,True,True,True,3815.0,True,37.04,5.0,7.41
+Rasikh Dar,Rasikh Salam,IPL,2024,Delhi Capitals,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2022,3,12,12.0,120.0,1,0,0,8.75,,,1,0,True,True,True,True,2895.0,True,36.31,0.2,181.55
+Akash Singh,Akash Singh,IPL,2024,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2023,7,0,,,0,0,5,9.87,45.4,27.6,1,0,True,False,False,True,3400.0,True,34.86,0.2,174.3
+Shreyas Gopal,S Gopal,IPL,2024,Mumbai Indians,Bowler,sourced,INR_LACS,20.0,20.0,20.0,20.0,2022,49,180,12.86,106.51,19,2,49,8.11,26.16,19.37,5,0,True,True,True,True,1775.0,True,49.78,0.2,248.9
+Sherfane Rutherford,SE Rutherford,IPL,2024,Kolkata Knight Riders,Batter,sourced,INR_LACS,150.0,150.0,150.0,150.0,2022,10,106,15.14,101.92,3,8,1,8.63,59.0,41.0,5,0,True,True,True,True,3270.0,True,22.57,1.5,15.05
+Ashton Turner,AJ Turner,IPL,2024,Lucknow Super Giants,Batter,sourced,INR_LACS,100.0,100.0,100.0,100.0,2019,4,3,1.0,30.0,0,0,0,,,,0,0,False,True,True,True,1315.0,True,4.4,1.0,4.4
+Tom Curran,TK Curran,IPL,2024,Royal Challengers Bengaluru,All-Rounder,sourced,INR_LACS,150.0,150.0,150.0,150.0,2021,13,127,25.4,118.69,10,3,13,10.84,33.08,18.31,2,0,True,True,True,True,2325.0,True,32.92,1.5,21.95
+David Willey,DJ Willey,IPL,2024,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,200.0,200.0,200.0,200.0,2023,11,53,26.5,85.48,7,0,6,7.56,45.33,36.0,4,0,True,True,True,True,1315.0,True,34.25,2.0,17.12
+Mustafizur Rahman,Mustafizur Rahman,IPL,2024,Chennai Super Kings,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2023,48,13,13.0,56.52,0,1,47,7.93,30.72,23.23,4,0,True,True,True,True,3140.0,True,49.73,2.0,24.86
+Jhye Richardson,JA Richardson,IPL,2024,Delhi Capitals,Bowler,sourced,INR_LACS,500.0,150.0,500.0,150.0,2021,3,15,7.5,62.5,2,0,3,10.64,39.0,22.0,1,0,True,True,True,True,2895.0,True,32.54,5.0,6.51
+Shashank Singh,Shashank Singh,IPL,2024,Punjab Kings,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2022,10,69,17.25,146.81,5,4,0,10.0,,,3,0,True,True,True,True,2910.0,True,31.44,0.2,157.2
+Manish Pandey,MK Pandey,IPL,2024,Kolkata Knight Riders,Batter,sourced,INR_LACS,50.0,50.0,50.0,50.0,2023,170,3817,28.92,121.1,333,109,0,,,,81,0,False,True,True,True,3270.0,True,33.92,0.5,67.84
+Rilee Rossouw,RR Rossouw,IPL,2024,Punjab Kings,Batter,sourced,INR_LACS,800.0,200.0,800.0,200.0,2023,14,262,21.83,136.46,20,14,0,,,,6,0,False,True,True,True,2910.0,True,31.23,8.0,3.9
+Lockie Ferguson,LH Ferguson,IPL,2024,Royal Challengers Bengaluru,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2023,38,67,33.5,148.89,6,2,39,8.65,30.08,20.87,5,0,True,True,True,True,2325.0,True,46.06,2.0,23.03
+Mujeeb Ur Rahman,Mujeeb Ur Rahman,IPL,2024,Kolkata Knight Riders,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2021,19,12,4.0,80.0,2,0,19,8.18,31.16,22.84,2,0,True,True,True,True,3270.0,True,42.3,2.0,21.15
+Arshad Khan,Arshad Khan (2),IPL,2024,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2023,6,18,9.0,120.0,0,1,5,13.41,38.0,17.0,1,0,True,True,True,True,1315.0,True,23.64,0.2,118.2
+Mohammad Nabi,Mohammad Nabi,IPL,2024,Mumbai Indians,All-Rounder,sourced,INR_LACS,150.0,150.0,150.0,150.0,2021,17,186,14.31,153.72,16,10,13,7.14,31.38,26.38,11,0,True,True,True,True,1775.0,True,35.91,1.5,23.94
+Swapnil Singh,Swapnil Singh,IPL,2024,Royal Challengers Bengaluru,All-Rounder,sourced,INR_LACS,20.0,20.0,20.0,20.0,2023,7,14,4.67,58.33,0,0,1,9.0,108.0,72.0,0,0,True,True,True,True,2325.0,True,23.14,0.2,115.7
+Jos Buttler,JC Buttler,IPL,2025,Gujarat Titans,Wicketkeeper,sourced,INR_LACS,1575.0,200.0,1575.0,200.0,2024,107,3583,37.72,147.45,356,161,0,,,,55,1,False,True,True,True,,False,34.96,15.75,2.22
+Shreyas Iyer,SS Iyer,IPL,2025,Punjab Kings,Batter,sourced,INR_LACS,2675.0,200.0,2675.0,200.0,2024,115,3131,31.95,127.54,272,113,0,7.0,,,49,0,True,True,True,True,,False,36.69,26.75,1.37
+Rishabh Pant,RR Pant,IPL,2025,Lucknow Super Giants,Batter,sourced,INR_LACS,2700.0,200.0,2700.0,200.0,2024,111,3297,35.45,148.85,298,154,0,,,,75,23,False,True,True,True,,False,41.63,27.0,1.54
+Kagiso Rabada,K Rabada,IPL,2025,Gujarat Titans,Bowler,sourced,INR_LACS,1075.0,200.0,1075.0,200.0,2024,80,206,12.12,106.74,16,8,120,8.47,21.49,15.22,26,0,True,True,True,True,,False,66.24,10.75,6.16
+Arshdeep Singh,Arshdeep Singh,IPL,2025,Punjab Kings,Bowler,sourced,INR_LACS,1800.0,200.0,1800.0,200.0,2024,65,29,5.8,72.5,4,0,76,9.03,27.0,17.95,8,0,True,True,True,True,,False,54.18,18.0,3.01
+Mitchell Starc,MA Starc,IPL,2025,Delhi Capitals,Bowler,sourced,INR_LACS,1175.0,200.0,1175.0,200.0,2024,40,105,11.67,96.33,11,0,51,8.21,22.29,16.29,21,0,True,True,True,True,,False,50.03,11.75,4.26
+Yuzvendra Chahal,YS Chahal,IPL,2025,Punjab Kings,Bowler,sourced,INR_LACS,1800.0,200.0,1800.0,200.0,2024,160,37,5.29,43.02,0,0,205,7.84,22.45,17.18,26,0,True,True,True,True,,False,88.48,18.0,4.92
+Liam Livingstone,LS Livingstone,IPL,2025,Royal Challengers Bengaluru,All-Rounder,sourced,INR_LACS,875.0,200.0,875.0,200.0,2024,39,939,28.45,162.46,66,66,11,9.14,35.73,23.45,16,0,True,True,True,True,,False,38.42,8.75,4.39
+David Miller,DA Miller,IPL,2025,Lucknow Super Giants,Batter,sourced,INR_LACS,750.0,150.0,750.0,150.0,2024,130,2924,35.66,139.17,207,134,0,,,,80,0,False,True,True,True,,False,40.55,7.5,5.41
+KL Rahul,KL Rahul,IPL,2025,Delhi Capitals,Wicketkeeper,sourced,INR_LACS,1400.0,200.0,1400.0,200.0,2024,132,4689,44.66,134.55,400,187,0,,,,78,7,False,True,True,True,,False,41.03,14.0,2.93
+Mohammed Shami,Mohammed Shami,IPL,2025,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,1000.0,200.0,1000.0,200.0,2023,110,74,5.69,93.67,6,2,127,8.43,26.93,19.17,17,0,True,True,True,True,,False,68.05,10.0,6.8
+Mohammed Siraj,Mohammed Siraj,IPL,2025,Gujarat Titans,Bowler,sourced,INR_LACS,1225.0,200.0,1225.0,200.0,2024,93,109,10.9,91.6,10,4,93,8.65,30.34,21.05,28,0,True,True,True,True,,False,59.23,12.25,4.84
+Harry Brook,HC Brook,IPL,2025,Delhi Capitals,Batter,inferred,INR_LACS,625.0,200.0,625.0,200.0,2023,11,190,21.11,123.38,23,4,0,,,,3,0,False,True,True,True,,False,29.13,6.25,4.66
+Devon Conway,DP Conway,IPL,2025,Chennai Super Kings,Batter,inferred,INR_LACS,625.0,200.0,625.0,200.0,2023,23,924,48.63,141.28,100,30,0,,,,8,0,False,True,True,True,,False,49.24,6.25,7.88
+Jake Fraser-McGurk,J Fraser-McGurk,IPL,2025,Delhi Capitals,Batter,inferred,INR_LACS,900.0,200.0,900.0,200.0,2024,9,330,36.67,234.04,32,28,0,,,,5,0,False,True,True,True,,False,53.07,9.0,5.9
+Aiden Markram,AK Markram,IPL,2025,Lucknow Super Giants,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2024,44,995,30.15,129.73,73,35,2,8.53,86.0,60.5,24,0,True,True,True,True,,False,35.79,2.0,17.9
+Devdutt Padikkal,D Padikkal,IPL,2025,Royal Challengers Bengaluru,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2024,64,1559,25.15,123.14,170,42,0,,,,28,0,False,True,True,True,,False,31.72,2.0,15.86
+Rahul Tripathi,RA Tripathi,IPL,2025,Chennai Super Kings,Batter,inferred,INR_LACS,340.0,75.0,340.0,75.0,2024,95,2236,27.27,139.31,223,84,0,12.0,,,33,0,True,True,True,True,,False,35.12,3.4,10.33
+Ravichandran Ashwin,R Ashwin,IPL,2025,Chennai Super Kings,Bowler,inferred,INR_LACS,975.0,200.0,975.0,200.0,2024,210,800,13.33,118.52,61,28,180,7.12,29.83,25.13,41,0,True,True,True,True,,False,84.09,9.75,8.62
+Venkatesh Iyer,VR Iyer,IPL,2025,Kolkata Knight Riders,Batter,inferred,INR_LACS,2375.0,200.0,2375.0,200.0,2024,50,1326,31.57,137.13,121,61,3,10.59,47.67,27.0,18,0,True,True,True,True,,False,37.64,23.75,1.58
+Mitchell Marsh,MR Marsh,IPL,2025,Lucknow Super Giants,All-Rounder,inferred,INR_LACS,340.0,200.0,340.0,200.0,2024,42,665,19.56,127.64,48,38,37,8.52,21.49,15.14,10,0,True,True,True,True,,False,37.27,3.4,10.96
+Glenn Maxwell,GJ Maxwell,IPL,2025,Punjab Kings,All-Rounder,inferred,INR_LACS,420.0,200.0,420.0,200.0,2024,134,2772,24.75,156.7,233,160,37,8.28,35.22,25.51,47,0,True,True,True,True,,False,41.06,4.2,9.78
+Harshal Patel,HV Patel,IPL,2025,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,800.0,200.0,800.0,200.0,2024,105,249,9.22,122.66,16,15,135,8.74,23.33,16.01,23,0,True,True,True,True,,False,69.26,8.0,8.66
+Rachin Ravindra,R Ravindra,IPL,2025,Chennai Super Kings,Batter,inferred,INR_LACS,400.0,150.0,400.0,150.0,2024,10,222,22.2,160.87,22,12,0,3.5,,,8,0,True,True,True,True,,False,34.52,4.0,8.63
+Marcus Stoinis,MP Stoinis,IPL,2025,Punjab Kings,All-Rounder,inferred,INR_LACS,1100.0,200.0,1100.0,200.0,2024,96,1866,28.27,142.01,150,91,43,9.52,29.63,18.67,24,0,True,True,True,True,,False,40.54,11.0,3.69
+Quinton de Kock,Q de Kock,IPL,2025,Kolkata Knight Riders,Wicketkeeper,inferred,INR_LACS,360.0,200.0,360.0,200.0,2024,107,3160,30.98,134.18,316,123,0,,,,70,16,False,True,True,True,,False,39.51,3.6,10.98
+Rahmanullah Gurbaz,Rahmanullah Gurbaz,IPL,2025,Kolkata Knight Riders,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2024,13,289,22.23,133.8,24,19,0,,,,15,0,False,True,True,True,,False,31.16,2.0,15.58
+Ishan Kishan,Ishan Kishan,IPL,2025,Sunrisers Hyderabad,Wicketkeeper,inferred,INR_LACS,1125.0,200.0,1125.0,200.0,2024,105,2644,28.43,135.87,255,119,0,,,,52,5,False,True,True,True,,False,31.48,11.25,2.8
+Phil Salt,PD Salt,IPL,2025,Royal Challengers Bengaluru,Batter,inferred,INR_LACS,1150.0,200.0,1150.0,200.0,2024,21,653,34.37,175.54,74,34,0,,,,17,0,False,True,True,True,,False,44.26,11.5,3.85
+Jitesh Sharma,JM Sharma,IPL,2025,Royal Challengers Bengaluru,Wicketkeeper,inferred,INR_LACS,1100.0,100.0,1100.0,100.0,2024,40,730,22.81,151.14,53,45,0,,,,25,4,False,True,True,True,,False,29.46,11.0,2.68
+Khaleel Ahmed,KK Ahmed,IPL,2025,Chennai Super Kings,Bowler,inferred,INR_LACS,480.0,200.0,480.0,200.0,2024,57,1,0.2,14.29,0,0,74,8.84,25.42,17.24,4,0,True,True,True,True,,False,54.14,4.8,11.28
+Jofra Archer,JC Archer,IPL,2025,Rajasthan Royals,Bowler,inferred,INR_LACS,1250.0,200.0,1250.0,200.0,2023,40,199,15.31,155.47,11,14,48,7.43,24.4,19.69,7,0,True,True,True,True,,False,51.16,12.5,4.09
+Trent Boult,TA Boult,IPL,2025,Mumbai Indians,Bowler,inferred,INR_LACS,1250.0,200.0,1250.0,200.0,2024,103,83,10.38,106.41,5,3,121,8.32,26.82,19.35,31,0,True,True,True,True,,False,66.85,12.5,5.35
+Josh Hazlewood,JR Hazlewood,IPL,2025,Royal Challengers Bengaluru,Bowler,inferred,INR_LACS,1250.0,200.0,1250.0,200.0,2023,27,19,,67.86,1,0,35,8.06,23.14,17.23,1,0,True,False,True,True,,False,46.49,12.5,3.72
+Avesh Khan,Avesh Khan,IPL,2025,Lucknow Super Giants,Bowler,inferred,INR_LACS,975.0,200.0,975.0,200.0,2024,62,41,20.5,164.0,3,3,74,8.87,26.68,18.04,9,0,True,True,True,True,,False,54.07,9.75,5.55
+Prasidh Krishna,M Prasidh Krishna,IPL,2025,Gujarat Titans,Bowler,inferred,INR_LACS,950.0,200.0,950.0,200.0,2022,51,9,3.0,37.5,0,0,50,8.93,34.26,23.02,9,0,True,True,True,True,,False,48.08,9.5,5.06
+T. Natarajan,T Natarajan,IPL,2025,Delhi Capitals,Bowler,inferred,INR_LACS,1075.0,200.0,1075.0,200.0,2024,61,3,,60.0,0,0,67,8.84,29.39,19.96,8,0,True,False,True,True,,False,52.44,10.75,4.88
+Anrich Nortje,A Nortje,IPL,2025,Kolkata Knight Riders,Bowler,inferred,INR_LACS,650.0,200.0,650.0,200.0,2024,46,49,8.17,100.0,6,0,60,8.96,26.23,17.57,9,0,True,True,True,True,,False,50.44,6.5,7.76
+Noor Ahmad,Noor Ahmad,IPL,2025,Chennai Super Kings,Bowler,inferred,INR_LACS,1000.0,200.0,1000.0,200.0,2024,23,13,3.25,72.22,2,0,24,8.04,27.46,20.5,6,0,True,True,True,True,,False,43.85,10.0,4.38
+Rahul Chahar,RD Chahar,IPL,2025,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,320.0,100.0,320.0,100.0,2024,78,129,8.06,104.03,13,5,75,7.72,28.55,22.19,20,0,True,True,True,True,,False,57.05,3.2,17.83
+Wanindu Hasaranga,PWH de Silva,IPL,2025,Rajasthan Royals,Bowler,inferred,INR_LACS,525.0,200.0,525.0,200.0,2023,26,72,7.2,98.63,7,1,35,8.13,21.37,15.77,1,0,True,True,True,True,,False,46.32,5.25,8.82
+Maheesh Theekshana,M Theekshana,IPL,2025,Rajasthan Royals,Bowler,inferred,INR_LACS,440.0,200.0,440.0,200.0,2024,27,7,7.0,100.0,0,1,25,7.66,31.88,24.96,4,0,True,True,True,True,,False,45.0,4.4,10.23
+Adam Zampa,A Zampa,IPL,2025,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,240.0,200.0,240.0,200.0,2023,20,15,3.0,62.5,1,0,29,7.99,19.24,14.45,1,0,True,True,True,True,,False,45.19,2.4,18.83
+Abhinav Manohar,A Manohar,IPL,2025,Sunrisers Hyderabad,Batter,inferred,INR_LACS,320.0,30.0,320.0,30.0,2024,19,231,16.5,132.76,21,10,0,,,,10,0,False,True,True,True,,False,27.31,3.2,8.53
+Karun Nair,KK Nair,IPL,2025,Delhi Capitals,Batter,inferred,INR_LACS,50.0,30.0,50.0,30.0,2022,76,1496,23.75,127.75,161,39,0,,,,26,0,False,True,True,True,,False,31.39,0.5,62.78
+Angkrish Raghuvanshi,A Raghuvanshi,IPL,2025,Kolkata Knight Riders,Batter,inferred,INR_LACS,300.0,30.0,300.0,30.0,2024,10,163,23.29,155.24,16,8,0,,,,4,0,False,True,True,True,,False,34.53,3.0,11.51
+Atharva Taide,Atharva Taide,IPL,2025,Sunrisers Hyderabad,Batter,inferred,INR_LACS,30.0,30.0,30.0,30.0,2024,9,247,27.44,147.02,27,8,0,24.0,,,5,0,True,True,True,True,,False,36.2,0.3,120.67
+Nehal Wadhera,N Wadhera,IPL,2025,Punjab Kings,Batter,inferred,INR_LACS,420.0,30.0,420.0,30.0,2024,20,350,23.33,140.0,32,18,0,6.5,,,6,0,True,True,True,True,,False,32.65,4.2,7.77
+Harpreet Brar,Harpreet Brar,IPL,2025,Punjab Kings,Bowler,inferred,INR_LACS,150.0,30.0,150.0,30.0,2024,41,233,21.18,122.63,19,9,25,7.91,35.8,27.16,14,0,True,True,True,True,,False,44.41,1.5,29.61
+Naman Dhir,Naman Dhir,IPL,2025,Mumbai Indians,Batter,inferred,INR_LACS,525.0,30.0,525.0,30.0,2024,7,140,23.33,177.22,12,10,0,11.79,,,3,0,True,True,True,True,,False,37.3,5.25,7.1
+Mahipal Lomror,MK Lomror,IPL,2025,Gujarat Titans,Batter,inferred,INR_LACS,170.0,30.0,170.0,30.0,2024,40,527,18.17,141.29,33,30,1,8.47,127.0,90.0,11,0,True,True,True,True,,False,29.46,1.7,17.33
+Sameer Rizvi,Sameer Rizvi,IPL,2025,Delhi Capitals,Batter,inferred,INR_LACS,95.0,30.0,95.0,30.0,2024,8,51,12.75,118.6,4,2,0,,,,4,0,False,True,True,True,,False,23.1,0.95,24.32
+Abdul Samad,Abdul Samad,IPL,2025,Lucknow Super Giants,Batter,inferred,INR_LACS,420.0,30.0,420.0,30.0,2024,50,579,18.68,145.84,37,36,2,12.56,56.5,27.0,27,0,True,True,True,True,,False,30.36,4.2,7.23
+Vijay Shankar,V Shankar,IPL,2025,Chennai Super Kings,Batter,inferred,INR_LACS,120.0,30.0,120.0,30.0,2024,72,1115,25.34,129.8,80,45,9,8.67,38.22,26.44,33,0,True,True,True,True,,False,32.68,1.2,27.23
+Ashutosh Sharma,Ashutosh Sharma,IPL,2025,Delhi Capitals,Batter,inferred,INR_LACS,380.0,30.0,380.0,30.0,2024,11,189,27.0,167.26,10,15,0,,,,2,0,False,True,True,True,,False,38.44,3.8,10.12
+Kumar Kushagra,Kumar Kushagra,IPL,2025,Gujarat Titans,Batter,inferred,INR_LACS,65.0,30.0,65.0,30.0,2024,4,3,1.0,42.86,0,0,0,,,,1,0,False,True,True,True,,False,6.01,0.65,9.25
+Anuj Rawat,Anuj Rawat,IPL,2025,Gujarat Titans,Batter,inferred,INR_LACS,30.0,30.0,30.0,30.0,2024,24,318,19.88,119.1,26,14,0,,,,18,0,False,True,True,True,,False,27.8,0.3,92.67
+Vishnu Vinod,Vishnu Vinod,IPL,2025,Punjab Kings,Batter,inferred,INR_LACS,95.0,30.0,95.0,30.0,2023,6,56,9.33,98.25,3,3,0,,,,1,2,False,True,True,True,,False,18.34,0.95,19.31
+Vaibhav Arora,VG Arora,IPL,2025,Kolkata Knight Riders,Bowler,inferred,INR_LACS,180.0,30.0,180.0,30.0,2024,20,9,4.5,56.25,0,0,19,9.18,30.84,20.16,5,0,True,True,True,True,,False,39.92,1.8,22.18
+Rasikh Salam Dar,Rasikh Salam,IPL,2025,Royal Challengers Bengaluru,Bowler,inferred,INR_LACS,600.0,30.0,600.0,30.0,2024,11,40,8.0,100.0,5,0,9,10.43,37.67,21.67,2,0,True,True,True,True,,False,34.5,6.0,5.75
+Akash Madhwal,Akash Madhwal,IPL,2025,Rajasthan Royals,Bowler,inferred,INR_LACS,120.0,30.0,120.0,30.0,2024,13,4,,80.0,0,0,19,9.71,22.32,13.79,1,0,True,False,True,True,,False,38.66,1.2,32.22
+Mohit Sharma,MM Sharma,IPL,2025,Delhi Capitals,Bowler,inferred,INR_LACS,220.0,50.0,220.0,50.0,2024,112,124,7.29,93.23,9,4,132,8.67,24.67,17.07,24,0,True,True,True,True,,False,68.7,2.2,31.23
+Simarjeet Singh,Simarjeet Singh,IPL,2025,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,150.0,30.0,150.0,30.0,2024,10,7,7.0,87.5,0,0,9,8.63,28.78,20.0,3,0,True,True,True,True,,False,38.79,1.5,25.86
+Yash Thakur,Yash Thakur,IPL,2025,Punjab Kings,Bowler,inferred,INR_LACS,160.0,30.0,160.0,30.0,2024,19,0,,,0,0,24,10.26,28.79,16.83,2,0,True,False,False,True,,False,38.57,1.6,24.11
+Vijaykumar Vyshak,Vijaykumar Vyshak,IPL,2025,Punjab Kings,Bowler,inferred,INR_LACS,180.0,30.0,180.0,30.0,2024,11,14,7.0,116.67,0,1,13,10.26,30.38,17.77,4,0,True,True,True,True,,False,35.89,1.8,19.94
+Shreyas Gopal,S Gopal,IPL,2025,Chennai Super Kings,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2024,52,180,12.86,106.51,19,2,52,8.17,25.94,19.06,5,0,True,True,True,True,,False,50.37,0.3,167.9
+Mayank Markande,M Markande,IPL,2025,Kolkata Knight Riders,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2024,37,48,16.0,114.29,5,1,37,8.91,28.89,19.46,7,0,True,True,True,True,,False,44.95,0.3,149.83
+Suyash Sharma,Suyash Sharma,IPL,2025,Royal Challengers Bengaluru,Bowler,inferred,INR_LACS,260.0,30.0,260.0,30.0,2024,13,0,,,0,0,10,8.65,37.2,25.8,1,0,True,False,False,True,,False,38.99,2.6,15.0
+Karn Sharma,KV Sharma,IPL,2025,Mumbai Indians,Bowler,inferred,INR_LACS,50.0,50.0,50.0,50.0,2024,84,351,13.5,119.39,20,17,76,8.38,27.46,19.67,17,0,True,True,True,True,,False,55.73,0.5,111.46
+Kumar Kartikeya,K Kartikeya,IPL,2025,Rajasthan Royals,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2023,12,9,4.5,75.0,1,0,10,8.44,32.9,23.4,1,0,True,True,True,True,,False,39.49,0.3,131.63
+Manav Suthar,MJ Suthar,IPL,2025,Gujarat Titans,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2024,1,1,1.0,50.0,0,0,0,13.0,,,0,0,True,True,True,True,,False,26.19,0.3,87.3
+Faf du Plessis,F du Plessis,IPL,2025,Delhi Capitals,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2024,144,4571,35.99,136.37,422,166,0,16.0,,,82,0,True,True,True,True,,False,40.42,2.0,20.21
+Glenn Phillips,GD Phillips,IPL,2025,Gujarat Titans,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2023,8,65,9.29,118.18,3,6,2,8.0,20.0,15.0,3,0,True,True,True,True,,False,20.8,2.0,10.4
+Rovman Powell,R Powell,IPL,2025,Kolkata Knight Riders,Batter,inferred,INR_LACS,150.0,150.0,150.0,150.0,2024,26,360,18.95,147.54,21,28,1,11.67,35.0,18.0,19,0,True,True,True,True,,False,30.75,1.5,20.5
+Ajinkya Rahane,AM Rahane,IPL,2025,Kolkata Knight Riders,Batter,inferred,INR_LACS,150.0,150.0,150.0,150.0,2024,185,4642,30.14,123.42,479,103,1,5.0,5.0,6.0,72,0,True,True,True,True,,False,35.0,1.5,23.33
+Sam Curran,SM Curran,IPL,2025,Chennai Super Kings,All-Rounder,inferred,INR_LACS,240.0,200.0,240.0,200.0,2024,59,883,25.23,136.48,74,37,58,9.65,32.76,20.36,21,0,True,True,True,True,,False,40.88,2.4,17.03
+Marco Jansen,M Jansen,IPL,2025,Punjab Kings,Bowler,inferred,INR_LACS,700.0,125.0,700.0,125.0,2024,21,66,9.43,100.0,5,2,20,9.53,35.75,22.5,13,0,True,True,True,True,,False,39.33,7.0,5.62
+Krunal Pandya,KH Pandya,IPL,2025,Royal Challengers Bengaluru,All-Rounder,inferred,INR_LACS,575.0,200.0,575.0,200.0,2024,127,1647,22.56,132.82,144,61,76,7.37,34.29,27.92,41,0,True,True,True,True,,False,44.69,5.75,7.77
+Nitish Rana,N Rana,IPL,2025,Rajasthan Royals,Batter,inferred,INR_LACS,420.0,150.0,420.0,150.0,2024,107,2636,28.65,135.04,234,132,10,8.4,25.2,18.0,24,0,True,True,True,True,,False,35.48,4.2,8.45
+Washington Sundar,Washington Sundar,IPL,2025,Gujarat Titans,All-Rounder,inferred,INR_LACS,320.0,200.0,320.0,200.0,2024,60,378,13.5,116.31,32,9,37,7.54,35.81,28.49,11,0,True,True,True,True,,False,35.76,3.2,11.18
+Donovan Ferreira,D Ferreira,IPL,2025,Delhi Capitals,Batter,inferred,INR_LACS,75.0,75.0,75.0,75.0,2024,2,8,4.0,72.73,0,0,0,,,,3,0,False,True,True,True,,False,11.69,0.75,15.59
+Deepak Chahar,DL Chahar,IPL,2025,Mumbai Indians,Bowler,inferred,INR_LACS,925.0,200.0,925.0,200.0,2024,81,80,11.43,135.59,2,6,77,7.98,28.84,21.68,11,0,True,True,True,True,,False,56.92,9.25,6.15
+Gerald Coetzee,G Coetzee,IPL,2025,Gujarat Titans,Bowler,inferred,INR_LACS,240.0,125.0,240.0,125.0,2024,10,14,3.5,63.64,0,1,13,10.18,26.23,15.46,1,0,True,True,True,True,,False,36.08,2.4,15.03
+Akash Deep,Akash Deep,IPL,2025,Lucknow Super Giants,Bowler,inferred,INR_LACS,800.0,100.0,800.0,100.0,2024,8,19,9.5,158.33,2,1,7,11.67,45.57,23.43,2,0,True,True,True,True,,False,31.06,8.0,3.88
+Tushar Deshpande,TU Deshpande,IPL,2025,Rajasthan Royals,Bowler,inferred,INR_LACS,650.0,100.0,650.0,100.0,2024,36,21,21.0,150.0,2,1,42,9.65,29.6,18.4,6,0,True,True,True,True,,False,44.41,6.5,6.83
+Lockie Ferguson,LH Ferguson,IPL,2025,Punjab Kings,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2024,45,68,22.67,147.83,6,2,48,8.94,29.75,19.96,9,0,True,True,True,True,,False,47.56,2.0,23.78
+Bhuvneshwar Kumar,B Kumar,IPL,2025,Royal Challengers Bengaluru,Bowler,inferred,INR_LACS,1075.0,200.0,1075.0,200.0,2024,176,306,8.74,93.87,30,3,181,7.56,27.23,21.6,27,0,True,True,True,True,,False,83.29,10.75,7.75
+Mukesh Kumar,Mukesh Kumar,IPL,2025,Delhi Capitals,Bowler,inferred,INR_LACS,800.0,200.0,800.0,200.0,2024,20,10,10.0,55.56,0,0,24,10.44,28.92,16.62,4,0,True,True,True,True,,False,38.14,8.0,4.77
+Shubham Dubey,SB Dubey,IPL,2025,Rajasthan Royals,Batter,sourced,INR_LACS,80.0,30.0,80.0,30.0,2024,4,33,16.5,173.68,3,2,0,,,,0,0,False,True,True,True,,False,32.42,0.8,40.52
+Shaik Rasheed,SK Rasheed,IPL,2025,Chennai Super Kings,Batter,sourced,INR_LACS,30.0,30.0,30.0,30.0,2023,0,0,,,0,0,0,,,,1,0,False,False,False,True,,False,,0.3,
+Anshul Kamboj,A Kamboj,IPL,2025,Chennai Super Kings,All-Rounder,sourced,INR_LACS,340.0,30.0,340.0,30.0,2024,3,2,,100.0,0,0,2,11.4,57.0,30.0,3,0,True,False,True,True,,False,27.74,3.4,8.16
+Arshad Khan,Arshad Khan (2),IPL,2025,Gujarat Titans,All-Rounder,sourced,INR_LACS,130.0,30.0,130.0,30.0,2024,10,101,25.25,146.38,6,6,6,12.49,50.67,24.33,2,0,True,True,True,True,,False,31.78,1.3,24.45
+Darshan Nalkande,DG Nalkande,IPL,2025,Delhi Capitals,All-Rounder,sourced,INR_LACS,30.0,30.0,30.0,30.0,2024,6,12,6.0,100.0,0,1,6,10.57,24.67,14.0,2,0,True,True,True,True,,False,24.92,0.3,83.07
+Anukul Roy,AS Roy,IPL,2025,Kolkata Knight Riders,All-Rounder,sourced,INR_LACS,40.0,30.0,40.0,30.0,2024,10,26,8.67,108.33,3,0,5,8.43,38.2,27.2,8,0,True,True,True,True,,False,28.73,0.4,71.82
+Swapnil Singh,Swapnil Singh,IPL,2025,Royal Challengers Bengaluru,All-Rounder,sourced,INR_LACS,50.0,30.0,50.0,30.0,2024,14,51,10.2,113.33,3,3,7,8.93,34.43,23.14,2,0,True,True,True,True,,False,29.19,0.5,58.38
+Gurnoor Brar,Gurnoor Brar,IPL,2025,Gujarat Titans,Bowler,sourced,INR_LACS,130.0,30.0,130.0,30.0,2023,1,0,,,0,0,0,14.0,,,0,0,True,False,False,True,,False,23.81,1.3,18.32
+Mukesh Choudhary,Mukesh Choudhary,IPL,2025,Chennai Super Kings,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2024,14,6,6.0,100.0,1,0,16,9.7,28.19,17.44,3,0,True,True,True,True,,False,37.95,0.3,126.5
+Arjun Tendulkar,Arjun Tendulkar,IPL,2025,Mumbai Indians,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2024,5,13,13.0,144.44,0,1,3,9.37,38.0,24.33,0,0,True,True,True,True,,False,35.57,0.3,118.57
+Manimaran Siddharth,M Siddharth,IPL,2025,Lucknow Super Giants,Bowler,sourced,INR_LACS,75.0,30.0,75.0,30.0,2024,3,0,,,0,0,1,7.89,71.0,54.0,0,0,True,False,False,True,,False,38.6,0.75,51.47
+Manish Pandey,MK Pandey,IPL,2025,Kolkata Knight Riders,Batter,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,171,3859,29.02,121.24,335,111,0,,,,85,0,False,True,True,True,,False,34.0,0.75,45.33
+Sherfane Rutherford,SE Rutherford,IPL,2025,Gujarat Titans,Batter,sourced,INR_LACS,260.0,150.0,260.0,150.0,2022,10,106,15.14,101.92,3,8,1,8.63,59.0,41.0,5,0,True,True,True,True,,False,22.57,2.6,8.68
+Shahbaz Ahmed,Shahbaz Ahmed,IPL,2025,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,240.0,100.0,240.0,100.0,2024,55,536,19.14,121.82,28,25,21,9.35,39.86,25.57,20,0,True,True,True,True,,False,33.83,2.4,14.1
+Tim David,TH David,IPL,2025,Royal Challengers Bengaluru,All-Rounder,sourced,INR_LACS,300.0,200.0,300.0,200.0,2024,38,659,28.65,170.28,38,46,0,,,,22,0,False,True,True,True,,False,19.94,3.0,6.65
+Deepak Hooda,DJ Hooda,IPL,2025,Chennai Super Kings,All-Rounder,sourced,INR_LACS,170.0,75.0,170.0,75.0,2024,118,1466,18.32,129.51,96,61,10,8.54,53.1,37.3,56,0,True,True,True,True,,False,33.67,1.7,19.81
+Will Jacks,WG Jacks,IPL,2025,Mumbai Indians,All-Rounder,sourced,INR_LACS,525.0,200.0,525.0,200.0,2024,8,230,32.86,175.57,16,18,2,11.11,50.0,27.0,3,0,True,True,True,True,,False,37.23,5.25,7.09
+Azmatullah Omarzai,Azmatullah Omarzai,IPL,2025,Punjab Kings,All-Rounder,sourced,INR_LACS,240.0,150.0,240.0,150.0,2024,7,42,10.5,127.27,2,2,4,8.86,46.5,31.5,0,0,True,True,True,True,,False,29.88,2.4,12.45
+Sai Kishore,R Sai Kishore,IPL,2025,Gujarat Titans,All-Rounder,sourced,INR_LACS,200.0,75.0,200.0,75.0,2024,10,13,13.0,216.67,0,2,13,8.32,19.85,14.31,4,0,True,True,True,True,,False,38.01,2.0,19.0
+Romario Shepherd,R Shepherd,IPL,2025,Royal Challengers Bengaluru,All-Rounder,sourced,INR_LACS,150.0,150.0,150.0,150.0,2024,10,115,23.0,182.54,7,10,4,12.24,64.25,31.5,0,0,True,True,True,True,,False,33.36,1.5,22.24
+Spencer Johnson,SH Johnson,IPL,2025,Kolkata Knight Riders,Bowler,sourced,INR_LACS,280.0,200.0,280.0,200.0,2024,5,6,,85.71,1,0,4,9.44,37.75,24.0,1,0,True,False,True,True,,False,35.64,2.8,12.73
+Umran Malik,Umran Malik,IPL,2025,Kolkata Knight Riders,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,26,23,11.5,143.75,1,2,29,9.4,26.62,17.0,4,0,True,True,True,True,,False,41.84,0.75,55.79
+Ishant Sharma,I Sharma,IPL,2025,Gujarat Titans,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,110,57,9.5,82.61,4,2,92,8.24,34.48,25.1,18,0,True,True,True,True,,False,59.96,0.75,79.95
+Nuwan Thushara,N Thushara,IPL,2025,Royal Challengers Bengaluru,Bowler,sourced,INR_LACS,160.0,75.0,160.0,75.0,2024,7,0,,,0,0,8,9.88,32.12,19.5,1,0,True,False,False,True,,False,35.57,1.6,22.23
+Jaydev Unadkat,JD Unadkat,IPL,2025,Sunrisers Hyderabad,Bowler,sourced,INR_LACS,100.0,100.0,100.0,100.0,2024,105,197,12.31,118.67,16,7,99,8.98,32.21,21.53,19,0,True,True,True,True,,False,59.91,1.0,59.91
+Sachin Baby,Sachin Baby,IPL,2025,Sunrisers Hyderabad,Batter,sourced,INR_LACS,30.0,30.0,30.0,30.0,2021,19,144,16.0,122.03,11,5,2,4.8,4.0,5.0,5,0,True,True,True,True,,False,25.64,0.3,85.47
+Yudhvir Singh,Yudhvir Singh,IPL,2025,Rajasthan Royals,All-Rounder,sourced,INR_LACS,35.0,30.0,35.0,30.0,2024,5,22,5.5,137.5,1,2,4,10.17,30.5,18.0,0,0,True,True,True,True,,False,27.33,0.35,78.09
+Rajvardhan Hangargekar,RS Hangargekar,IPL,2025,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,30.0,30.0,30.0,30.0,2023,2,0,,,0,0,3,10.0,20.0,12.0,0,0,True,False,False,True,,False,,0.3,
+Arshin Kulkarni,AA Kulkarni,IPL,2025,Lucknow Super Giants,All-Rounder,sourced,INR_LACS,30.0,30.0,30.0,30.0,2024,2,9,4.5,112.5,2,0,0,,,,0,0,False,True,True,True,,False,8.49,0.3,28.3
+Akash Singh,Akash Singh,IPL,2025,Lucknow Super Giants,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2023,7,0,,,0,0,5,9.87,45.4,27.6,1,0,True,False,False,True,,False,34.86,0.3,116.2
+Mitchell Santner,MJ Santner,IPL,2025,Mumbai Indians,All-Rounder,sourced,INR_LACS,200.0,200.0,200.0,200.0,2024,18,70,11.67,98.59,4,3,15,6.92,28.13,24.4,6,0,True,True,True,True,,False,32.11,2.0,16.06
+Jayant Yadav,J Yadav,IPL,2025,Gujarat Titans,All-Rounder,sourced,INR_LACS,75.0,75.0,75.0,75.0,2023,20,40,10.0,111.11,2,1,8,6.85,55.62,48.75,7,0,True,True,True,True,,False,31.58,0.75,42.11
+Fazalhaq Farooqi,Fazalhaq Farooqi,IPL,2025,Rajasthan Royals,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2023,7,3,,23.08,0,0,6,8.96,37.83,25.33,1,0,True,False,True,True,,False,37.27,2.0,18.64
+Kwena Maphaka,KT Maphaka,IPL,2025,Rajasthan Royals,Bowler,sourced,INR_LACS,150.0,75.0,150.0,75.0,2024,2,0,,,0,0,1,14.83,89.0,36.0,0,0,True,False,False,True,,False,22.08,1.5,14.72
+Kuldeep Sen,KR Sen,IPL,2025,Punjab Kings,Bowler,sourced,INR_LACS,80.0,75.0,80.0,75.0,2024,12,0,,0.0,0,0,14,9.63,27.64,17.21,3,0,True,False,True,True,,False,37.63,0.8,47.04
+Reece Topley,RJW Topley,IPL,2025,Mumbai Indians,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,5,3,,50.0,0,0,5,10.71,36.4,20.4,1,0,True,False,True,True,,False,32.86,0.75,43.81
+Lizaad Williams,LB Williams,IPL,2025,Mumbai Indians,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,2,1,,50.0,0,0,1,12.0,72.0,36.0,1,0,True,False,True,True,,False,28.82,0.75,38.43
+Praveen Dubey,P Dubey,IPL,2025,Punjab Kings,All-Rounder,sourced,INR_LACS,30.0,30.0,30.0,30.0,2023,4,23,23.0,69.7,2,0,1,8.27,91.0,66.0,1,0,True,True,True,True,,False,30.67,0.3,102.23
+Mohit Rathee,Mohit Rathee,IPL,2025,Royal Challengers Bengaluru,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2023,1,1,,50.0,0,0,0,14.5,,,0,0,True,False,True,True,,False,22.62,0.3,75.4
+Dushmantha Chameera,PVD Chameera,IPL,2025,Delhi Capitals,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,13,43,10.75,153.57,3,3,9,9.19,48.0,31.33,2,0,True,True,True,True,,False,37.46,0.75,49.95
+Nathan Ellis,NT Ellis,IPL,2025,Chennai Super Kings,Bowler,sourced,INR_LACS,200.0,100.0,200.0,100.0,2024,16,19,4.75,76.0,0,1,18,8.61,28.22,19.67,2,0,True,True,True,True,,False,41.03,2.0,20.52
+Shamar Joseph,S Joseph,IPL,2025,Lucknow Super Giants,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,1,0,,,0,0,0,11.75,,,0,0,True,False,False,True,,False,29.17,0.75,38.89
+Raj Angad Bawa,RA Bawa,IPL,2025,Mumbai Indians,All-Rounder,sourced,INR_LACS,30.0,30.0,30.0,30.0,2022,2,11,5.5,78.57,1,0,0,,,,0,0,False,True,True,True,,False,6.7,0.3,22.33
+Kulwant Khejroliya,K Khejroliya,IPL,2025,Gujarat Titans,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2023,7,0,,,0,0,5,10.76,43.4,24.2,0,0,True,False,False,True,,False,32.74,0.3,109.13
+Lungi Ngidi,L Ngidi,IPL,2025,Royal Challengers Bengaluru,Bowler,sourced,INR_LACS,100.0,30.0,100.0,30.0,2021,14,0,,,0,0,25,8.3,17.92,12.96,1,0,True,False,False,True,,False,43.48,1.0,43.48
+Kamlesh Nagarkoti,KL Nagarkoti,IPL,2025,Chennai Super Kings,All-Rounder,sourced,INR_LACS,30.0,30.0,30.0,30.0,2022,12,22,5.5,66.67,1,0,5,9.5,57.0,36.0,9,0,True,True,True,True,,False,23.82,0.3,79.4
+Cameron Green,C Green,IPL,2026,Kolkata Knight Riders,All-Rounder,inferred,INR_LACS,2520.0,200.0,2520.0,200.0,2024,29,707,41.59,153.7,62,32,16,9.08,41.5,27.44,10,0,True,True,True,True,,False,42.82,25.2,1.7
+Sarfaraz Khan,SN Khan,IPL,2026,Chennai Super Kings,Batter,inferred,INR_LACS,75.0,75.0,75.0,75.0,2023,50,585,22.5,130.58,63,14,0,18.0,,,10,0,True,True,True,True,,False,30.93,0.75,41.24
+David Miller,DA Miller,IPL,2026,Delhi Capitals,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2025,141,3077,35.37,138.54,220,138,0,,,,85,0,False,True,True,True,,False,40.29,2.0,20.14
+Prithvi Shaw,PP Shaw,IPL,2026,Delhi Capitals,Batter,inferred,INR_LACS,75.0,75.0,75.0,75.0,2024,79,1892,23.95,147.47,238,61,0,,,,18,0,False,True,True,True,,False,33.99,0.75,45.32
+Wanindu Hasaranga,PWH de Silva,IPL,2026,Lucknow Super Giants,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2025,37,81,5.4,92.05,7,1,46,8.41,24.33,17.35,3,0,True,True,True,True,,False,48.34,2.0,24.17
+Venkatesh Iyer,VR Iyer,IPL,2026,Royal Challengers Bengaluru,Batter,inferred,INR_LACS,700.0,200.0,700.0,200.0,2025,61,1468,29.96,137.32,136,65,3,10.59,47.67,27.0,22,0,True,True,True,True,,False,36.62,7.0,5.23
+Liam Livingstone,LS Livingstone,IPL,2026,Sunrisers Hyderabad,All-Rounder,inferred,INR_LACS,1300.0,200.0,1300.0,200.0,2025,49,1051,26.27,158.76,70,75,13,9.02,36.08,24.0,20,0,True,True,True,True,,False,37.87,13.0,2.91
+Rachin Ravindra,R Ravindra,IPL,2026,Kolkata Knight Riders,Batter,inferred,INR_LACS,200.0,200.0,200.0,200.0,2025,18,413,24.29,143.9,40,16,0,3.5,,,10,0,True,True,True,True,,False,33.76,2.0,16.88
+Quinton de Kock,Q de Kock,IPL,2026,Mumbai Indians,Wicketkeeper,inferred,INR_LACS,100.0,100.0,100.0,100.0,2025,115,3312,30.39,133.98,325,134,0,,,,73,16,False,True,True,True,,False,39.19,1.0,39.19
+Akash Deep,Akash Deep,IPL,2026,Kolkata Knight Riders,Bowler,inferred,INR_LACS,100.0,100.0,100.0,100.0,2025,14,25,8.33,178.57,2,2,10,11.83,54.8,27.8,2,0,True,True,True,True,,False,31.42,1.0,31.42
+Matt Henry,MJ Henry,IPL,2026,Chennai Super Kings,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2024,6,0,,,0,0,2,10.65,90.5,51.0,0,0,True,False,False,True,,False,32.27,2.0,16.14
+Shivam Mavi,Shivam Mavi,IPL,2026,Sunrisers Hyderabad,Bowler,inferred,INR_LACS,75.0,75.0,75.0,75.0,2023,32,51,5.67,91.07,4,2,30,8.71,31.4,21.63,17,0,True,True,True,True,,False,43.72,0.75,58.29
+Anrich Nortje,A Nortje,IPL,2026,Lucknow Super Giants,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2025,48,49,8.17,100.0,6,0,61,9.07,27.16,17.97,10,0,True,True,True,True,,False,50.43,2.0,25.22
+Matheesha Pathirana,M Pathirana,IPL,2026,Kolkata Knight Riders,Bowler,inferred,INR_LACS,1800.0,200.0,1800.0,200.0,2025,32,0,,,0,0,47,8.68,21.62,14.94,9,0,True,False,False,True,,False,47.94,18.0,2.66
+Ravi Bishnoi,Ravi Bishnoi,IPL,2026,Rajasthan Royals,Bowler,inferred,INR_LACS,720.0,200.0,720.0,200.0,2025,77,45,4.5,68.18,2,2,72,8.22,31.07,22.68,23,0,True,True,True,True,,False,55.13,7.2,7.66
+Rahul Chahar,RD Chahar,IPL,2026,Chennai Super Kings,Bowler,inferred,INR_LACS,520.0,100.0,520.0,100.0,2025,79,129,8.06,104.03,13,5,75,7.72,28.67,22.27,20,0,True,True,True,True,,False,57.05,5.2,10.97
+Akeal Hosein,AJ Hosein,IPL,2026,Chennai Super Kings,Bowler,inferred,INR_LACS,200.0,200.0,200.0,200.0,2023,1,16,,160.0,1,1,1,10.0,40.0,24.0,0,0,True,False,True,True,,False,33.58,2.0,16.79
+Ashok Sharma,Ashok Sharma,IPL,2026,Gujarat Titans,,,INR_LACS,90.0,30.0,90.0,30.0,2025,0,0,,,0,0,0,,,,1,0,False,False,False,True,,False,,0.9,
+Kartik Tyagi,Kartik Tyagi,IPL,2026,Kolkata Knight Riders,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2024,20,13,3.25,81.25,1,0,15,10.14,47.53,28.13,3,0,True,True,True,True,,False,36.66,0.3,122.2
+Vignesh Puthur,V Puthur,IPL,2026,Rajasthan Royals,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2025,5,0,,,0,0,6,9.08,18.17,12.0,1,0,True,False,False,True,,False,36.99,0.3,123.3
+Prashant Solanki,PH Solanki,IPL,2026,Kolkata Knight Riders,Bowler,inferred,INR_LACS,30.0,30.0,30.0,30.0,2022,2,0,,,0,0,2,6.33,19.0,18.0,0,0,True,False,False,True,,False,42.56,0.3,141.87
+Rahul Tripathi,RA Tripathi,IPL,2026,Kolkata Knight Riders,Batter,sourced,INR_LACS,75.0,75.0,75.0,75.0,2025,100,2291,26.33,137.85,229,85,0,12.0,,,34,0,True,True,True,True,,False,34.33,0.75,45.77
+Jason Holder,JO Holder,IPL,2026,Gujarat Titans,All-Rounder,sourced,INR_LACS,700.0,200.0,700.0,200.0,2023,46,259,12.33,122.75,13,18,53,8.81,27.57,18.77,14,0,True,True,True,True,,False,36.22,7.0,5.17
+Matthew Short,MW Short,IPL,2026,Chennai Super Kings,All-Rounder,sourced,INR_LACS,150.0,150.0,150.0,150.0,2023,6,117,19.5,127.17,15,4,0,6.25,,,5,0,True,True,True,True,,False,35.41,1.5,23.61
+Tom Banton,T Banton,IPL,2026,Gujarat Titans,Wicketkeeper,sourced,INR_LACS,200.0,200.0,200.0,200.0,2020,2,18,9.0,90.0,1,1,0,,,,0,0,False,True,True,True,,False,13.68,2.0,6.84
+Josh Inglis,JP Inglis,IPL,2026,Lucknow Super Giants,Wicketkeeper,sourced,INR_LACS,860.0,200.0,860.0,200.0,2025,12,278,30.89,162.57,26,16,0,,,,9,1,False,True,True,True,,False,32.93,8.6,3.83
+Tim Seifert,TL Seifert,IPL,2026,Kolkata Knight Riders,Wicketkeeper,sourced,INR_LACS,150.0,150.0,150.0,150.0,2022,3,26,8.67,113.04,4,0,0,,,,1,0,False,True,True,True,,False,15.81,1.5,10.54
+Kyle Jamieson,KA Jamieson,IPL,2026,Delhi Capitals,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2025,13,65,16.25,108.33,5,3,14,9.67,29.71,18.43,2,0,True,True,True,True,,False,37.53,2.0,18.76
+Adam Milne,AF Milne,IPL,2026,Rajasthan Royals,Bowler,sourced,INR_LACS,240.0,200.0,240.0,200.0,2022,10,23,5.75,79.31,0,1,7,9.48,46.71,29.57,7,0,True,True,True,True,,False,36.28,2.4,15.12
+Lungi Ngidi,L Ngidi,IPL,2026,Delhi Capitals,Bowler,sourced,INR_LACS,200.0,200.0,200.0,200.0,2025,16,0,,0.0,0,0,29,8.53,18.24,12.83,1,0,True,False,True,True,,False,43.91,2.0,21.96
+Mustafizur Rahman,Mustafizur Rahman,IPL,2026,Kolkata Knight Riders,Bowler,sourced,INR_LACS,920.0,200.0,920.0,200.0,2025,60,13,6.5,54.17,0,1,65,8.13,28.45,20.98,5,0,True,True,True,True,,False,53.64,9.2,5.83
+Kuldeep Sen,KR Sen,IPL,2026,Rajasthan Royals,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,12,0,,0.0,0,0,14,9.63,27.64,17.21,3,0,True,False,True,True,,False,37.63,0.75,50.17
+Prithvi Raj,Y Prithvi Raj,IPL,2026,Gujarat Titans,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2019,2,0,,0.0,0,0,1,11.4,57.0,30.0,0,0,True,False,True,True,,False,30.24,0.3,100.8
+Praveen Dubey,P Dubey,IPL,2026,Punjab Kings,Bowler,sourced,INR_LACS,30.0,30.0,30.0,30.0,2025,5,23,23.0,69.7,2,0,2,8.54,55.5,39.0,2,0,True,True,True,True,,False,37.3,0.3,124.33
+Luke Wood,L Wood,IPL,2026,Gujarat Titans,Bowler,sourced,INR_LACS,75.0,75.0,75.0,75.0,2024,2,9,,300.0,0,1,1,15.5,93.0,36.0,0,0,True,False,True,True,,False,20.48,0.75,27.31
+Sabbhineni Meghana,S Meghana,WPL,2024,Royal Challengers Bangalore,Batter,inferred,INR_LACS,30.0,,30.0,,2023,6,81,13.5,100.0,14,0,0,,,,0,0,False,True,True,False,,False,21.27,0.3,70.9
+Georgia Wareham,G Wareham,WPL,2024,Royal Challengers Bangalore,Batter,inferred,INR_LACS,40.0,,40.0,,2023,2,30,15.0,83.33,4,0,1,10.74,34.0,19.0,1,0,True,True,True,False,,False,20.16,0.4,50.4
+Poonam Khemnar,PN Khemnar,WPL,2024,UP Warriorz,Batter,inferred,INR_LACS,10.0,,10.0,,2023,1,2,2.0,50.0,0,0,0,,,,0,0,False,True,True,False,,False,7.55,0.1,75.5
+Amandeep Kaur,AB Kaur,WPL,2024,Mumbai Indians,Batter,inferred,INR_LACS,10.0,,10.0,,2023,10,24,8.0,100.0,2,0,0,6.33,,,3,0,True,True,True,False,1775.0,True,17.69,0.1,176.9
+Shabnim Ismail,S Ismail,WPL,2024,Mumbai Indians,Bowler,inferred,INR_LACS,120.0,,120.0,,2023,3,0,,,0,0,3,8.76,30.67,21.0,0,0,True,False,False,False,1775.0,True,37.02,1.2,30.85
+Annabel Sutherland,A Sutherland,WPL,2024,Delhi Capitals,Bowler,inferred,INR_LACS,200.0,,200.0,,2023,4,28,7.0,77.78,2,1,3,11.53,57.0,29.67,0,0,True,True,True,False,2895.0,True,30.42,2.0,15.21
+Ashwani Kumari,Ashwani Kumari,WPL,2024,Delhi Capitals,Bowler,inferred,INR_LACS,10.0,,10.0,,2023,3,5,5.0,100.0,0,0,0,18.0,,,2,0,True,True,True,False,2895.0,True,14.29,0.1,142.9
+Nadine de Klerk,N de Klerk,WPL,2025,Mumbai Indians,Bowler,inferred,INR_LACS,30.0,,30.0,,2024,1,1,1.0,50.0,0,0,2,8.75,17.5,12.0,0,0,True,True,True,False,,False,36.8,0.3,122.67
+Simran Shaikh,Simran Shaikh,WPL,2025,Gujarat Giants,Batter,inferred,INR_LACS,190.0,,190.0,,2023,9,29,5.8,60.42,2,0,0,,,,4,0,False,True,True,False,,False,11.32,1.9,5.96
+Amelia Kerr,AC Kerr,WPL,2026,Mumbai Indians,All-Rounder,inferred,INR_LACS,300.0,,300.0,,2025,29,437,24.28,119.4,51,5,40,7.64,17.9,14.05,12,0,True,True,True,False,,False,39.7,3.0,13.23
+Sajeevan Sajana,S Sajana,WPL,2026,Mumbai Indians,Batter,inferred,INR_LACS,75.0,,75.0,,2025,19,138,17.25,145.26,18,5,3,11.0,11.0,6.0,10,0,True,True,True,False,,False,29.36,0.75,39.15
+Shabnim Ismail,S Ismail,WPL,2026,Mumbai Indians,Bowler,inferred,INR_LACS,60.0,,60.0,,2025,20,12,6.0,133.33,2,0,20,6.83,26.8,23.55,9,0,True,True,True,False,,False,45.76,0.6,76.27
+Saika Ishaque,S Ishaque,WPL,2026,Mumbai Indians,Bowler,inferred,INR_LACS,30.0,,30.0,,2025,22,1,0.33,14.29,0,0,25,7.62,20.68,16.28,3,0,True,True,True,False,,False,45.1,0.3,150.33
+Sanskriti Gupta,S Gupta,WPL,2026,Mumbai Indians,Bowler,inferred,INR_LACS,20.0,,20.0,,2025,10,23,7.67,127.78,3,0,4,6.59,14.0,12.75,5,0,True,True,True,False,,False,42.43,0.2,212.15
+Poonam Khemnar,PN Khemnar,WPL,2026,Mumbai Indians,Batter,inferred,INR_LACS,10.0,,10.0,,2025,10,101,16.83,107.45,13,2,0,7.0,,,3,0,True,True,True,False,,False,24.36,0.1,243.6
+Pooja Vastrakar,P Vastrakar,WPL,2026,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,85.0,,85.0,,2024,16,126,14.0,116.67,11,3,7,7.09,28.86,24.43,1,0,True,True,True,False,,False,41.97,0.85,49.38
+Arundhati Reddy,A Reddy,WPL,2026,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,75.0,,75.0,,2025,20,56,8.0,100.0,6,0,14,8.25,31.14,22.64,6,0,True,True,True,False,,False,40.91,0.75,54.55
+Grace Harris,GM Harris,WPL,2026,Royal Challengers Bangalore,All-Rounder,inferred,INR_LACS,75.0,,75.0,,2025,22,582,32.33,140.24,74,20,13,7.92,28.23,21.38,6,0,True,True,True,False,,False,39.99,0.75,53.32
+Nadine de Klerk,N de Klerk,WPL,2026,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,65.0,,65.0,,2024,1,1,1.0,50.0,0,0,2,8.75,17.5,12.0,0,0,True,True,True,False,,False,36.8,0.65,56.62
+Radha Yadav,RP Yadav,WPL,2026,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,65.0,,65.0,,2025,20,74,12.33,145.1,4,5,14,7.57,27.57,21.86,10,0,True,True,True,False,,False,42.53,0.65,65.43
+Georgia Voll,G Voll,WPL,2026,Royal Challengers Bangalore,Batter,inferred,INR_LACS,60.0,,60.0,,2025,3,154,77.0,167.39,29,1,0,5.33,,,3,0,True,True,True,False,,False,70.92,0.6,118.2
+Dayalan Hemalatha,D Hemalatha,WPL,2026,Royal Challengers Bangalore,Batter,inferred,INR_LACS,30.0,,30.0,,2025,22,293,18.31,125.75,29,11,0,4.0,,,7,0,True,True,True,False,,False,27.61,0.3,92.03
+Prema Rawat,P Rawat,WPL,2026,Royal Challengers Bangalore,Bowler,inferred,INR_LACS,20.0,,20.0,,2025,3,0,,,0,0,1,15.0,45.0,18.0,1,0,True,False,False,False,,False,21.67,0.2,108.35
+Chinelle Henry,CA Henry,WPL,2026,Delhi Capitals,Bowler,inferred,INR_LACS,130.0,,130.0,,2025,7,167,23.86,194.19,12,15,6,8.3,37.33,27.0,3,0,True,True,True,False,,False,38.84,1.3,29.88
+N Charani,N Shree Charani,WPL,2026,Delhi Capitals,Bowler,inferred,INR_LACS,130.0,,130.0,,2025,2,3,,75.0,0,0,4,8.88,17.75,12.0,0,0,True,False,True,False,,False,36.98,1.3,28.45
+Laura Wolvaardt,L Wolvaardt,WPL,2026,Delhi Capitals,Batter,inferred,INR_LACS,110.0,,110.0,,2025,13,342,26.31,125.74,49,7,0,,,,5,0,False,True,True,False,,False,32.8,1.1,29.82
+Sneh Rana,Sneh Rana,WPL,2026,Delhi Capitals,Bowler,inferred,INR_LACS,50.0,,50.0,,2025,17,74,9.25,134.55,8,3,12,8.8,35.33,24.08,6,0,True,True,True,False,,False,39.12,0.5,78.24
+Minnu Mani,M Mani,WPL,2026,Delhi Capitals,Bowler,inferred,INR_LACS,40.0,,40.0,,2025,17,15,3.0,68.18,3,0,9,7.14,23.0,19.33,2,0,True,True,True,False,,False,42.34,0.4,105.85
+Taniyaa Bhatia,T Bhatia,WPL,2026,Delhi Capitals,Wicketkeeper,inferred,INR_LACS,30.0,,30.0,,2024,18,5,1.25,29.41,0,0,0,,,,7,8,False,True,True,False,,False,8.59,0.3,28.63
+Sophie Devine,SFM Devine,WPL,2026,Gujarat Giants,All-Rounder,inferred,INR_LACS,200.0,,200.0,,2024,18,402,23.65,153.44,45,20,9,8.38,29.78,21.33,3,0,True,True,True,False,,False,36.96,2.0,18.48
+Georgia Wareham,G Wareham,WPL,2026,Gujarat Giants,All-Rounder,inferred,INR_LACS,100.0,,100.0,,2025,20,234,23.4,136.05,27,4,20,8.64,26.05,18.1,9,0,True,True,True,False,,False,36.83,1.0,36.83
+Bharti Fulmali,BS Fulmali,WPL,2026,Gujarat Giants,Batter,inferred,INR_LACS,70.0,,70.0,,2025,9,197,49.25,151.54,23,8,0,,,,3,0,False,True,True,False,,False,50.92,0.7,72.74
+Kashvee Gautam,KS Gautam,WPL,2026,Gujarat Giants,Bowler,inferred,INR_LACS,65.0,,65.0,,2025,9,43,10.75,110.26,5,2,11,6.45,18.18,16.91,0,0,True,True,True,False,,False,44.47,0.65,68.42
+Renuka Singh,Renuka Singh,WPL,2026,Gujarat Giants,Bowler,inferred,INR_LACS,60.0,,60.0,,2025,23,7,2.33,46.67,0,0,13,8.34,46.0,33.08,1,0,True,True,True,False,,False,40.46,0.6,67.43
+Kim Garth,KJ Garth,WPL,2026,Gujarat Giants,Bowler,inferred,INR_LACS,50.0,,50.0,,2025,15,71,23.67,89.87,5,0,20,8.05,22.15,16.5,1,0,True,True,True,False,,False,42.85,0.5,85.7
+Yastika Bhatia,YH Bhatia,WPL,2026,Gujarat Giants,Wicketkeeper,inferred,INR_LACS,50.0,,50.0,,2025,28,506,18.74,113.45,80,10,0,,,,12,17,False,True,True,False,,False,31.71,0.5,63.42
+Danni Wyatt,DN Wyatt,WPL,2026,Gujarat Giants,Batter,inferred,INR_LACS,50.0,,50.0,,2025,6,137,22.83,125.69,16,4,0,,,,3,0,False,True,True,False,,False,30.54,0.5,61.08
+Rajeshwari Gayakwad,RS Gayakwad,WPL,2026,Gujarat Giants,Bowler,inferred,INR_LACS,40.0,,40.0,,2025,17,8,8.0,66.67,1,0,13,8.59,39.0,27.23,2,0,True,True,True,False,,False,39.86,0.4,99.65
+Titas Sadhu,TR Sadhu,WPL,2026,Gujarat Giants,Bowler,inferred,INR_LACS,30.0,,30.0,,2025,7,0,0.0,0.0,0,0,4,8.4,31.5,22.5,0,0,True,True,True,False,,False,38.12,0.3,127.07
+Kanika Ahuja,KS Ahuja,WPL,2026,Gujarat Giants,Batter,inferred,INR_LACS,30.0,,30.0,,2025,15,179,16.27,126.95,20,4,3,8.0,24.0,18.0,3,0,True,True,True,False,,False,26.43,0.3,88.1
+Deepti Sharma,DB Sharma,WPL,2026,UP Warriorz,All-Rounder,inferred,INR_LACS,320.0,,320.0,,2025,25,507,28.17,117.63,60,9,27,8.3,29.3,21.19,6,0,True,True,True,False,,False,38.48,3.2,12.02
+Shikha Pandey,S Pandey,WPL,2026,UP Warriorz,Bowler,inferred,INR_LACS,240.0,,240.0,,2025,27,93,23.25,114.81,9,1,30,6.96,23.2,20.0,5,0,True,True,True,False,,False,47.89,2.4,19.95
+Meg Lanning,MM Lanning,WPL,2026,UP Warriorz,Batter,inferred,INR_LACS,190.0,,190.0,,2025,27,952,39.67,127.1,142,11,0,,,,11,0,False,True,True,False,,False,41.65,1.9,21.92
+Phoebe Litchfield,P Litchfield,WPL,2026,UP Warriorz,Batter,inferred,INR_LACS,120.0,,120.0,,2025,14,199,15.31,114.37,23,5,0,,,,7,0,False,True,True,False,,False,24.24,1.2,20.2
+Sophie Ecclestone,S Ecclestone,WPL,2026,UP Warriorz,Bowler,inferred,INR_LACS,85.0,,85.0,,2025,25,188,11.75,120.51,16,8,36,6.66,18.5,16.67,8,0,True,True,True,False,,False,50.07,0.85,58.91
+Deandra Dottin,DJS Dottin,WPL,2026,UP Warriorz,Bowler,inferred,INR_LACS,80.0,,80.0,,2025,8,142,23.67,154.35,17,6,9,8.43,27.78,19.78,1,0,True,True,True,False,,False,39.27,0.8,49.09
+Kiran Navgire,KP Navgire,WPL,2026,UP Warriorz,Batter,inferred,INR_LACS,60.0,,60.0,,2025,25,419,17.46,140.13,44,24,0,,,,6,0,False,True,True,False,,False,28.85,0.6,48.08
+Harleen Deol,H Deol,WPL,2026,UP Warriorz,Batter,inferred,INR_LACS,50.0,,50.0,,2025,20,482,30.12,115.59,65,4,1,10.8,54.0,30.0,5,0,True,True,True,False,,False,34.01,0.5,68.02
+Simran Shaikh,Simran Shaikh,WPL,2026,UP Warriorz,Batter,inferred,INR_LACS,10.0,,10.0,,2025,15,83,8.3,90.22,7,3,0,,,,4,0,False,True,True,False,,False,16.67,0.1,166.7
+Tara Norris,TG Norris,WPL,2026,UP Warriorz,Bowler,inferred,INR_LACS,10.0,,10.0,,2023,5,0,0.0,0.0,0,0,7,8.09,12.71,9.43,0,0,True,True,True,False,,False,39.59,0.1,395.9

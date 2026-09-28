@@ -1,1 +1,1 @@
-["role_enc", "nationality_enc", "age", "iplexperienceyears", "battingavg", "battingsr", "runsscored", "fifties", "hundreds", "wickets", "economyrate", "bowlingavg", "bowlingsr", "basepricecr", "performancescore", "year"]
+["role_enc", "nationality_enc", "year", "career_matches", "battingavg", "battingsr", "runsscored", "fours", "sixes", "wickets", "economyrate", "bowlingavg", "bowlingsr", "catches", "stumpings", "basepricecr", "battingavg_missing", "battingsr_missing", "economyrate_missing", "bowlingavg_missing"]

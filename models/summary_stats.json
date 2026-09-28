@@ -1,11 +1,14 @@
 {
-  "total_records": 1379,
-  "total_sold": 1379,
-  "total_unsold": 0,
-  "avg_price_overall": 2.39,
+  "total_records": 941,
+  "unique_players": 463,
+  "avg_price_overall": 3.15,
   "max_price": 27.0,
   "min_price": 0.1,
   "years": [
+    2009,
+    2010,
+    2011,
+    2012,
     2013,
     2014,
     2015,
@@ -23,23 +26,25 @@
   ],
   "franchises": [
     "Chennai Super Kings",
+    "Deccan Chargers",
     "Delhi Capitals",
     "Gujarat Lions",
     "Gujarat Titans",
+    "Kochi Tuskers Kerala",
     "Kolkata Knight Riders",
     "Lucknow Super Giants",
     "Mumbai Indians",
     "Pune Warriors India",
     "Punjab Kings",
     "Rajasthan Royals",
-    "Rising Pune Supergiant",
+    "Rising Pune Supergiants",
     "Royal Challengers Bengaluru",
     "Sunrisers Hyderabad"
   ],
   "roles": [
     "All-Rounder",
     "Batsman",
-    "Batter",
-    "Bowler"
+    "Bowler",
+    "Wicketkeeper-Batsman"
   ]
 }

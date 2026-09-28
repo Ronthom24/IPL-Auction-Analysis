@@ -1,155 +1,117 @@
-# Power BI Setup Guide — BA Project
-# ================================================
-# Follow these steps exactly after running the Python pipeline
+# Power BI Setup Guide — IPL Auction Intelligence
+
+Follow these steps after running `python data/build_dataset.py` and
+`python notebooks/train_models.py`. Column names below match what those
+scripts actually write to `models/*.csv` — check `models/processed_data.csv`
+yourself before building if you've changed the pipeline.
+
+**Status: this is a build guide, not a shipped dashboard.** No `.pbix` file
+exists in this repo yet. If you build this, save your `.pbix` and update this
+line with where it lives (and a published link, if you share it) — don't let
+a resume bullet claim a dashboard that isn't actually in the repo.
 
 ## STEP 1 — Import Data into Power BI
-# File → Get Data → Text/CSV
-# Import these files (all in the /models/ folder):
-#   - processed_data.csv       (main dataset — 626 rows)
-#   - franchise_efficiency.csv (franchise summary)
-#   - top_value_players.csv    (top 20 value picks)
+File → Get Data → Text/CSV. Import from `/models/`:
+- `processed_data.csv` — main dataset, 941 rows (all real auction records; there is no `is_sold` column — every row is a sold record, see `docs/DATA_QUALITY.md` for why there's no unsold data)
+- `franchise_efficiency.csv` — franchise-level summary (15 franchises, post-rename identities merged)
+- `top_value_players.csv` — top 20 value-index picks
 
-## STEP 2 — Data Types (set these in Power Query Editor)
-# processed_data:
-#   year             → Whole Number
-#   sold_price_cr    → Decimal Number
-#   base_price_cr    → Decimal Number
-#   value_index      → Decimal Number
-#   performance_score→ Decimal Number
-#   is_sold          → Whole Number
+## STEP 2 — Data Types (Power Query Editor)
+`processed_data`:
+| Column | Type |
+|---|---|
+| `year` | Whole Number |
+| `soldpricecr`, `basepricecr` | Decimal Number |
+| `performancescore`, `valueindex` | Decimal Number |
+| `career_matches`, `wickets`, `catches`, `stumpings` | Whole Number |
+| `battingavg_missing`, `battingsr_missing`, `economyrate_missing`, `bowlingavg_missing` | Whole Number (0/1) |
 
-## STEP 3 — DAX Measures (add these in Report View → New Measure)
+## STEP 3 — DAX Measures
 
-# ── Basic KPIs ──────────────────────────────────────────────────────────────
+### Basic KPIs
+```
+Total Auction Records = COUNTROWS(processed_data)
 
-Total Players Auctioned = COUNTROWS(processed_data)
+Avg Sale Price (Cr) = AVERAGE(processed_data[soldpricecr])
 
-Total Players Sold = CALCULATE(COUNTROWS(processed_data), processed_data[is_sold] = 1)
+Max Sale Price (Cr) = MAX(processed_data[soldpricecr])
 
-Avg Sale Price (Cr) = 
-CALCULATE(
-    AVERAGE(processed_data[sold_price_cr]),
-    processed_data[is_sold] = 1
-)
+Avg Value Index = AVERAGE(processed_data[valueindex])
+```
 
-Max Sale Price (Cr) = 
-CALCULATE(
-    MAX(processed_data[sold_price_cr]),
-    processed_data[is_sold] = 1
-)
+There is deliberately no "Unsold Rate %" measure — see
+`docs/DATA_QUALITY.md` for why no unsold data exists in this project.
 
-Unsold Rate % = 
-DIVIDE(
-    CALCULATE(COUNTROWS(processed_data), processed_data[is_sold] = 0),
-    COUNTROWS(processed_data),
-    0
-) * 100
-
-# ── Advanced Measures ────────────────────────────────────────────────────────
-
-Price Growth YoY % = 
+### Advanced measures
+```
+Price Growth YoY % =
 VAR CurrentYear = MAX(processed_data[year])
-VAR CurrentAvg = CALCULATE(AVERAGE(processed_data[sold_price_cr]),
+VAR CurrentAvg = CALCULATE(AVERAGE(processed_data[soldpricecr]),
                             processed_data[year] = CurrentYear)
-VAR PrevAvg = CALCULATE(AVERAGE(processed_data[sold_price_cr]),
+VAR PrevAvg = CALCULATE(AVERAGE(processed_data[soldpricecr]),
                          processed_data[year] = CurrentYear - 1)
 RETURN DIVIDE(CurrentAvg - PrevAvg, PrevAvg, 0) * 100
 
-Avg Value Index = AVERAGE(processed_data[value_index])
-
-Top Value Player = 
+Top Value Player =
 CALCULATE(
-    FIRSTNONBLANK(processed_data[player_name], 1),
-    TOPN(1, processed_data, processed_data[value_index], DESC)
+    FIRSTNONBLANK(processed_data[playername], 1),
+    TOPN(1, processed_data, processed_data[valueindex], DESC)
 )
 
-Franchise Efficiency Rank = 
+-- group by CURRENT_FRANCHISE, not the historical `franchise` column,
+-- so renamed teams (Delhi Daredevils/Capitals etc.) aren't split in two
+Franchise Efficiency Rank =
 RANKX(
-    ALL(processed_data[franchise]),
-    CALCULATE(AVERAGE(processed_data[value_index])),
+    ALL(processed_data[current_franchise]),
+    CALCULATE(AVERAGE(processed_data[valueindex])),
     ,
     DESC
 )
 
-Overseas Premium % = 
-VAR OverseaAvg = CALCULATE(AVERAGE(processed_data[sold_price_cr]),
-                             processed_data[nationality] <> "Indian")
-VAR IndianAvg  = CALCULATE(AVERAGE(processed_data[sold_price_cr]),
+Overseas Premium % =
+VAR OverseasAvg = CALCULATE(AVERAGE(processed_data[soldpricecr]),
+                             processed_data[nationality] = "Overseas")
+VAR IndianAvg   = CALCULATE(AVERAGE(processed_data[soldpricecr]),
                              processed_data[nationality] = "Indian")
-RETURN DIVIDE(OverseaAvg - IndianAvg, IndianAvg, 0) * 100
+RETURN DIVIDE(OverseasAvg - IndianAvg, IndianAvg, 0) * 100
+```
 
-## STEP 4 — Page Layout (create 4 pages)
+## STEP 4 — Page Layout (4 pages)
 
-# PAGE 1 — Executive Overview
-# ─────────────────────────────
-# Top row:  4 KPI cards using measures above
-#   → Total Players Auctioned | Total Players Sold | Avg Sale Price | Max Sale Price
-#
-# Middle row (2 charts):
-#   → Line chart: X=year, Y=Avg Sale Price (Cr) [add secondary line for Median]
-#   → Donut chart: Role breakdown of sold players (Legend=role, Values=count)
-#
-# Bottom row (2 charts):
-#   → Stacked bar: X=year, Y=sold_price_cr sum, Legend=franchise (top 5)
-#   → Map or treemap: franchise → total spend
-#
-# Slicers (right panel): Year (range), Role (checkboxes), Nationality (dropdown)
+**Page 1 — Executive Overview**
+- KPI cards: Total Auction Records | Avg Sale Price | Max Sale Price | Avg Value Index
+- Line chart: X=`year`, Y=Avg Sale Price (add a median measure as a second line)
+- Donut: role breakdown (Legend=`role`, Values=count)
+- Stacked bar: X=`year`, Y=sum(`soldpricecr`), Legend=`current_franchise` (top 6 by total spend)
+- Slicers: Year range, Role, Nationality
 
-# PAGE 2 — Player Deep Dive
-# ─────────────────────────────
-# Top: Scatter chart
-#   → X=performance_score, Y=sold_price_cr, Size=ipl_experience_years
-#   → Color=role, Tooltip=player_name, year, franchise
-#
-# Middle: Table visual
-#   → Columns: player_name, role, nationality, year, batting_avg, batting_sr,
-#              wickets, economy_rate, sold_price_cr, value_index
-#   → Sort by value_index descending by default
-#
-# Bottom: Bar chart — Top 10 players by sold_price_cr for selected filters
+**Page 2 — Player Deep Dive**
+- Scatter: X=`performancescore`, Y=`soldpricecr`, Size=`career_matches`, Color=`role`, Tooltip=`playername`, `year`, `franchise`
+- Table: `playername`, `role`, `nationality`, `year`, `battingavg`, `battingsr`, `wickets`, `economyrate`, `soldpricecr`, `valueindex` — sorted by `valueindex` descending. Note: blank batting/bowling cells are real absences, not errors (see `docs/DATA_QUALITY.md`) — don't apply "replace null with 0" in Power Query, it would fabricate data.
 
-# PAGE 3 — Value Intelligence
-# ─────────────────────────────
-# Bubble chart:
-#   → X=sold_price_cr, Y=performance_score, Bubble size=value_index
-#   → Color=role
-#   → Add reference lines at avg price and avg performance (quadrant view)
-#   → TOP RIGHT quadrant = Stars | BOTTOM LEFT = Bargains
-#
-# Bar chart: Top 15 players by value_index, colored by role
-#
-# Card: "Best Value Player This Year" using Top Value Player measure
-#
-# Table: top_value_players.csv import — show all 20
+**Page 3 — Value Intelligence**
+- Bubble: X=`soldpricecr`, Y=`performancescore`, Bubble size=`valueindex`, Color=`role`. Add a text box calling out that Value Index is a heuristic, not a validated undervaluation signal — same caveat the Streamlit app states.
+- Bar: top 15 by `valueindex`, colored by role
+- Table: import of `top_value_players.csv`, all 20 rows
 
-# PAGE 4 — Franchise Strategy
-# ─────────────────────────────
-# Scatter: X=total_spend, Y=avg_performance (from franchise_efficiency)
-#   → Size=players_bought, Color=avg_value_index, Labels=franchise
-#
-# Bar: Franchise Efficiency Rank (avg_value_index, sorted descending)
-#   → Color-code: green for top 5, red for bottom 5
-#
-# Area chart: yearly total spend by franchise
-#
-# Table: franchise_efficiency.csv — all columns, conditional formatting on avg_value_index
+**Page 4 — Franchise Strategy**
+- Scatter: X=`total_spend`, Y=`avg_performance` (from `franchise_efficiency.csv`), Size=`players_bought`, Color=`avg_value_index`, Labels=`franchise`
+- Bar: Franchise Efficiency Rank, sorted descending, conditional color (green top half / red bottom half)
+- Area chart: yearly total spend by `current_franchise`
+- Table: `franchise_efficiency.csv`, all columns, conditional formatting on `avg_value_index`
 
-## STEP 5 — Formatting Tips for High Marks
-# Theme colors:
-#   Primary:   #378ADD  (blue)
-#   Secondary: #1D9E75  (green)
-#   Accent:    #EF9F27  (amber)
-#   Danger:    #D85A30  (coral)
-#
-# - Use consistent font: Segoe UI
-# - All chart titles: 14pt, bold
-# - Enable gridlines: light gray (#f0ede8)
-# - Add data labels to bar/bar-horizontal charts
-# - Use conditional formatting on value_index column in tables:
-#     → Above average = green background
-#     → Below average = red background
-# - Add tooltips: hover over any player to see their full profile
+## STEP 5 — Formatting
+
+Match the Streamlit app's palette for consistency across both deliverables:
+- Primary: `#3A5CE0` (blue) · Secondary: `#0FB5AE` (teal) · Positive: `#1E9E6B` · Negative: `#D6455B` · Amber: `#E0982A`
+- Font: Segoe UI throughout
+- Chart titles: 14pt, bold
+- Gridlines: light gray (`#E4E7F1`)
+- Data labels on horizontal bar charts
+- Conditional formatting on `valueindex`: above-average = green background, below = red
 
 ## STEP 6 — Publish & Share
-# File → Publish to Power BI Service (free account)
-# Get shareable link → include in report and PPT
+
+File → Publish to Power BI Service. Get the shareable link and put it in
+this file and the README — don't reference a dashboard link that doesn't
+exist yet.

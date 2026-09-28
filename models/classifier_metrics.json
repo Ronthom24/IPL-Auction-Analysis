@@ -1,1 +1,4 @@
-{"accuracy": 1.0, "note": "Only one class in dataset"}
+{
+  "skipped": true,
+  "reason": "Published IPL auction sources list only the players who were bought. There is no complete, structured record of who went unsold in a given year, so a real negative class doesn't exist in the data. Training this would require fabricating unsold rows, which this project does not do. See docs/DATA_QUALITY.md."
+}
